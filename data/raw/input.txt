@@ -1,0 +1,5 @@
+Hadoop is a big data framework.
+Hadoop provides distributed storage.
+MapReduce is used for big data processing.
+Hadoop uses HDFS for storage.
+MapReduce processes data in parallel.
