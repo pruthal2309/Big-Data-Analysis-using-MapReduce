@@ -5,5 +5,6 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "C:/hadoop-3.3.6/share/hadoop/**/*.jar"
-    ]
+    ],
+    "explorer.compactFolders": false
 }
