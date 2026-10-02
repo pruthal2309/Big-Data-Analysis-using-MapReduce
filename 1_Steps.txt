@@ -1,0 +1,25 @@
+This project implements a Hadoop MapReduce WordCount program using Java and Hadoop 3.3.6.
+
+1. input text file -> HDFS -> Mapper -> Shuffle&Sort -> Reducer -> MapReduce Output
+
+    Environment Configuration 
+    JAVA_HOME   = C:\Java\jdk-8.0.492.9-hotspot
+    HADOOP_HOME = C:\hadoop-3.3.6
+
+2. Configure VS Code for Hadoop via ./vscode/settings.json
+3. WordCountMapper -> reads each input line, seperates it into Words 
+4. WordCountReducer -> Recieves each word and associated value with it 
+5. WordCount -> The Driver configures the MapReduce job.
+
+6. Compile JAVA Program : 
+    javac -classpath "%HADOOP_HOME%\share\hadoop\common\*;%HADOOP_HOME%\share\hadoop\common\lib\*;%HADOOP_HOME%\share\hadoop\hdfs\*;%HADOOP_HOME%\share\hadoop\hdfs\lib\*;%HADOOP_HOME%\share\hadoop\mapreduce\*;%HADOOP_HOME%\share\hadoop\mapreduce\lib\*;%HADOOP_HOME%\share\hadoop\yarn\*;%HADOOP_HOME%\share\hadoop\yarn\lib\*" -d bin src\wordCount\*.java
+
+7. Create JAR file for the same
+    jar -cvf wc.jar -C bin .
+
+8. start-all.cmd Start Hadoop 
+
+9. hdfs dfs -mkdir -p /BigData/input
+10. hdfs dfs -put data\raw\input.txt /BigData/input/
+11. Run MapperReducer - hadoop jar wc.jar wordCount.WordCount /BigData/input /BigData/output
+12. 
