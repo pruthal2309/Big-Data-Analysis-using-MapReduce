@@ -1,0 +1,234 @@
+home
+the door
+the shop
+the village
+the bohemians
+learn more
+credits
+var addthis pub jentisdale
+var addthis brand ransom center
+var addthis logo
+var addthis logo background f3f3f3
+var addthis options email favorites facebook google twitter more
+var closeem function
+for sproperty in coldfusion objectcache
+if coldfusion objectcache sproperty cfwindowname undefined
+thiswindow coldfusion window getwindowobject sproperty
+if thiswindow isvisible
+coldfusion window hide sproperty
+var pollanchor function anchor
+if location hash
+if document getelementbyid anchor
+settimeout function pollanchor anchor 500
+return
+else
+location hash anchor
+var modanchor function
+for var i 0 i document getelementsbytagname a length i
+var li document getelementsbytagname a i
+if li onclick
+li onclick document location href li href
+share
+search
+frank shay is on good terms with all the prominent writers artists sculptors etc with all of the mighty who live in or come to the village on a visit most everyone visits his shop to have a look at his queer door
+magazines are published by greenwich artists the oregonian march 26 1922
+in the early 1920s noteworthy visitors to frank shay s bookshop at 4 christopher street began autographing the narrow door that opened onto the shop s office signed by 242 artists writers publishers and other notable habitu s of greenwich village this unusual artifact is now housed at the harry ransom center at the university of texas at austin a literal portal to the past the door reveals the rich mix of innovators from anarchist poets to major commercial publishers that defined this slice of bohemia from 1920 to 1925
+this exhibition reconstructs the bookshop and its community the door is not accompanied by an archive of the bookshop so this project seeks to create a virtual archive on the web artifacts gathered from across the ransom center s collections provide audiences with documentation of the shop s operations and the lives and careers of its customers this is an ongoing project we hope that audience participation will enrich the project with further information explore the door to learn about the lives careers and relationships of almost 200 identified signatures and help us identify those signatures that remain mysteries read the forgotten history of the shop immerse yourself in the village and visualize the many connections among the bohemians who browsed the shop s shelves
+the bookshop door has been in the ransom center s collections for more than 50 years but until the internet made this exhibition possible it had been little studied after the bookshop closed in 1925 the manager and perhaps owner at that point juliet koenig stored the door in her new york apartment in 1960 she sold it to the center through dealer lew david feldman it was added to the center s large christopher morley collection since morley and many of his friends and professional colleagues were patrons of the bookshop in 1972 doctoral student anna lou ashby who was writing a dissertation on morley wrote an article about the door for the center s library chronicle ashby identified a number of signatures and provided a brief history of the shop but since then there appears to have been no further research on the door or the shop
+massive databases of searchable books newspapers and magazines from the 1920s that are now available online have made it possible to identify dozens of the more obscure names on the door in a matter of minutes or hours the internet s flexible structure allows us to more easily reconstruct the community and its complex web of associations the flowering of virtual social networking in recent years inspired us to see how it was now possible to reconstruct a community that was firmly grounded in the physical space of 4 christopher street finally the web enables us to join in one place hundreds of items housed in more than 60 separate collections in the ransom center image metadata and links to catalogs and finding aids ensure that researchers can find these materials and study them further
+the rich resources of the web are of course a bittersweet development for those of us who have long loved browsing talking and learning from each other in bookstores while resources on the internet have fostered this project they have also led directly to the closure of thousands of bookstores over the last decade we hope that telling the story of this shop and its community will encourage audiences to be mindful of the history of bookstores bookselling book buying and the power of place as we experience this moment of enormous change
+molly schwartzburg cline curator of literature
+footer
+position relative
+background url top center no repeat
+width 765px
+padding 8px 20px
+margin 0 auto 10px auto
+color 6b6b6b
+font normal 10px 13px arial sans serif
+footer p
+margin 0 0 3px 0
+footer a
+color ac1a2f
+text decoration none
+footer a hover
+footer a active
+color ac1a2f
+text decoration none
+footer ul links colored
+margin 0 0 3px 0
+color ac1a2f
+footer ul links colored li
+footer ul links plain li
+display inline
+background url right 4px no repeat
+padding right 8px
+footer ul links colored li last
+footer ul links plain li last
+background none
+padding right 0
+footer ul links plain
+margin 0 0 3px 0
+color 6b6b6b
+footer ul links plain a
+color 6b6b6b
+footer ul links plain a hover
+footer ul links plain a active
+color 6b6b6b
+img image right
+float right
+margin 0 0 20px 20px
+conservation
+educator programs
+press
+shop
+contact us
+site map
+terms of use
+web privacy
+function
+var cx 014783873757132787519 6fhrznrfork
+var gcse document createelement script
+gcse type text javascript
+gcse async true
+gcse src cx
+var s document getelementsbytagname script 0
+s parentnode insertbefore gcse s
+var addthis config
+services compact facebook twitter tumblr email favorites reddit pinterest share print more
+ui offset top 0
+ui offset left 0
+ui cobrand ransom center
+data ga property ua 3145820 13
+ui header background f3f3f3
+data track clickback true
+function i s o g r a m i googleanalyticsobject r i r i r function
+i r q i r q push arguments i r l 1 new date a s createelement o
+m s getelementsbytagname o 0 a async 1 a src g m parentnode insertbefore a m
+window document script
+ga create ua 3145820 13 auto
+ga require linkid
+ga set anonymizeip true
+ga send pageview
+var ssaurl https document location protocol pixel programmatictrader com iap b3254dcfad5a525e new image src ssaurl function d var syncurl https document location protocol pixel programmatictrader com dmp asyncpixelsync var iframe d createelement iframe iframe frameelement iframe style csstext width 0 height 0 border 0 iframe src javascript false d body appendchild iframe var doc iframe contentwindow document doc open write doc close document
+gaq push trackpageview
+home
+the door
+the shop
+the village
+the bohemians
+learn more
+credits
+var addthis pub jentisdale
+var addthis brand ransom center
+var addthis logo
+var addthis logo background f3f3f3
+var addthis options email favorites facebook google twitter more
+var closeem function
+for sproperty in coldfusion objectcache
+if coldfusion objectcache sproperty cfwindowname undefined
+thiswindow coldfusion window getwindowobject sproperty
+if thiswindow isvisible
+coldfusion window hide sproperty
+var pollanchor function anchor
+if location hash
+if document getelementbyid anchor
+settimeout function pollanchor anchor 500
+return
+else
+location hash anchor
+var modanchor function
+for var i 0 i document getelementsbytagname a length i
+var li document getelementsbytagname a i
+if li onclick
+li onclick document location href li href
+share
+search
+frank shay is on good terms with all the prominent writers artists sculptors etc with all of the mighty who live in or come to the village on a visit most everyone visits his shop to have a look at his queer door
+magazines are published by greenwich artists the oregonian march 26 1922
+in the early 1920s noteworthy visitors to frank shay s bookshop at 4 christopher street began autographing the narrow door that opened onto the shop s office signed by 242 artists writers publishers and other notable habitu s of greenwich village this unusual artifact is now housed at the harry ransom center at the university of texas at austin a literal portal to the past the door reveals the rich mix of innovators from anarchist poets to major commercial publishers that defined this slice of bohemia from 1920 to 1925
+this exhibition reconstructs the bookshop and its community the door is not accompanied by an archive of the bookshop so this project seeks to create a virtual archive on the web artifacts gathered from across the ransom center s collections provide audiences with documentation of the shop s operations and the lives and careers of its customers this is an ongoing project we hope that audience participation will enrich the project with further information explore the door to learn about the lives careers and relationships of almost 200 identified signatures and help us identify those signatures that remain mysteries read the forgotten history of the shop immerse yourself in the village and visualize the many connections among the bohemians who browsed the shop s shelves
+the bookshop door has been in the ransom center s collections for more than 50 years but until the internet made this exhibition possible it had been little studied after the bookshop closed in 1925 the manager and perhaps owner at that point juliet koenig stored the door in her new york apartment in 1960 she sold it to the center through dealer lew david feldman it was added to the center s large christopher morley collection since morley and many of his friends and professional colleagues were patrons of the bookshop in 1972 doctoral student anna lou ashby who was writing a dissertation on morley wrote an article about the door for the center s library chronicle ashby identified a number of signatures and provided a brief history of the shop but since then there appears to have been no further research on the door or the shop
+massive databases of searchable books newspapers and magazines from the 1920s that are now available online have made it possible to identify dozens of the more obscure names on the door in a matter of minutes or hours the internet s flexible structure allows us to more easily reconstruct the community and its complex web of associations the flowering of virtual social networking in recent years inspired us to see how it was now possible to reconstruct a community that was firmly grounded in the physical space of 4 christopher street finally the web enables us to join in one place hundreds of items housed in more than 60 separate collections in the ransom center image metadata and links to catalogs and finding aids ensure that researchers can find these materials and study them further
+the rich resources of the web are of course a bittersweet development for those of us who have long loved browsing talking and learning from each other in bookstores while resources on the internet have fostered this project they have also led directly to the closure of thousands of bookstores over the last decade we hope that telling the story of this shop and its community will encourage audiences to be mindful of the history of bookstores bookselling book buying and the power of place as we experience this moment of enormous change
+molly schwartzburg cline curator of literature
+footer
+position relative
+background url top center no repeat
+width 765px
+padding 8px 20px
+margin 0 auto 10px auto
+color 6b6b6b
+font normal 10px 13px arial sans serif
+footer p
+margin 0 0 3px 0
+footer a
+color ac1a2f
+text decoration none
+footer a hover
+footer a active
+color ac1a2f
+text decoration none
+footer ul links colored
+margin 0 0 3px 0
+color ac1a2f
+footer ul links colored li
+footer ul links plain li
+display inline
+background url right 4px no repeat
+padding right 8px
+footer ul links colored li last
+footer ul links plain li last
+background none
+padding right 0
+footer ul links plain
+margin 0 0 3px 0
+color 6b6b6b
+footer ul links plain a
+color 6b6b6b
+footer ul links plain a hover
+footer ul links plain a active
+color 6b6b6b
+img image right
+float right
+margin 0 0 20px 20px
+home
+the door
+the shop
+the village
+the bohemians
+learn more
+credits
+home
+the door
+the shop
+the village
+the bohemians
+learn more
+credits
+home
+the door
+the shop
+the village
+the bohemians
+learn more
+credits
+share
+search
+frank shay is on good terms with all the prominent writers artists sculptors etc with all of the mighty who live in or come to the village on a visit most everyone visits his shop to have a look at his queer door
+magazines are published by greenwich artists the oregonian march 26 1922
+frank shay is on good terms with all the prominent writers artists sculptors etc with all of the mighty who live in or come to the village on a visit most everyone visits his shop to have a look at his queer door magazines are published by greenwich artists the oregonian march 26 1922
+in the early 1920s noteworthy visitors to frank shay s bookshop at 4 christopher street began autographing the narrow door that opened onto the shop s office signed by 242 artists writers publishers and other notable habitu s of greenwich village this unusual artifact is now housed at the harry ransom center at the university of texas at austin a literal portal to the past the door reveals the rich mix of innovators from anarchist poets to major commercial publishers that defined this slice of bohemia from 1920 to 1925
+this exhibition reconstructs the bookshop and its community the door is not accompanied by an archive of the bookshop so this project seeks to create a virtual archive on the web artifacts gathered from across the ransom center s collections provide audiences with documentation of the shop s operations and the lives and careers of its customers this is an ongoing project we hope that audience participation will enrich the project with further information explore the door to learn about the lives careers and relationships of almost 200 identified signatures and help us identify those signatures that remain mysteries read the forgotten history of the shop immerse yourself in the village and visualize the many connections among the bohemians who browsed the shop s shelves
+the bookshop door has been in the ransom center s collections for more than 50 years but until the internet made this exhibition possible it had been little studied after the bookshop closed in 1925 the manager and perhaps owner at that point juliet koenig stored the door in her new york apartment in 1960 she sold it to the center through dealer lew david feldman it was added to the center s large christopher morley collection since morley and many of his friends and professional colleagues were patrons of the bookshop in 1972 doctoral student anna lou ashby who was writing a dissertation on morley wrote an article about the door for the center s library chronicle ashby identified a number of signatures and provided a brief history of the shop but since then there appears to have been no further research on the door or the shop
+massive databases of searchable books newspapers and magazines from the 1920s that are now available online have made it possible to identify dozens of the more obscure names on the door in a matter of minutes or hours the internet s flexible structure allows us to more easily reconstruct the community and its complex web of associations the flowering of virtual social networking in recent years inspired us to see how it was now possible to reconstruct a community that was firmly grounded in the physical space of 4 christopher street finally the web enables us to join in one place hundreds of items housed in more than 60 separate collections in the ransom center image metadata and links to catalogs and finding aids ensure that researchers can find these materials and study them further
+the rich resources of the web are of course a bittersweet development for those of us who have long loved browsing talking and learning from each other in bookstores while resources on the internet have fostered this project they have also led directly to the closure of thousands of bookstores over the last decade we hope that telling the story of this shop and its community will encourage audiences to be mindful of the history of bookstores bookselling book buying and the power of place as we experience this moment of enormous change
+molly schwartzburg cline curator of literature
+conservation
+educator programs
+press
+shop
+contact us
+site map
+terms of use
+web privacy

@@ -1,0 +1,3913 @@
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5 advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5 advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction follow matthew sigur on twitter matthewsigur five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims description email notifications are only sent once a day and only if there are new matching items news tips newstips theadvocate comother questions subscriberservices theadvocate com
+googletag cmd push function
+googletag display ad 723261
+googletag cmd push function
+googletag display ad 723261
+googletag cmd push function
+googletag display ad 723261
+googletag cmd push function
+googletag display ad 723261
+googletag cmd push function
+googletag display ad 723261
+googletag cmd push function
+googletag display ad 723261
+you are the owner of this article
+edit article
+add new article
+var oauthors jquery document ready function
+if tnt user loggedin jquery inarray tnt user screenname oauthors 1
+tnt isauthor true
+asset owner content show
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe
+sign in
+view eedition
+home
+news
+business
+communities
+education
+environment
+crime police
+courts
+state politics
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+site search 708412 btn on tnt client clickevent function
+site search 708412 submit
+return false
+site search 708412 on submit function
+filter query
+var squeryfiltered site search 708412 input name q val replace g
+site search 708412 input name q val squeryfiltered
+if site search 708412 term val
+return true
+else
+return false
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710084
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+toggle navigation
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+71
+home
+news
+business
+communities
+ascension
+baker
+east feliciana
+livingston tangipahoa
+mid city
+southeast
+southside
+st francisville
+st helena
+west feliciana
+westside
+zachary
+education
+environment
+crime police
+courts
+state politics
+elections
+legislature
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+jquery document ready function
+var snavcontainer site navbar container
+var sbodycontainer main body container
+var snavheight snavcontainer height
+var iunfixpoint 0
+if tnt client platform ios
+snavcontainer addclass affix sticky
+else
+snavscroll false
+window on scroll mousewheel function
+if snavscroll
+snavscroll true
+settimeout function
+var ifixpoint snavcontainer offset top
+var icurrpoint this scrolltop
+if icurrpoint ifixpoint icurrpoint iunfixpoint
+if snavcontainer hasclass affix
+iunfixpoint ifixpoint
+snavcontainer addclass affix removeclass affix top
+sbodycontainer css margin top snavheight px
+else
+if snavcontainer hasclass affix top
+snavcontainer removeclass affix addclass affix top
+sbodycontainer css margin top 0
+snavscroll false
+25
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707136
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+jquery document ready function
+photo carousel 2f908aa0 6ba3 11e6 a586 93921009975d on show bs modal function e
+fixed leaderboard top container addclass overlay leaderboard
+photo carousel 2f908aa0 6ba3 11e6 a586 93921009975d on hide bs modal function e
+fixed leaderboard top container removeclass overlay leaderboard
+harry connick jr and randy jackson to co host flood relief concert in baton rouge
+by matthew sigur msigur theadvocate com
+matt sigur
+author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d popover
+content author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d content html
+html true
+trigger hover
+placement top
+delay show 100 hide 200
+aug 26 2016 11 15 am
+facebook
+twitter
+sms
+email
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+document ready function
+input q 648667 attr placeholder music plays more
+calendar featured search 649314 term attr placeholder find concerts festivals more search by neighborhood or event type too
+gambit advertising slideshow a on click function e
+e preventdefault
+sections
+home
+news
+opinion
+sports
+entertainment life
+services
+classifieds
+search
+subscribe
+digital advertising
+submission forms
+help contact us
+rss feeds
+media kit
+eedition
+careers
+teacher s link
+our sites
+obituaries
+jobs
+celebrations
+shop
+nie
+classifieds
+homes
+wheels
+pets
+archives
+store
+promote your event
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+you are the owner of this article
+edit article
+add new article
+you are the owner of this article
+edit article
+add new article
+you are the owner of this article
+edit article
+add new article
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe
+sign in
+view eedition
+baton rouge
+baton rouge
+new orleans
+new orleans
+acadiana
+acadiana
+gambit
+gambit
+subscribe
+subscribe
+sign in
+sign in
+view eedition
+view eedition
+home
+news
+business
+communities
+education
+environment
+crime police
+courts
+state politics
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+home
+news
+business
+communities
+education
+environment
+crime police
+courts
+state politics
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+home
+home
+home
+news
+business
+communities
+education
+environment
+crime police
+courts
+state politics
+weather traffic
+news
+news
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+sports
+sports
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+entertainment life
+entertainment life
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+opinion
+opinion
+subscribe
+subscribe
+subscribe
+obituaries
+obituaries
+obituaries
+classifieds
+classifieds
+classifieds
+jobs
+jobs
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+homes
+homes
+wheels
+wheels
+wheels
+games
+games
+games
+site search 708412 btn on tnt client clickevent function
+site search 708412 submit
+return false
+site search 708412 on submit function
+filter query
+var squeryfiltered site search 708412 input name q val replace g
+site search 708412 input name q val squeryfiltered
+if site search 708412 term val
+return true
+else
+return false
+site search 708412 btn on tnt client clickevent function
+site search 708412 submit
+return false
+site search 708412 on submit function
+filter query
+var squeryfiltered site search 708412 input name q val replace g
+site search 708412 input name q val squeryfiltered
+if site search 708412 term val
+return true
+else
+return false
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710084
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+toggle navigation
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+71
+home
+news
+business
+communities
+ascension
+baker
+east feliciana
+livingston tangipahoa
+mid city
+southeast
+southside
+st francisville
+st helena
+west feliciana
+westside
+zachary
+education
+environment
+crime police
+courts
+state politics
+elections
+legislature
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+jquery document ready function
+var snavcontainer site navbar container
+var sbodycontainer main body container
+var snavheight snavcontainer height
+var iunfixpoint 0
+if tnt client platform ios
+snavcontainer addclass affix sticky
+else
+snavscroll false
+window on scroll mousewheel function
+if snavscroll
+snavscroll true
+settimeout function
+var ifixpoint snavcontainer offset top
+var icurrpoint this scrolltop
+if icurrpoint ifixpoint icurrpoint iunfixpoint
+if snavcontainer hasclass affix
+iunfixpoint ifixpoint
+snavcontainer addclass affix removeclass affix top
+sbodycontainer css margin top snavheight px
+else
+if snavcontainer hasclass affix top
+snavcontainer removeclass affix addclass affix top
+sbodycontainer css margin top 0
+snavscroll false
+25
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707136
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+jquery document ready function
+photo carousel 2f908aa0 6ba3 11e6 a586 93921009975d on show bs modal function e
+fixed leaderboard top container addclass overlay leaderboard
+photo carousel 2f908aa0 6ba3 11e6 a586 93921009975d on hide bs modal function e
+fixed leaderboard top container removeclass overlay leaderboard
+harry connick jr and randy jackson to co host flood relief concert in baton rouge
+by matthew sigur msigur theadvocate com
+matt sigur
+author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d popover
+content author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d content html
+html true
+trigger hover
+placement top
+delay show 100 hide 200
+aug 26 2016 11 15 am
+facebook
+twitter
+sms
+email
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+document ready function
+input q 648667 attr placeholder music plays more
+calendar featured search 649314 term attr placeholder find concerts festivals more search by neighborhood or event type too
+gambit advertising slideshow a on click function e
+e preventdefault
+sections
+home
+news
+opinion
+sports
+entertainment life
+services
+classifieds
+search
+subscribe
+digital advertising
+submission forms
+help contact us
+rss feeds
+media kit
+eedition
+careers
+teacher s link
+our sites
+obituaries
+jobs
+celebrations
+shop
+nie
+classifieds
+homes
+wheels
+pets
+archives
+store
+promote your event
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710084
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710084
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710083
+googletag cmd push function
+googletag display ad 710084
+googletag cmd push function
+googletag display ad 710084
+googletag cmd push function
+googletag display ad 710084
+googletag cmd push function
+googletag display ad 710084
+googletag cmd push function
+googletag display ad 710084
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+baton rouge
+new orleans
+acadiana
+gambit
+subscribe sign in
+view eedition
+toggle navigation
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+71
+home
+news
+business
+communities
+ascension
+baker
+east feliciana
+livingston tangipahoa
+mid city
+southeast
+southside
+st francisville
+st helena
+west feliciana
+westside
+zachary
+education
+environment
+crime police
+courts
+state politics
+elections
+legislature
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+toggle navigation
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+71
+home
+news
+business
+communities
+ascension
+baker
+east feliciana
+livingston tangipahoa
+mid city
+southeast
+southside
+st francisville
+st helena
+west feliciana
+westside
+zachary
+education
+environment
+crime police
+courts
+state politics
+elections
+legislature
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+71
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+71
+search
+site search 709341 btn on tnt client clickevent function
+site search 709341 submit
+return false
+site search 709341 on submit function
+filter query
+var squeryfiltered site search 709341 input name q val replace g
+site search 709341 input name q val squeryfiltered
+if site search 709341 term val
+return true
+else
+return false
+search
+71
+71
+home
+news
+business
+communities
+ascension
+baker
+east feliciana
+livingston tangipahoa
+mid city
+southeast
+southside
+st francisville
+st helena
+west feliciana
+westside
+zachary
+education
+environment
+crime police
+courts
+state politics
+elections
+legislature
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+home
+news
+business
+communities
+ascension
+baker
+east feliciana
+livingston tangipahoa
+mid city
+southeast
+southside
+st francisville
+st helena
+west feliciana
+westside
+zachary
+education
+environment
+crime police
+courts
+state politics
+elections
+legislature
+weather traffic
+sports
+lsu
+high schools
+saints news the new orleans advocate
+scott rabalais
+southern
+pelicans news the new orleans advocate
+ul lafayette sports the advocate
+outdoors
+entertainment life
+arts
+books
+calendar the advocate
+movies tv
+music
+festivals
+travel
+faith
+mardi gras
+food restaurants
+recipes
+health fitness
+home garden
+cars
+real estate
+pam bordelon the advocate
+danny heitman
+smiley anders
+games
+opinion
+stephanie grace
+lanny keller
+walt handelsman
+mark ballard
+our views
+ed pratt
+jeff sadow
+letters
+subscribe
+obituaries
+classifieds
+jobs
+homes
+area 5 neighborhood tours
+areas 4 6 neighborhood tours
+areas 1 2 10
+area 9 neighborhood tours
+wheels
+games
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707136
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+jquery document ready function
+photo carousel 2f908aa0 6ba3 11e6 a586 93921009975d on show bs modal function e
+fixed leaderboard top container addclass overlay leaderboard
+photo carousel 2f908aa0 6ba3 11e6 a586 93921009975d on hide bs modal function e
+fixed leaderboard top container removeclass overlay leaderboard
+harry connick jr and randy jackson to co host flood relief concert in baton rouge
+by matthew sigur msigur theadvocate com
+matt sigur
+author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d popover
+content author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d content html
+html true
+trigger hover
+placement top
+delay show 100 hide 200
+aug 26 2016 11 15 am
+facebook
+twitter
+sms
+email
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707136
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707136
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707137
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707135
+googletag cmd push function
+googletag display ad 707136
+googletag cmd push function
+googletag display ad 707136
+googletag cmd push function
+googletag display ad 707136
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+close
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+1 of 4
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+harry connick jr and randy jackson to co host flood relief concert in baton rouge
+by matthew sigur msigur theadvocate com
+matt sigur
+author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d popover
+content author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d content html
+html true
+trigger hover
+placement top
+delay show 100 hide 200
+aug 26 2016 11 15 am
+facebook
+twitter
+sms
+email
+by matthew sigur msigur theadvocate com
+matt sigur
+author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d popover
+content author popup b991de44 3826 11e6 9a08 5b79726120b6 asset 2f908aa0 6ba3 11e6 a586 93921009975d content html
+html true
+trigger hover
+placement top
+delay show 100 hide 200
+aug 26 2016 11 15 am
+matt sigur
+matt sigur
+matt sigur
+matt sigur
+matt sigur
+facebook
+twitter
+sms
+email
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+advocate file photo by matthew hinton harry connick jr will co host a flood relief concert with randy jackson on sept 5 at the river center theatre
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+fox photo by michael becker veteran american idol judge randy jackson a baton rouge native will co host a flood relief concert at the river center theater on sept 5
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+advocate staff photo by brad bowie american idol finalist and lafayette native mackenzie bourg performs at parc international on saturday following a parade in his honor bourg will perform at the river center theater in baton rouge on sept 5 in a flood relief concert
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+photo by rick olivier better than ezra from left tom drummond kevin griffin and michael jerome the band will perform at a flood relief concert on sept 5 at the river center theater
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+facebook
+twitter
+sms
+email
+print
+save
+former american idol co hosts randy jackson and harry connick jr have agreed to host a benefit concert in september jackson and connick jr will co host louisiana rising a benefit concert for flood relief on labor day sept 5 the event will run from 7 p m to 9 p m in the river center theater michael day general manager of the river center confirmed details on friday morning day added that more information would be available next week the concert will feature performances from more than a dozen artists including better than ezra sonny landreth chris thomas king mackenzie bourg and luther kent a complete lineup is said to be released in the coming days longtime fixture in the baton rouge scene johnny palazzotto will serve as music director of the show the show will be broadcast and will benefit the american red cross s louisiana flood relief fund jackson who was born in baton rouge said he wants to help raise awareness at the event saddened by the devastating tragedies that keep affecting my louisiana jackson said i want to help restore hope to people that are hurting in a place that i will always call home in a similar statement connick jr said he was hopeful that the event will bring much needed attention to the good people of louisiana so sorry that my home state is undergoing such hardship once again connick jr said seems like just yesterday that katrina left a path of destruction
+follow matthew sigur on twitter matthewsigur
+facebook
+twitter
+sms
+email
+print
+save
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+la native hunter hayes to perform at flood relief concert in baton rouge
+five time grammy nominee and breaux bridge native hunter hayes will perform in a september benefit concert for flood victims
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+window taboola window taboola
+taboola push
+mode thumbnails a
+container taboola below article thumbnails
+placement below article thumbnails
+target type mix
+function
+document ready function
+var container masthead col one
+var stickynote ad 477840 ad 478791 ad 478790 ad 504703 ad 504714 ad 504722 ad 519714 ad 529275
+var closebutton text
+function closestickynote
+stickynote fadeout
+window settimeout closestickynote 12000
+stickynote prependto container
+stickynote css
+background fff
+position absolute
+z index 9999
+left 250
+top 20
+box shadow 5px 5px 10px rgba 0 0 0 0 45
+transform rotate 5deg
+webkit transform rotate 5deg
+closebutton appendto stickynote
+closebutton css
+position absolute
+z index 9999
+left 5
+bottom 5
+width 20
+height 20
+background 111
+color fff
+border 2px solid fff
+border radius 20
+font size 18
+font weight bold
+text align center
+line height 17px
+cursor pointer
+closebutton on click closestickynote
+document ready function
+var target fixed big ad top asset
+var html story continued below
+html insertbefore target
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+window taboola window taboola
+taboola push article auto
+function e f u
+e async 1
+e src u
+f parentnode insertbefore e f
+document createelement script
+document getelementsbytagname script 0
+cdn taboola com libtrc advocate theadvocate loader js
+tnt log baton rouge entertainment life article 2f908aa0 6ba3 11e6 a586 93921009975d html this url url
+view comments
+var bfoundorigin true
+var soriginid null
+var soriginurl scruburl original url scrubbed for preview
+var sfirstid null
+var bfirstrun true
+var bshowad true
+var binfinistop false
+var sinfinitytype summary sticky siderail
+function populateinfinityset surl
+surl scruburl surl
+until the origin paramter for cms search mlt functions we have to start stop the looping on our own
+this will require not displaying any assets until we hit oasset
+then we loop through and display until we ve been through everything up to our origin
+ajax surl then function oresponse sstatus oxhr
+var snexturl null
+if typeof oresponse next url undefined
+url supplied is no good revert to original url
+snexturl soriginurl
+else
+snexturl scruburl oresponse next url
+manage response
+if typeof oresponse assets undefined oresponse assets length 0
+remove old more data
+infinite more remove
+build infinity set
+each oresponse assets function index
+if index 1 soriginid null
+soriginid oresponse assets 0 id
+display assets once origin is found
+if bfoundorigin true
+if this id soriginid
+binfinistop true
+snexturl null
+infinite more remove
+else if binfinistop false this id 2f908aa0 6ba3 11e6 a586 93921009975d
+display asset
+var shtml
+if this content
+if sinfinitytype summary sticky siderail
+shtml this content
+else
+shtml this content
+if bshowad true
+show advertisement
+shtml
+bshowad false
+else
+bshowad true
+shtml
+else
+if this id soriginid
+origin found begin displaying assets
+bfoundorigin true
+else
+origin found is false skip asset
+fail safe in case origin is not present in set this can be removed when origin is fixed
+if bfirstrun true
+stored first id
+sfirstid this id
+bfirstrun false
+else if this id sfirstid
+we ve started again force origin
+soriginid sfirstid
+bfoundorigin true
+end fail safe
+append infinity set to container
+infinite container append shtml
+include block id on newly added list items
+infinite container infinite item original each function
+var shref scruburl this find card headline a attr href
+add to image and headlines links
+this removeclass original
+find card headline a image a
+attr href shref tncms source infinity scroll summary sticky siderail latest
+check next url
+if snexturl
+if origin hasn t been found yet and we hit next url trigger the set to pull in again
+if bfoundorigin false
+no origin yet call the populate function
+populateinfinityset snexturl
+else
+append snexturl to infinity set
+infinite container append
+refresh waypoints
+waypoint refreshall
+if sinfinitytype summary sticky siderail
+tnt regions stickyside determinestick sticky right rail sticky right rail spacer siderail
+else
+empty asset set returned go back in for a real set
+populateinfinityset snexturl
+infinite waypoint
+var waypoint new waypoint
+element document getelementbyid infinite container
+handler function direction
+if direction down
+if binfinistop true
+finished kill the waypoint
+this destroy
+else
+log waypoint hit event
+tnt trackevent category infinity scroll action request label assets requested value true
+var nexturl infinite more data next url
+populateinfinityset infinite more data next url
+offset bottom in view
+rewrite url to for preview
+function scruburl surl
+if typeof surl undefined
+return surl
+tags
+music
+entertainment
+celebrity
+lifestyle
+culture
+louisiana flood of 2016
+baton rouge
+louisiana
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+googletag cmd push function
+googletag display div gpt ad ccp 2x1 connatix
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+matt sigur
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+follow this search
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+close
+get email notifications on subject daily
+your notification has been saved
+there was a problem saving your notification
+description
+email notifications are only sent once a day and only if there are new matching items
+save
+manage followed notifications
+your notification has been saved
+there was a problem saving your notification
+save
+manage followed notifications
+save
+manage followed notifications
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+close
+followed notifications
+please log in to use this feature
+log in
+don t have an account sign up today
+please log in to use this feature
+log in
+don t have an account sign up today
+view comments
+view comments
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 715123
+googletag cmd push function
+googletag display ad 715123
+googletag cmd push function
+googletag display ad 715123
+follow us
+facebook
+twitter
+instagram
+email
+context
+type organization
+url
+sameas
+follow us
+facebook
+twitter
+instagram
+email
+follow us
+follow us
+follow us
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 729392
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 711376
+googletag cmd push function
+googletag display ad 711376
+document ready function
+input q 648667 attr placeholder music plays more
+calendar featured search 649314 term attr placeholder find concerts festivals more search by neighborhood or event type too
+gambit advertising slideshow a on click function e
+e preventdefault
+sections
+home
+news
+opinion
+sports
+entertainment life
+services
+classifieds
+search
+subscribe
+digital advertising
+submission forms
+help contact us
+rss feeds
+media kit
+eedition
+careers
+teacher s link
+our sites
+obituaries
+jobs
+celebrations
+shop
+nie
+classifieds
+homes
+wheels
+pets
+archives
+store
+promote your event
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+sections
+home
+news
+opinion
+sports
+entertainment life
+services
+classifieds
+search
+subscribe
+digital advertising
+submission forms
+help contact us
+rss feeds
+media kit
+eedition
+careers
+teacher s link
+our sites
+obituaries
+jobs
+celebrations
+shop
+nie
+classifieds
+homes
+wheels
+pets
+archives
+store
+promote your event
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+sections
+home
+news
+opinion
+sports
+entertainment life
+sections
+sections
+sections
+sections
+sections
+home
+news
+opinion
+sports
+entertainment life
+services
+classifieds
+search
+subscribe
+digital advertising
+submission forms
+help contact us
+rss feeds
+media kit
+eedition
+careers
+teacher s link
+services
+services
+services
+services
+services
+classifieds
+search
+subscribe
+digital advertising
+submission forms
+help contact us
+rss feeds
+media kit
+eedition
+careers
+teacher s link
+our sites
+obituaries
+jobs
+celebrations
+shop
+nie
+classifieds
+homes
+wheels
+pets
+archives
+store
+promote your event
+our sites
+our sites
+our sites
+our sites
+our sites
+obituaries
+jobs
+celebrations
+shop
+nie
+classifieds
+homes
+wheels
+pets
+archives
+store
+promote your event
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+contact information
+theadvocate com
+10705 rieger rd
+baton rouge la 70809
+phone 225 383 1111
+email kwhitfield theadvocate com
+contact information
+contact information
+contact information
+news tips newstips theadvocate com
+other questions subscriberservices theadvocate com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policy
+powered by blox content management system from townnews com
+copyright 2019 the advocate 10705 rieger rd baton rouge la terms of use privacy policypowered by blox content management system from townnews com

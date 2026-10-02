@@ -1,0 +1,1347 @@
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+richard leadbetter
+technology editor digital foundrywe were hoping that e3 would be the venue to put to rest the question of xbox one x s raw gaming potential but only a handful of native titles were revealed and as such some degree of scepticism surrounds microsoft s true 4k claims in the wake of the event developers have come forward to talk about impressive results with the system monolith has confirmed native 4k for shadow of war while respawn entertainment says that titanfall 2 dynamically scales up to 6k resolution on top of that ark developer studio wildcard likens xbox one x to a pc running a gtx 1070 with 16gb of ram microsoft is bullish on the machine s native 4k credentials with its own early benchmarks painting a compelling picture of the hardware s capabilities we re publishing those metrics today but they need to be put into context our visit to microsoft s redmond campus at the end of march was sandwiched between two microsoft xfest developer events one held in the uk a week before our visit and another held in the us just after david cook a software engineer at microsoft s advanced technology group atg presented a detailed low down of the scorpio engine gpu covering many of the same details found in our project scorpio xbox one x hardware reveal but bolsters the specs with detailed performance profiling despite talking to us exclusively about the hardware previously microsoft did not provide these numbers we sourced them via developer contacts and we further verified them before publishing it s a fascinating insight into the performance characteristics of the scorpio engine in addition to the data the presentation reveals how gpu bottlenecks shift somewhat in the move from xbox one to xbox one x compute power is a defining limitation of the base system but in many scenarios this shifts to memory geometry or pixel limits on the new hardware necessitating a change in direction from the developer the focus shifts back to compute an area where the scorpio engine excels happily microsoft also appears to advocate a move from 4x to 8x anisotropic texture filtering too very important in getting the most out of an ultra hd presentation captures from microsoft s performance analysis tool pix were used to illustrate performance bottlenecks with further captures used to demonstrate xbox one x s resolution scalability the data from nine titles was revealed a mixture of games out now or still in development you can see the table below with all of the information that was shared it s sure to provoke plenty of guessing games in terms of what the titles actually are we can be reasonable confident that titles b and c are forza motorsport 7 and gears of war 4 respectively while only star wars battlefront possesses title h s attributes if we had to speculate recore would be a likely candidate for title a and halo wars 2 for title g but it really is speculation the point is not so much what the games are but how they scale on xbox one x hardware compared to their performance on the basic model rich has this video guide explaining microsoft s xbox one x benchmarks covering 4k scaling from 900p and 1080p titles as well as back compat performance to get these pix metrics all of the titles underwent the most basic of ports onto project scorpio development hardware and this presents challenges in terms of getting data representative of final games firstly an early iteration of the operating system was in place while scorpio specific hardware features are entirely unused furthermore esram from the base xbox one is mapped directly to gddr5 in the new console with no tweaking meaning that there will be plenty of read writes between memory areas that are entirely wasteful and would not happen in a shipping title on the flip side though these are entirely gpu based benchmarks meaning that memory contention issues between cpu and gpu aren t factored in however this applies for both base xbox one and x performance also worth bearing in mind is that these pix results represent a single snapshot of gpu activity and gpu load varies dramatically throughout any given game however we can assume that they were chosen by microsoft to be representative of how games scale from base xbox one hardware to xbox one x while we ve converted the metrics to frame rate from the original frame time in order to make the information easier to absorb original data is included as well in the charts below it should be pointed out that this data is based on gpu time alone and stands apart from any frame rate cap the final title may implement so for example frame time on title b almost certainly forza motorsport 7 is 13ms on xbox one and 11ms at 4k on xbox one x an 11ms frame time would translate to 90fps but obviously the final game locks to 60fps as we know turn 10 will be using that overhead for improved visuals on the new console the presentation states that the design goal of xbox one x was to run native 1080p titles with a 4x resolution boost while during our visit microsoft had expanded the objective saying that it wanted both 900p and 1080p game engines to run at 2160p the data for most of the nine titles clearly demonstrates that the 4x resolution design goal is clearly met even without access to new gpu features of the xbox one x hardware while the 900p scaling doesn t quite show the same kind of cut and dried improvement two out of the three basic ports get there or thereabouts with hardware specific optimisation likely to make up the difference assuming titles b and c are indeed forza motorsport 7 and gears of war 4 respectively we have real life parallels here between initial port data and optimised results present at e3 turn 10 s engine is indeed capable of hitting 60 frames per second with milliseconds to spare and with frame render time of 11ms we get the 65 per cent gpu load from a title aiming for 60fps precisely what we saw with the forzatech demo based on an older iteration of the engine with that in mind we re curious as to what upgrades turn 10 has decided to deploy here compared to the basic xbox one certainly texture filtering is looking great on the demo we ve played arguably more fascinating is gears of war 4 there is overhead in the leap to 4k based on the benchmarks but not a huge amount of it not compared to forza at least however the coalition announced upgrades for the game at e3 including higher resolution textures higher polygon counts longer draw distances upgraded dynamic shadows and improved reflections it s hard to believe that all of those could be accommodated in the relatively small render time improvement seen here suggesting that more intensive optimisation for xbox one x improves upon the raw benchmark result significantly and if that s the case two of the three 900p titles tested here could conceivably attain native 4k resolution upgrades title a is just 1ms away from parity with base xbox one while title e is just 2ms off pace frame times increasing by around five to six per cent in both cases clearly not every game will scale along those lines though title d an open world adventure clearly isn t going to make it perhaps coincidentally open world adventure assassin s creed origins made it to e3 running on xbox one x hardware and producing a 2160p output but requiring checkerboard and dynamic scaling to get there the results still look impressive in motion though clearly there s also been a certain amount of validation for title h almost certainly star wars battlefront running on the frostbite engine clearly a 720p title on base xbox one isn t going to make it to native 4k on xbox one x the raw metrics here suggest that what was originally a 60fps experience would linger in 38fps territory not surprising bearing in mind we re looking at 9x increase in resolution it s a topic we ve discussed recently on how xbox one x s arrival is good news for ps4 pro we speculated that the frostbite team would adapt its pro strategies for the x and based on our analysis of anthem running at 2160p checkerboard on microsoft s new console at the e3 media briefing that s exactly what happened behind the scenes beyond that there are a couple of curiosities in the benchmarks specifically title i an in development open world action game using an in house engine based on dx12 frame times on base xbox one hardware are measured at a staggering 59ms suggesting that this section of game was profiled running at just 17 frames per second there are gains running at native 4k on xbox one x and its performance does seem to be gpu limited if the cpu were an issue the scaling would be far more limited in the back compat results seen below in the documents we ve seen microsoft provides like for like resolution data between base hardware and xbox one x running at the same resolution this may not seem particularly useful in and of itself aside perhaps from revealing the staggering amount of gpu overhead available to developers if they decide to stick to the same resolution however this data does tie into the backwards compatibility functions xbox one x has with existing xbox one titles looking at the table below you ll see comparison data for xbox one titles along with how they run on x hardware based on two scenarios whether they were compiled on the latest xdk development environment or using an older one essentially all existing titles the xbox one x native data represents titles compiled with the july 2017 xdk in development when this presentation was made under the later xdk every new xbox one title will automatically gain xbox one x performance improvements seemingly even if the developer does not have access to an xbox one x devkit and is targeting no bespoke improvements as the data reveals compiling with the new xdk represents a big improvement over older titles so what s going on here why aren t older titles compiled with older xdks matching the results of the newer iteration well it turns out that compatibility with older games isn t a walk in the park so pre existing xbox one titles default to a different set up in effect half of the render back end hardware is disabled and pixel and vertex shaders are each hived off to half of the 40 available compute units it s a somewhat gross generalisation but you could say that older games effectively get access to 3tf of power compared to the 1 31tf in the older xbox one and compared further to the 6tf accessible via the july xdk as the improvements in render time demonstrate pre existing titles should get enough extra horsepower to max dynamic resolution titles and ramp up anisotropic filtering other back compat enhancements promised by microsoft improved loading times faster cpu power ram cache etc are not gpu dependent so out of the scope of these metrics but there s no reason to believe that they will not be delivered in this sense microsoft s implementation for compatibility halving gpu resources effectively may also explain ps4 pro s boost mode where only the clock speed increase seems to make any difference in purely gpu bound scenarios perhaps a similar utilisation of the expanded gpu was in place there the difference being that even with the same limitations xbox one x has the advantage of many more compute units plus a much higher clock we re really looking forward to testing this out in the absence of an xbox one x patch halo 5 should be a fascinating test of back compat functions and how the power impacts dynamic scaling we ll also be wheeling out our perennial hardware upgrade test titles including project cars and just cause 3 microsoft also suggests that developers utilise the latest xdk for patch updates of older games even if there are no plans for specific xbox one x features and by default this should automatically unlock the full 6tf of gpu power for the title the best halo gifts clothes and accessoriesfrom jelly deals our top picks for the best halo merchandise available there s more too based on the documentation we ve seen the fundamental architecture of the xbox one x gpu is a confirmed match for the original machine believed to be the case for ps4 pro too with additional enhancements there are other features including amd s delta colour compression which sees performance increases of seven to nine per cent in two titles microsoft tested dcc is actually a feature exclusive to the dx12 api in fact dx11 moves into maintenance mode on xbox one x suggesting that microsoft is keen for developers to move on there are benefits for both xboxes in doing so and there may be implications here for the pc versions too we could really use improved dx12 support on pc after all microsoft s key advice for developers expect an easy port to xbox one x with a baseline 4x resolution boost start with your high end pc settings use the memory well and fill any extra frame time with additional effects guard carefully against increased loading stalls and yes consider techniques like checkerboard rendering and dynamic resolution we ve certainly seen representation of the latter techniques already but as we move closer to gamescom and the run up to the xbox one x launch these early benchmarks are fascinating and how the scaling demonstrated here translates into final shipping software should be fascinating to track once we have hardware and games to test sometimes we include links to online retail stores if you click on one and make a purchase we may receive a small commission for more information go here about the authorrichard leadbettertechnology editor digital foundryrich has been a games journalist since the days of 16 bit and specialises in technical analysis he s commonly known around eurogamer as the blacksmith of the future comments 480 comments for this article are now closed but please feel free to continue chatting
+on the forum advertisementrelated
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran like what we do at digital foundry support us subscribe for only 5 and get access to our entire library of 4k videos digital foundry
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions advertisementsubscribe to the eurogamer net daily
+the 10 most popular stories of the day delivered at 5pm uk time never miss a thing bad puns and video games since 1999 this site 2018 gamer network all rights reserved no part of this site or its content may be reproduced without the permission of the copyright holder explorehelpful linksacross europegamer networkeventssign inconnect with facebooknew in town
+sign in
+create an account
+pc
+playstation 4
+xbox one
+switch
+digital foundry
+news
+reviews
+videos
+features
+guides
+highlights
+deals
+forum
+gamedb
+game release dates
+fortnite paradise palms treasure map
+fortnite jigsaw puzzle piece locations
+best external ps4 hard drives
+sign in
+create an account
+sign in
+create an account
+pc
+playstation 4
+xbox one
+switch
+digital foundry
+news
+reviews
+videos
+features
+guides
+pc
+playstation 4
+xbox one
+switch
+digital foundry
+news
+reviews
+videos
+features
+guides
+highlights
+deals
+forum
+gamedb
+game release dates
+fortnite paradise palms treasure map
+fortnite jigsaw puzzle piece locations
+best external ps4 hard drives
+highlights
+deals
+forum
+gamedb
+game release dates
+fortnite paradise palms treasure map
+fortnite jigsaw puzzle piece locations
+best external ps4 hard drives
+home
+articles
+05 07 2017
+article
+revealed microsoft s xbox one x benchmarks
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+richard leadbetter
+technology editor digital foundry
+digitalfoundry
+we were hoping that e3 would be the venue to put to rest the question of xbox one x s raw gaming potential but only a handful of native titles were revealed and as such some degree of scepticism surrounds microsoft s true 4k claims in the wake of the event developers have come forward to talk about impressive results with the system monolith has confirmed native 4k for shadow of war while respawn entertainment says that titanfall 2 dynamically scales up to 6k resolution on top of that ark developer studio wildcard likens xbox one x to a pc running a gtx 1070 with 16gb of ram microsoft is bullish on the machine s native 4k credentials with its own early benchmarks painting a compelling picture of the hardware s capabilities we re publishing those metrics today but they need to be put into context our visit to microsoft s redmond campus at the end of march was sandwiched between two microsoft xfest developer events one held in the uk a week before our visit and another held in the us just after david cook a software engineer at microsoft s advanced technology group atg presented a detailed low down of the scorpio engine gpu covering many of the same details found in our project scorpio xbox one x hardware reveal but bolsters the specs with detailed performance profiling despite talking to us exclusively about the hardware previously microsoft did not provide these numbers we sourced them via developer contacts and we further verified them before publishing it s a fascinating insight into the performance characteristics of the scorpio engine in addition to the data the presentation reveals how gpu bottlenecks shift somewhat in the move from xbox one to xbox one x compute power is a defining limitation of the base system but in many scenarios this shifts to memory geometry or pixel limits on the new hardware necessitating a change in direction from the developer the focus shifts back to compute an area where the scorpio engine excels happily microsoft also appears to advocate a move from 4x to 8x anisotropic texture filtering too very important in getting the most out of an ultra hd presentation captures from microsoft s performance analysis tool pix were used to illustrate performance bottlenecks with further captures used to demonstrate xbox one x s resolution scalability the data from nine titles was revealed a mixture of games out now or still in development you can see the table below with all of the information that was shared it s sure to provoke plenty of guessing games in terms of what the titles actually are we can be reasonable confident that titles b and c are forza motorsport 7 and gears of war 4 respectively while only star wars battlefront possesses title h s attributes if we had to speculate recore would be a likely candidate for title a and halo wars 2 for title g but it really is speculation the point is not so much what the games are but how they scale on xbox one x hardware compared to their performance on the basic model
+rich has this video guide explaining microsoft s xbox one x benchmarks covering 4k scaling from 900p and 1080p titles as well as back compat performance
+subscribe to our youtube channel
+to get these pix metrics all of the titles underwent the most basic of ports onto project scorpio development hardware and this presents challenges in terms of getting data representative of final games firstly an early iteration of the operating system was in place while scorpio specific hardware features are entirely unused furthermore esram from the base xbox one is mapped directly to gddr5 in the new console with no tweaking meaning that there will be plenty of read writes between memory areas that are entirely wasteful and would not happen in a shipping title on the flip side though these are entirely gpu based benchmarks meaning that memory contention issues between cpu and gpu aren t factored in however this applies for both base xbox one and x performance also worth bearing in mind is that these pix results represent a single snapshot of gpu activity and gpu load varies dramatically throughout any given game however we can assume that they were chosen by microsoft to be representative of how games scale from base xbox one hardware to xbox one x while we ve converted the metrics to frame rate from the original frame time in order to make the information easier to absorb original data is included as well in the charts below it should be pointed out that this data is based on gpu time alone and stands apart from any frame rate cap the final title may implement so for example frame time on title b almost certainly forza motorsport 7 is 13ms on xbox one and 11ms at 4k on xbox one x an 11ms frame time would translate to 90fps but obviously the final game locks to 60fps as we know turn 10 will be using that overhead for improved visuals on the new console the presentation states that the design goal of xbox one x was to run native 1080p titles with a 4x resolution boost while during our visit microsoft had expanded the objective saying that it wanted both 900p and 1080p game engines to run at 2160p the data for most of the nine titles clearly demonstrates that the 4x resolution design goal is clearly met even without access to new gpu features of the xbox one x hardware while the 900p scaling doesn t quite show the same kind of cut and dried improvement two out of the three basic ports get there or thereabouts with hardware specific optimisation likely to make up the difference there s bound to be plenty of speculation surrounding the exact identity of all the titles below we re pretty sure that title b is forza motorsport 7 above title c is gears of war 4 while title h is dice s star wars battlefront
+genre
+target
+engine
+api
+status march 17
+title a
+open world adventure
+900p30
+unity
+dx11
+shipped
+title b
+sports racing
+1080p60
+in house
+dx12
+development
+title c
+linear shooter
+1080p30
+unreal engine 4
+dx12
+shipped
+title d
+open world action
+900p30
+in house
+dx11
+development
+title e
+open world multiplayer
+900p30
+unreal engine 4
+dx12
+development
+title f
+sports racing
+1080p60
+in house
+dx11
+development
+title g
+multiplayer strategy
+1080p30
+in house
+dx11
+shipped
+title h
+first person shooter
+720p60
+in house
+dx12
+shipped
+title i
+open world action
+1080p30
+in house
+dx12
+development
+assuming titles b and c are indeed forza motorsport 7 and gears of war 4 respectively we have real life parallels here between initial port data and optimised results present at e3 turn 10 s engine is indeed capable of hitting 60 frames per second with milliseconds to spare and with frame render time of 11ms we get the 65 per cent gpu load from a title aiming for 60fps precisely what we saw with the forzatech demo based on an older iteration of the engine with that in mind we re curious as to what upgrades turn 10 has decided to deploy here compared to the basic xbox one certainly texture filtering is looking great on the demo we ve played arguably more fascinating is gears of war 4 there is overhead in the leap to 4k based on the benchmarks but not a huge amount of it not compared to forza at least however the coalition announced upgrades for the game at e3 including higher resolution textures higher polygon counts longer draw distances upgraded dynamic shadows and improved reflections it s hard to believe that all of those could be accommodated in the relatively small render time improvement seen here suggesting that more intensive optimisation for xbox one x improves upon the raw benchmark result significantly and if that s the case two of the three 900p titles tested here could conceivably attain native 4k resolution upgrades title a is just 1ms away from parity with base xbox one while title e is just 2ms off pace frame times increasing by around five to six per cent in both cases clearly not every game will scale along those lines though title d an open world adventure clearly isn t going to make it perhaps coincidentally open world adventure assassin s creed origins made it to e3 running on xbox one x hardware and producing a 2160p output but requiring checkerboard and dynamic scaling to get there the results still look impressive in motion though clearly
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911159
+gid 1911159
+adzone
+title
+caption
+type
+version hd
+gallery id 1911159
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 1 png caption xbox one at native resolution compared to performance at 2160p from a barebones xbox one x port higher is better the data is expressed here in terms of percentage 1080p scales well 900p holds up better than you might expect 720p predictably not url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 2 png caption here are the frame rates converted from frame times seen in the next slide higher is better 1080p titles gain frame rate moving to 4k with two out of three 900p games within five to six per cent of matching performance at 4k url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 3 png caption this is the original microsoft data based on frame time measured in milliseconds from pix gpu captures lower is better title d is a 900p game with scaling issues but everything else looks promising bearing in mind the very basic nature of the ports
+there s also been a certain amount of validation for title h almost certainly star wars battlefront running on the frostbite engine clearly a 720p title on base xbox one isn t going to make it to native 4k on xbox one x the raw metrics here suggest that what was originally a 60fps experience would linger in 38fps territory not surprising bearing in mind we re looking at 9x increase in resolution it s a topic we ve discussed recently on how xbox one x s arrival is good news for ps4 pro we speculated that the frostbite team would adapt its pro strategies for the x and based on our analysis of anthem running at 2160p checkerboard on microsoft s new console at the e3 media briefing that s exactly what happened behind the scenes beyond that there are a couple of curiosities in the benchmarks specifically title i an in development open world action game using an in house engine based on dx12 frame times on base xbox one hardware are measured at a staggering 59ms suggesting that this section of game was profiled running at just 17 frames per second there are gains running at native 4k on xbox one x and its performance does seem to be gpu limited if the cpu were an issue the scaling would be far more limited in the back compat results seen below in the documents we ve seen microsoft provides like for like resolution data between base hardware and xbox one x running at the same resolution this may not seem particularly useful in and of itself aside perhaps from revealing the staggering amount of gpu overhead available to developers if they decide to stick to the same resolution however this data does tie into the backwards compatibility functions xbox one x has with existing xbox one titles looking at the table below you ll see comparison data for xbox one titles along with how they run on x hardware based on two scenarios whether they were compiled on the latest xdk development environment or using an older one essentially all existing titles the xbox one x native data represents titles compiled with the july 2017 xdk in development when this presentation was made under the later xdk every new xbox one title will automatically gain xbox one x performance improvements seemingly even if the developer does not have access to an xbox one x devkit and is targeting no bespoke improvements as the data reveals compiling with the new xdk represents a big improvement over older titles so what s going on here why aren t older titles compiled with older xdks matching the results of the newer iteration
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911160
+gid 1911160
+adzone
+title
+caption
+type
+version hd
+gallery id 1911160
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 4 png caption a percentage increase comparison showing base xbox one performance blue at 100 per cent followed by back compat red and native xbox one x code compiled under the latest xdk green older titles can be recompiled to get a big performance boost url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 5 png caption here s the same data this time in basic frame rate terms only title a doesn t see a huge improvement in performance with back compat while the boost with native xbox x code a barebones port it should be noted is massive in all cases url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 6 png caption just like the 4k captures the original data is based on pix captures measured in frame time milliseconds here s that data lower is better here you might say we re looking at 1 31tf vs 3tf vs 6tf performance here at the same resolution
+well it turns out that compatibility with older games isn t a walk in the park so pre existing xbox one titles default to a different set up in effect half of the render back end hardware is disabled and pixel and vertex shaders are each hived off to half of the 40 available compute units it s a somewhat gross generalisation but you could say that older games effectively get access to 3tf of power compared to the 1 31tf in the older xbox one and compared further to the 6tf accessible via the july xdk as the improvements in render time demonstrate pre existing titles should get enough extra horsepower to max dynamic resolution titles and ramp up anisotropic filtering other back compat enhancements promised by microsoft improved loading times faster cpu power ram cache etc are not gpu dependent so out of the scope of these metrics but there s no reason to believe that they will not be delivered in this sense microsoft s implementation for compatibility halving gpu resources effectively may also explain ps4 pro s boost mode where only the clock speed increase seems to make any difference in purely gpu bound scenarios perhaps a similar utilisation of the expanded gpu was in place there the difference being that even with the same limitations xbox one x has the advantage of many more compute units plus a much higher clock we re really looking forward to testing this out in the absence of an xbox one x patch halo 5 should be a fascinating test of back compat functions and how the power impacts dynamic scaling we ll also be wheeling out our perennial hardware upgrade test titles including project cars and just cause 3 microsoft also suggests that developers utilise the latest xdk for patch updates of older games even if there are no plans for specific xbox one x features and by default this should automatically unlock the full 6tf of gpu power for the title
+the best halo gifts clothes and accessories
+home
+articles
+05 07 2017
+article
+revealed microsoft s xbox one x benchmarks
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+richard leadbetter
+technology editor digital foundry
+digitalfoundry
+we were hoping that e3 would be the venue to put to rest the question of xbox one x s raw gaming potential but only a handful of native titles were revealed and as such some degree of scepticism surrounds microsoft s true 4k claims in the wake of the event developers have come forward to talk about impressive results with the system monolith has confirmed native 4k for shadow of war while respawn entertainment says that titanfall 2 dynamically scales up to 6k resolution on top of that ark developer studio wildcard likens xbox one x to a pc running a gtx 1070 with 16gb of ram microsoft is bullish on the machine s native 4k credentials with its own early benchmarks painting a compelling picture of the hardware s capabilities we re publishing those metrics today but they need to be put into context our visit to microsoft s redmond campus at the end of march was sandwiched between two microsoft xfest developer events one held in the uk a week before our visit and another held in the us just after david cook a software engineer at microsoft s advanced technology group atg presented a detailed low down of the scorpio engine gpu covering many of the same details found in our project scorpio xbox one x hardware reveal but bolsters the specs with detailed performance profiling despite talking to us exclusively about the hardware previously microsoft did not provide these numbers we sourced them via developer contacts and we further verified them before publishing it s a fascinating insight into the performance characteristics of the scorpio engine in addition to the data the presentation reveals how gpu bottlenecks shift somewhat in the move from xbox one to xbox one x compute power is a defining limitation of the base system but in many scenarios this shifts to memory geometry or pixel limits on the new hardware necessitating a change in direction from the developer the focus shifts back to compute an area where the scorpio engine excels happily microsoft also appears to advocate a move from 4x to 8x anisotropic texture filtering too very important in getting the most out of an ultra hd presentation captures from microsoft s performance analysis tool pix were used to illustrate performance bottlenecks with further captures used to demonstrate xbox one x s resolution scalability the data from nine titles was revealed a mixture of games out now or still in development you can see the table below with all of the information that was shared it s sure to provoke plenty of guessing games in terms of what the titles actually are we can be reasonable confident that titles b and c are forza motorsport 7 and gears of war 4 respectively while only star wars battlefront possesses title h s attributes if we had to speculate recore would be a likely candidate for title a and halo wars 2 for title g but it really is speculation the point is not so much what the games are but how they scale on xbox one x hardware compared to their performance on the basic model
+rich has this video guide explaining microsoft s xbox one x benchmarks covering 4k scaling from 900p and 1080p titles as well as back compat performance
+subscribe to our youtube channel
+to get these pix metrics all of the titles underwent the most basic of ports onto project scorpio development hardware and this presents challenges in terms of getting data representative of final games firstly an early iteration of the operating system was in place while scorpio specific hardware features are entirely unused furthermore esram from the base xbox one is mapped directly to gddr5 in the new console with no tweaking meaning that there will be plenty of read writes between memory areas that are entirely wasteful and would not happen in a shipping title on the flip side though these are entirely gpu based benchmarks meaning that memory contention issues between cpu and gpu aren t factored in however this applies for both base xbox one and x performance also worth bearing in mind is that these pix results represent a single snapshot of gpu activity and gpu load varies dramatically throughout any given game however we can assume that they were chosen by microsoft to be representative of how games scale from base xbox one hardware to xbox one x while we ve converted the metrics to frame rate from the original frame time in order to make the information easier to absorb original data is included as well in the charts below it should be pointed out that this data is based on gpu time alone and stands apart from any frame rate cap the final title may implement so for example frame time on title b almost certainly forza motorsport 7 is 13ms on xbox one and 11ms at 4k on xbox one x an 11ms frame time would translate to 90fps but obviously the final game locks to 60fps as we know turn 10 will be using that overhead for improved visuals on the new console the presentation states that the design goal of xbox one x was to run native 1080p titles with a 4x resolution boost while during our visit microsoft had expanded the objective saying that it wanted both 900p and 1080p game engines to run at 2160p the data for most of the nine titles clearly demonstrates that the 4x resolution design goal is clearly met even without access to new gpu features of the xbox one x hardware while the 900p scaling doesn t quite show the same kind of cut and dried improvement two out of the three basic ports get there or thereabouts with hardware specific optimisation likely to make up the difference there s bound to be plenty of speculation surrounding the exact identity of all the titles below we re pretty sure that title b is forza motorsport 7 above title c is gears of war 4 while title h is dice s star wars battlefront
+genre
+target
+engine
+api
+status march 17
+title a
+open world adventure
+900p30
+unity
+dx11
+shipped
+title b
+sports racing
+1080p60
+in house
+dx12
+development
+title c
+linear shooter
+1080p30
+unreal engine 4
+dx12
+shipped
+title d
+open world action
+900p30
+in house
+dx11
+development
+title e
+open world multiplayer
+900p30
+unreal engine 4
+dx12
+development
+title f
+sports racing
+1080p60
+in house
+dx11
+development
+title g
+multiplayer strategy
+1080p30
+in house
+dx11
+shipped
+title h
+first person shooter
+720p60
+in house
+dx12
+shipped
+title i
+open world action
+1080p30
+in house
+dx12
+development
+assuming titles b and c are indeed forza motorsport 7 and gears of war 4 respectively we have real life parallels here between initial port data and optimised results present at e3 turn 10 s engine is indeed capable of hitting 60 frames per second with milliseconds to spare and with frame render time of 11ms we get the 65 per cent gpu load from a title aiming for 60fps precisely what we saw with the forzatech demo based on an older iteration of the engine with that in mind we re curious as to what upgrades turn 10 has decided to deploy here compared to the basic xbox one certainly texture filtering is looking great on the demo we ve played arguably more fascinating is gears of war 4 there is overhead in the leap to 4k based on the benchmarks but not a huge amount of it not compared to forza at least however the coalition announced upgrades for the game at e3 including higher resolution textures higher polygon counts longer draw distances upgraded dynamic shadows and improved reflections it s hard to believe that all of those could be accommodated in the relatively small render time improvement seen here suggesting that more intensive optimisation for xbox one x improves upon the raw benchmark result significantly and if that s the case two of the three 900p titles tested here could conceivably attain native 4k resolution upgrades title a is just 1ms away from parity with base xbox one while title e is just 2ms off pace frame times increasing by around five to six per cent in both cases clearly not every game will scale along those lines though title d an open world adventure clearly isn t going to make it perhaps coincidentally open world adventure assassin s creed origins made it to e3 running on xbox one x hardware and producing a 2160p output but requiring checkerboard and dynamic scaling to get there the results still look impressive in motion though clearly
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911159
+gid 1911159
+adzone
+title
+caption
+type
+version hd
+gallery id 1911159
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 1 png caption xbox one at native resolution compared to performance at 2160p from a barebones xbox one x port higher is better the data is expressed here in terms of percentage 1080p scales well 900p holds up better than you might expect 720p predictably not url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 2 png caption here are the frame rates converted from frame times seen in the next slide higher is better 1080p titles gain frame rate moving to 4k with two out of three 900p games within five to six per cent of matching performance at 4k url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 3 png caption this is the original microsoft data based on frame time measured in milliseconds from pix gpu captures lower is better title d is a 900p game with scaling issues but everything else looks promising bearing in mind the very basic nature of the ports
+there s also been a certain amount of validation for title h almost certainly star wars battlefront running on the frostbite engine clearly a 720p title on base xbox one isn t going to make it to native 4k on xbox one x the raw metrics here suggest that what was originally a 60fps experience would linger in 38fps territory not surprising bearing in mind we re looking at 9x increase in resolution it s a topic we ve discussed recently on how xbox one x s arrival is good news for ps4 pro we speculated that the frostbite team would adapt its pro strategies for the x and based on our analysis of anthem running at 2160p checkerboard on microsoft s new console at the e3 media briefing that s exactly what happened behind the scenes beyond that there are a couple of curiosities in the benchmarks specifically title i an in development open world action game using an in house engine based on dx12 frame times on base xbox one hardware are measured at a staggering 59ms suggesting that this section of game was profiled running at just 17 frames per second there are gains running at native 4k on xbox one x and its performance does seem to be gpu limited if the cpu were an issue the scaling would be far more limited in the back compat results seen below in the documents we ve seen microsoft provides like for like resolution data between base hardware and xbox one x running at the same resolution this may not seem particularly useful in and of itself aside perhaps from revealing the staggering amount of gpu overhead available to developers if they decide to stick to the same resolution however this data does tie into the backwards compatibility functions xbox one x has with existing xbox one titles looking at the table below you ll see comparison data for xbox one titles along with how they run on x hardware based on two scenarios whether they were compiled on the latest xdk development environment or using an older one essentially all existing titles the xbox one x native data represents titles compiled with the july 2017 xdk in development when this presentation was made under the later xdk every new xbox one title will automatically gain xbox one x performance improvements seemingly even if the developer does not have access to an xbox one x devkit and is targeting no bespoke improvements as the data reveals compiling with the new xdk represents a big improvement over older titles so what s going on here why aren t older titles compiled with older xdks matching the results of the newer iteration
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911160
+gid 1911160
+adzone
+title
+caption
+type
+version hd
+gallery id 1911160
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 4 png caption a percentage increase comparison showing base xbox one performance blue at 100 per cent followed by back compat red and native xbox one x code compiled under the latest xdk green older titles can be recompiled to get a big performance boost url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 5 png caption here s the same data this time in basic frame rate terms only title a doesn t see a huge improvement in performance with back compat while the boost with native xbox x code a barebones port it should be noted is massive in all cases url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 6 png caption just like the 4k captures the original data is based on pix captures measured in frame time milliseconds here s that data lower is better here you might say we re looking at 1 31tf vs 3tf vs 6tf performance here at the same resolution
+well it turns out that compatibility with older games isn t a walk in the park so pre existing xbox one titles default to a different set up in effect half of the render back end hardware is disabled and pixel and vertex shaders are each hived off to half of the 40 available compute units it s a somewhat gross generalisation but you could say that older games effectively get access to 3tf of power compared to the 1 31tf in the older xbox one and compared further to the 6tf accessible via the july xdk as the improvements in render time demonstrate pre existing titles should get enough extra horsepower to max dynamic resolution titles and ramp up anisotropic filtering other back compat enhancements promised by microsoft improved loading times faster cpu power ram cache etc are not gpu dependent so out of the scope of these metrics but there s no reason to believe that they will not be delivered in this sense microsoft s implementation for compatibility halving gpu resources effectively may also explain ps4 pro s boost mode where only the clock speed increase seems to make any difference in purely gpu bound scenarios perhaps a similar utilisation of the expanded gpu was in place there the difference being that even with the same limitations xbox one x has the advantage of many more compute units plus a much higher clock we re really looking forward to testing this out in the absence of an xbox one x patch halo 5 should be a fascinating test of back compat functions and how the power impacts dynamic scaling we ll also be wheeling out our perennial hardware upgrade test titles including project cars and just cause 3 microsoft also suggests that developers utilise the latest xdk for patch updates of older games even if there are no plans for specific xbox one x features and by default this should automatically unlock the full 6tf of gpu power for the title
+the best halo gifts clothes and accessories
+home
+articles
+05 07 2017
+article
+revealed microsoft s xbox one x benchmarks
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+richard leadbetter
+technology editor digital foundry
+digitalfoundry
+we were hoping that e3 would be the venue to put to rest the question of xbox one x s raw gaming potential but only a handful of native titles were revealed and as such some degree of scepticism surrounds microsoft s true 4k claims in the wake of the event developers have come forward to talk about impressive results with the system monolith has confirmed native 4k for shadow of war while respawn entertainment says that titanfall 2 dynamically scales up to 6k resolution on top of that ark developer studio wildcard likens xbox one x to a pc running a gtx 1070 with 16gb of ram microsoft is bullish on the machine s native 4k credentials with its own early benchmarks painting a compelling picture of the hardware s capabilities we re publishing those metrics today but they need to be put into context our visit to microsoft s redmond campus at the end of march was sandwiched between two microsoft xfest developer events one held in the uk a week before our visit and another held in the us just after david cook a software engineer at microsoft s advanced technology group atg presented a detailed low down of the scorpio engine gpu covering many of the same details found in our project scorpio xbox one x hardware reveal but bolsters the specs with detailed performance profiling despite talking to us exclusively about the hardware previously microsoft did not provide these numbers we sourced them via developer contacts and we further verified them before publishing it s a fascinating insight into the performance characteristics of the scorpio engine in addition to the data the presentation reveals how gpu bottlenecks shift somewhat in the move from xbox one to xbox one x compute power is a defining limitation of the base system but in many scenarios this shifts to memory geometry or pixel limits on the new hardware necessitating a change in direction from the developer the focus shifts back to compute an area where the scorpio engine excels happily microsoft also appears to advocate a move from 4x to 8x anisotropic texture filtering too very important in getting the most out of an ultra hd presentation captures from microsoft s performance analysis tool pix were used to illustrate performance bottlenecks with further captures used to demonstrate xbox one x s resolution scalability the data from nine titles was revealed a mixture of games out now or still in development you can see the table below with all of the information that was shared it s sure to provoke plenty of guessing games in terms of what the titles actually are we can be reasonable confident that titles b and c are forza motorsport 7 and gears of war 4 respectively while only star wars battlefront possesses title h s attributes if we had to speculate recore would be a likely candidate for title a and halo wars 2 for title g but it really is speculation the point is not so much what the games are but how they scale on xbox one x hardware compared to their performance on the basic model
+rich has this video guide explaining microsoft s xbox one x benchmarks covering 4k scaling from 900p and 1080p titles as well as back compat performance
+subscribe to our youtube channel
+to get these pix metrics all of the titles underwent the most basic of ports onto project scorpio development hardware and this presents challenges in terms of getting data representative of final games firstly an early iteration of the operating system was in place while scorpio specific hardware features are entirely unused furthermore esram from the base xbox one is mapped directly to gddr5 in the new console with no tweaking meaning that there will be plenty of read writes between memory areas that are entirely wasteful and would not happen in a shipping title on the flip side though these are entirely gpu based benchmarks meaning that memory contention issues between cpu and gpu aren t factored in however this applies for both base xbox one and x performance also worth bearing in mind is that these pix results represent a single snapshot of gpu activity and gpu load varies dramatically throughout any given game however we can assume that they were chosen by microsoft to be representative of how games scale from base xbox one hardware to xbox one x while we ve converted the metrics to frame rate from the original frame time in order to make the information easier to absorb original data is included as well in the charts below it should be pointed out that this data is based on gpu time alone and stands apart from any frame rate cap the final title may implement so for example frame time on title b almost certainly forza motorsport 7 is 13ms on xbox one and 11ms at 4k on xbox one x an 11ms frame time would translate to 90fps but obviously the final game locks to 60fps as we know turn 10 will be using that overhead for improved visuals on the new console the presentation states that the design goal of xbox one x was to run native 1080p titles with a 4x resolution boost while during our visit microsoft had expanded the objective saying that it wanted both 900p and 1080p game engines to run at 2160p the data for most of the nine titles clearly demonstrates that the 4x resolution design goal is clearly met even without access to new gpu features of the xbox one x hardware while the 900p scaling doesn t quite show the same kind of cut and dried improvement two out of the three basic ports get there or thereabouts with hardware specific optimisation likely to make up the difference there s bound to be plenty of speculation surrounding the exact identity of all the titles below we re pretty sure that title b is forza motorsport 7 above title c is gears of war 4 while title h is dice s star wars battlefront
+genre
+target
+engine
+api
+status march 17
+title a
+open world adventure
+900p30
+unity
+dx11
+shipped
+title b
+sports racing
+1080p60
+in house
+dx12
+development
+title c
+linear shooter
+1080p30
+unreal engine 4
+dx12
+shipped
+title d
+open world action
+900p30
+in house
+dx11
+development
+title e
+open world multiplayer
+900p30
+unreal engine 4
+dx12
+development
+title f
+sports racing
+1080p60
+in house
+dx11
+development
+title g
+multiplayer strategy
+1080p30
+in house
+dx11
+shipped
+title h
+first person shooter
+720p60
+in house
+dx12
+shipped
+title i
+open world action
+1080p30
+in house
+dx12
+development
+assuming titles b and c are indeed forza motorsport 7 and gears of war 4 respectively we have real life parallels here between initial port data and optimised results present at e3 turn 10 s engine is indeed capable of hitting 60 frames per second with milliseconds to spare and with frame render time of 11ms we get the 65 per cent gpu load from a title aiming for 60fps precisely what we saw with the forzatech demo based on an older iteration of the engine with that in mind we re curious as to what upgrades turn 10 has decided to deploy here compared to the basic xbox one certainly texture filtering is looking great on the demo we ve played arguably more fascinating is gears of war 4 there is overhead in the leap to 4k based on the benchmarks but not a huge amount of it not compared to forza at least however the coalition announced upgrades for the game at e3 including higher resolution textures higher polygon counts longer draw distances upgraded dynamic shadows and improved reflections it s hard to believe that all of those could be accommodated in the relatively small render time improvement seen here suggesting that more intensive optimisation for xbox one x improves upon the raw benchmark result significantly and if that s the case two of the three 900p titles tested here could conceivably attain native 4k resolution upgrades title a is just 1ms away from parity with base xbox one while title e is just 2ms off pace frame times increasing by around five to six per cent in both cases clearly not every game will scale along those lines though title d an open world adventure clearly isn t going to make it perhaps coincidentally open world adventure assassin s creed origins made it to e3 running on xbox one x hardware and producing a 2160p output but requiring checkerboard and dynamic scaling to get there the results still look impressive in motion though clearly
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911159
+gid 1911159
+adzone
+title
+caption
+type
+version hd
+gallery id 1911159
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 1 png caption xbox one at native resolution compared to performance at 2160p from a barebones xbox one x port higher is better the data is expressed here in terms of percentage 1080p scales well 900p holds up better than you might expect 720p predictably not url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 2 png caption here are the frame rates converted from frame times seen in the next slide higher is better 1080p titles gain frame rate moving to 4k with two out of three 900p games within five to six per cent of matching performance at 4k url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 3 png caption this is the original microsoft data based on frame time measured in milliseconds from pix gpu captures lower is better title d is a 900p game with scaling issues but everything else looks promising bearing in mind the very basic nature of the ports
+there s also been a certain amount of validation for title h almost certainly star wars battlefront running on the frostbite engine clearly a 720p title on base xbox one isn t going to make it to native 4k on xbox one x the raw metrics here suggest that what was originally a 60fps experience would linger in 38fps territory not surprising bearing in mind we re looking at 9x increase in resolution it s a topic we ve discussed recently on how xbox one x s arrival is good news for ps4 pro we speculated that the frostbite team would adapt its pro strategies for the x and based on our analysis of anthem running at 2160p checkerboard on microsoft s new console at the e3 media briefing that s exactly what happened behind the scenes beyond that there are a couple of curiosities in the benchmarks specifically title i an in development open world action game using an in house engine based on dx12 frame times on base xbox one hardware are measured at a staggering 59ms suggesting that this section of game was profiled running at just 17 frames per second there are gains running at native 4k on xbox one x and its performance does seem to be gpu limited if the cpu were an issue the scaling would be far more limited in the back compat results seen below in the documents we ve seen microsoft provides like for like resolution data between base hardware and xbox one x running at the same resolution this may not seem particularly useful in and of itself aside perhaps from revealing the staggering amount of gpu overhead available to developers if they decide to stick to the same resolution however this data does tie into the backwards compatibility functions xbox one x has with existing xbox one titles looking at the table below you ll see comparison data for xbox one titles along with how they run on x hardware based on two scenarios whether they were compiled on the latest xdk development environment or using an older one essentially all existing titles the xbox one x native data represents titles compiled with the july 2017 xdk in development when this presentation was made under the later xdk every new xbox one title will automatically gain xbox one x performance improvements seemingly even if the developer does not have access to an xbox one x devkit and is targeting no bespoke improvements as the data reveals compiling with the new xdk represents a big improvement over older titles so what s going on here why aren t older titles compiled with older xdks matching the results of the newer iteration
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911160
+gid 1911160
+adzone
+title
+caption
+type
+version hd
+gallery id 1911160
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 4 png caption a percentage increase comparison showing base xbox one performance blue at 100 per cent followed by back compat red and native xbox one x code compiled under the latest xdk green older titles can be recompiled to get a big performance boost url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 5 png caption here s the same data this time in basic frame rate terms only title a doesn t see a huge improvement in performance with back compat while the boost with native xbox x code a barebones port it should be noted is massive in all cases url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 6 png caption just like the 4k captures the original data is based on pix captures measured in frame time milliseconds here s that data lower is better here you might say we re looking at 1 31tf vs 3tf vs 6tf performance here at the same resolution
+well it turns out that compatibility with older games isn t a walk in the park so pre existing xbox one titles default to a different set up in effect half of the render back end hardware is disabled and pixel and vertex shaders are each hived off to half of the 40 available compute units it s a somewhat gross generalisation but you could say that older games effectively get access to 3tf of power compared to the 1 31tf in the older xbox one and compared further to the 6tf accessible via the july xdk as the improvements in render time demonstrate pre existing titles should get enough extra horsepower to max dynamic resolution titles and ramp up anisotropic filtering other back compat enhancements promised by microsoft improved loading times faster cpu power ram cache etc are not gpu dependent so out of the scope of these metrics but there s no reason to believe that they will not be delivered in this sense microsoft s implementation for compatibility halving gpu resources effectively may also explain ps4 pro s boost mode where only the clock speed increase seems to make any difference in purely gpu bound scenarios perhaps a similar utilisation of the expanded gpu was in place there the difference being that even with the same limitations xbox one x has the advantage of many more compute units plus a much higher clock we re really looking forward to testing this out in the absence of an xbox one x patch halo 5 should be a fascinating test of back compat functions and how the power impacts dynamic scaling we ll also be wheeling out our perennial hardware upgrade test titles including project cars and just cause 3 microsoft also suggests that developers utilise the latest xdk for patch updates of older games even if there are no plans for specific xbox one x features and by default this should automatically unlock the full 6tf of gpu power for the title
+the best halo gifts clothes and accessories
+home
+articles
+05 07 2017
+article
+revealed microsoft s xbox one x benchmarks
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+richard leadbetter
+technology editor digital foundry
+digitalfoundry
+we were hoping that e3 would be the venue to put to rest the question of xbox one x s raw gaming potential but only a handful of native titles were revealed and as such some degree of scepticism surrounds microsoft s true 4k claims in the wake of the event developers have come forward to talk about impressive results with the system monolith has confirmed native 4k for shadow of war while respawn entertainment says that titanfall 2 dynamically scales up to 6k resolution on top of that ark developer studio wildcard likens xbox one x to a pc running a gtx 1070 with 16gb of ram microsoft is bullish on the machine s native 4k credentials with its own early benchmarks painting a compelling picture of the hardware s capabilities we re publishing those metrics today but they need to be put into context our visit to microsoft s redmond campus at the end of march was sandwiched between two microsoft xfest developer events one held in the uk a week before our visit and another held in the us just after david cook a software engineer at microsoft s advanced technology group atg presented a detailed low down of the scorpio engine gpu covering many of the same details found in our project scorpio xbox one x hardware reveal but bolsters the specs with detailed performance profiling despite talking to us exclusively about the hardware previously microsoft did not provide these numbers we sourced them via developer contacts and we further verified them before publishing it s a fascinating insight into the performance characteristics of the scorpio engine in addition to the data the presentation reveals how gpu bottlenecks shift somewhat in the move from xbox one to xbox one x compute power is a defining limitation of the base system but in many scenarios this shifts to memory geometry or pixel limits on the new hardware necessitating a change in direction from the developer the focus shifts back to compute an area where the scorpio engine excels happily microsoft also appears to advocate a move from 4x to 8x anisotropic texture filtering too very important in getting the most out of an ultra hd presentation captures from microsoft s performance analysis tool pix were used to illustrate performance bottlenecks with further captures used to demonstrate xbox one x s resolution scalability the data from nine titles was revealed a mixture of games out now or still in development you can see the table below with all of the information that was shared it s sure to provoke plenty of guessing games in terms of what the titles actually are we can be reasonable confident that titles b and c are forza motorsport 7 and gears of war 4 respectively while only star wars battlefront possesses title h s attributes if we had to speculate recore would be a likely candidate for title a and halo wars 2 for title g but it really is speculation the point is not so much what the games are but how they scale on xbox one x hardware compared to their performance on the basic model
+rich has this video guide explaining microsoft s xbox one x benchmarks covering 4k scaling from 900p and 1080p titles as well as back compat performance
+subscribe to our youtube channel
+to get these pix metrics all of the titles underwent the most basic of ports onto project scorpio development hardware and this presents challenges in terms of getting data representative of final games firstly an early iteration of the operating system was in place while scorpio specific hardware features are entirely unused furthermore esram from the base xbox one is mapped directly to gddr5 in the new console with no tweaking meaning that there will be plenty of read writes between memory areas that are entirely wasteful and would not happen in a shipping title on the flip side though these are entirely gpu based benchmarks meaning that memory contention issues between cpu and gpu aren t factored in however this applies for both base xbox one and x performance also worth bearing in mind is that these pix results represent a single snapshot of gpu activity and gpu load varies dramatically throughout any given game however we can assume that they were chosen by microsoft to be representative of how games scale from base xbox one hardware to xbox one x while we ve converted the metrics to frame rate from the original frame time in order to make the information easier to absorb original data is included as well in the charts below it should be pointed out that this data is based on gpu time alone and stands apart from any frame rate cap the final title may implement so for example frame time on title b almost certainly forza motorsport 7 is 13ms on xbox one and 11ms at 4k on xbox one x an 11ms frame time would translate to 90fps but obviously the final game locks to 60fps as we know turn 10 will be using that overhead for improved visuals on the new console the presentation states that the design goal of xbox one x was to run native 1080p titles with a 4x resolution boost while during our visit microsoft had expanded the objective saying that it wanted both 900p and 1080p game engines to run at 2160p the data for most of the nine titles clearly demonstrates that the 4x resolution design goal is clearly met even without access to new gpu features of the xbox one x hardware while the 900p scaling doesn t quite show the same kind of cut and dried improvement two out of the three basic ports get there or thereabouts with hardware specific optimisation likely to make up the difference there s bound to be plenty of speculation surrounding the exact identity of all the titles below we re pretty sure that title b is forza motorsport 7 above title c is gears of war 4 while title h is dice s star wars battlefront
+genre
+target
+engine
+api
+status march 17
+title a
+open world adventure
+900p30
+unity
+dx11
+shipped
+title b
+sports racing
+1080p60
+in house
+dx12
+development
+title c
+linear shooter
+1080p30
+unreal engine 4
+dx12
+shipped
+title d
+open world action
+900p30
+in house
+dx11
+development
+title e
+open world multiplayer
+900p30
+unreal engine 4
+dx12
+development
+title f
+sports racing
+1080p60
+in house
+dx11
+development
+title g
+multiplayer strategy
+1080p30
+in house
+dx11
+shipped
+title h
+first person shooter
+720p60
+in house
+dx12
+shipped
+title i
+open world action
+1080p30
+in house
+dx12
+development
+assuming titles b and c are indeed forza motorsport 7 and gears of war 4 respectively we have real life parallels here between initial port data and optimised results present at e3 turn 10 s engine is indeed capable of hitting 60 frames per second with milliseconds to spare and with frame render time of 11ms we get the 65 per cent gpu load from a title aiming for 60fps precisely what we saw with the forzatech demo based on an older iteration of the engine with that in mind we re curious as to what upgrades turn 10 has decided to deploy here compared to the basic xbox one certainly texture filtering is looking great on the demo we ve played arguably more fascinating is gears of war 4 there is overhead in the leap to 4k based on the benchmarks but not a huge amount of it not compared to forza at least however the coalition announced upgrades for the game at e3 including higher resolution textures higher polygon counts longer draw distances upgraded dynamic shadows and improved reflections it s hard to believe that all of those could be accommodated in the relatively small render time improvement seen here suggesting that more intensive optimisation for xbox one x improves upon the raw benchmark result significantly and if that s the case two of the three 900p titles tested here could conceivably attain native 4k resolution upgrades title a is just 1ms away from parity with base xbox one while title e is just 2ms off pace frame times increasing by around five to six per cent in both cases clearly not every game will scale along those lines though title d an open world adventure clearly isn t going to make it perhaps coincidentally open world adventure assassin s creed origins made it to e3 running on xbox one x hardware and producing a 2160p output but requiring checkerboard and dynamic scaling to get there the results still look impressive in motion though clearly
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911159
+gid 1911159
+adzone
+title
+caption
+type
+version hd
+gallery id 1911159
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 1 png caption xbox one at native resolution compared to performance at 2160p from a barebones xbox one x port higher is better the data is expressed here in terms of percentage 1080p scales well 900p holds up better than you might expect 720p predictably not url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 2 png caption here are the frame rates converted from frame times seen in the next slide higher is better 1080p titles gain frame rate moving to 4k with two out of three 900p games within five to six per cent of matching performance at 4k url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 3 png caption this is the original microsoft data based on frame time measured in milliseconds from pix gpu captures lower is better title d is a 900p game with scaling issues but everything else looks promising bearing in mind the very basic nature of the ports
+there s also been a certain amount of validation for title h almost certainly star wars battlefront running on the frostbite engine clearly a 720p title on base xbox one isn t going to make it to native 4k on xbox one x the raw metrics here suggest that what was originally a 60fps experience would linger in 38fps territory not surprising bearing in mind we re looking at 9x increase in resolution it s a topic we ve discussed recently on how xbox one x s arrival is good news for ps4 pro we speculated that the frostbite team would adapt its pro strategies for the x and based on our analysis of anthem running at 2160p checkerboard on microsoft s new console at the e3 media briefing that s exactly what happened behind the scenes beyond that there are a couple of curiosities in the benchmarks specifically title i an in development open world action game using an in house engine based on dx12 frame times on base xbox one hardware are measured at a staggering 59ms suggesting that this section of game was profiled running at just 17 frames per second there are gains running at native 4k on xbox one x and its performance does seem to be gpu limited if the cpu were an issue the scaling would be far more limited in the back compat results seen below in the documents we ve seen microsoft provides like for like resolution data between base hardware and xbox one x running at the same resolution this may not seem particularly useful in and of itself aside perhaps from revealing the staggering amount of gpu overhead available to developers if they decide to stick to the same resolution however this data does tie into the backwards compatibility functions xbox one x has with existing xbox one titles looking at the table below you ll see comparison data for xbox one titles along with how they run on x hardware based on two scenarios whether they were compiled on the latest xdk development environment or using an older one essentially all existing titles the xbox one x native data represents titles compiled with the july 2017 xdk in development when this presentation was made under the later xdk every new xbox one title will automatically gain xbox one x performance improvements seemingly even if the developer does not have access to an xbox one x devkit and is targeting no bespoke improvements as the data reveals compiling with the new xdk represents a big improvement over older titles so what s going on here why aren t older titles compiled with older xdks matching the results of the newer iteration
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911160
+gid 1911160
+adzone
+title
+caption
+type
+version hd
+gallery id 1911160
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 4 png caption a percentage increase comparison showing base xbox one performance blue at 100 per cent followed by back compat red and native xbox one x code compiled under the latest xdk green older titles can be recompiled to get a big performance boost url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 5 png caption here s the same data this time in basic frame rate terms only title a doesn t see a huge improvement in performance with back compat while the boost with native xbox x code a barebones port it should be noted is massive in all cases url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 6 png caption just like the 4k captures the original data is based on pix captures measured in frame time milliseconds here s that data lower is better here you might say we re looking at 1 31tf vs 3tf vs 6tf performance here at the same resolution
+well it turns out that compatibility with older games isn t a walk in the park so pre existing xbox one titles default to a different set up in effect half of the render back end hardware is disabled and pixel and vertex shaders are each hived off to half of the 40 available compute units it s a somewhat gross generalisation but you could say that older games effectively get access to 3tf of power compared to the 1 31tf in the older xbox one and compared further to the 6tf accessible via the july xdk as the improvements in render time demonstrate pre existing titles should get enough extra horsepower to max dynamic resolution titles and ramp up anisotropic filtering other back compat enhancements promised by microsoft improved loading times faster cpu power ram cache etc are not gpu dependent so out of the scope of these metrics but there s no reason to believe that they will not be delivered in this sense microsoft s implementation for compatibility halving gpu resources effectively may also explain ps4 pro s boost mode where only the clock speed increase seems to make any difference in purely gpu bound scenarios perhaps a similar utilisation of the expanded gpu was in place there the difference being that even with the same limitations xbox one x has the advantage of many more compute units plus a much higher clock we re really looking forward to testing this out in the absence of an xbox one x patch halo 5 should be a fascinating test of back compat functions and how the power impacts dynamic scaling we ll also be wheeling out our perennial hardware upgrade test titles including project cars and just cause 3 microsoft also suggests that developers utilise the latest xdk for patch updates of older games even if there are no plans for specific xbox one x features and by default this should automatically unlock the full 6tf of gpu power for the title
+the best halo gifts clothes and accessories
+home
+articles
+05 07 2017
+article
+revealed microsoft s xbox one x benchmarks
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+richard leadbetter
+technology editor digital foundry
+digitalfoundry
+we were hoping that e3 would be the venue to put to rest the question of xbox one x s raw gaming potential but only a handful of native titles were revealed and as such some degree of scepticism surrounds microsoft s true 4k claims in the wake of the event developers have come forward to talk about impressive results with the system monolith has confirmed native 4k for shadow of war while respawn entertainment says that titanfall 2 dynamically scales up to 6k resolution on top of that ark developer studio wildcard likens xbox one x to a pc running a gtx 1070 with 16gb of ram microsoft is bullish on the machine s native 4k credentials with its own early benchmarks painting a compelling picture of the hardware s capabilities we re publishing those metrics today but they need to be put into context our visit to microsoft s redmond campus at the end of march was sandwiched between two microsoft xfest developer events one held in the uk a week before our visit and another held in the us just after david cook a software engineer at microsoft s advanced technology group atg presented a detailed low down of the scorpio engine gpu covering many of the same details found in our project scorpio xbox one x hardware reveal but bolsters the specs with detailed performance profiling despite talking to us exclusively about the hardware previously microsoft did not provide these numbers we sourced them via developer contacts and we further verified them before publishing it s a fascinating insight into the performance characteristics of the scorpio engine in addition to the data the presentation reveals how gpu bottlenecks shift somewhat in the move from xbox one to xbox one x compute power is a defining limitation of the base system but in many scenarios this shifts to memory geometry or pixel limits on the new hardware necessitating a change in direction from the developer the focus shifts back to compute an area where the scorpio engine excels happily microsoft also appears to advocate a move from 4x to 8x anisotropic texture filtering too very important in getting the most out of an ultra hd presentation captures from microsoft s performance analysis tool pix were used to illustrate performance bottlenecks with further captures used to demonstrate xbox one x s resolution scalability the data from nine titles was revealed a mixture of games out now or still in development you can see the table below with all of the information that was shared it s sure to provoke plenty of guessing games in terms of what the titles actually are we can be reasonable confident that titles b and c are forza motorsport 7 and gears of war 4 respectively while only star wars battlefront possesses title h s attributes if we had to speculate recore would be a likely candidate for title a and halo wars 2 for title g but it really is speculation the point is not so much what the games are but how they scale on xbox one x hardware compared to their performance on the basic model
+rich has this video guide explaining microsoft s xbox one x benchmarks covering 4k scaling from 900p and 1080p titles as well as back compat performance
+subscribe to our youtube channel
+to get these pix metrics all of the titles underwent the most basic of ports onto project scorpio development hardware and this presents challenges in terms of getting data representative of final games firstly an early iteration of the operating system was in place while scorpio specific hardware features are entirely unused furthermore esram from the base xbox one is mapped directly to gddr5 in the new console with no tweaking meaning that there will be plenty of read writes between memory areas that are entirely wasteful and would not happen in a shipping title on the flip side though these are entirely gpu based benchmarks meaning that memory contention issues between cpu and gpu aren t factored in however this applies for both base xbox one and x performance also worth bearing in mind is that these pix results represent a single snapshot of gpu activity and gpu load varies dramatically throughout any given game however we can assume that they were chosen by microsoft to be representative of how games scale from base xbox one hardware to xbox one x while we ve converted the metrics to frame rate from the original frame time in order to make the information easier to absorb original data is included as well in the charts below it should be pointed out that this data is based on gpu time alone and stands apart from any frame rate cap the final title may implement so for example frame time on title b almost certainly forza motorsport 7 is 13ms on xbox one and 11ms at 4k on xbox one x an 11ms frame time would translate to 90fps but obviously the final game locks to 60fps as we know turn 10 will be using that overhead for improved visuals on the new console the presentation states that the design goal of xbox one x was to run native 1080p titles with a 4x resolution boost while during our visit microsoft had expanded the objective saying that it wanted both 900p and 1080p game engines to run at 2160p the data for most of the nine titles clearly demonstrates that the 4x resolution design goal is clearly met even without access to new gpu features of the xbox one x hardware while the 900p scaling doesn t quite show the same kind of cut and dried improvement two out of the three basic ports get there or thereabouts with hardware specific optimisation likely to make up the difference there s bound to be plenty of speculation surrounding the exact identity of all the titles below we re pretty sure that title b is forza motorsport 7 above title c is gears of war 4 while title h is dice s star wars battlefront
+genre
+target
+engine
+api
+status march 17
+title a
+open world adventure
+900p30
+unity
+dx11
+shipped
+title b
+sports racing
+1080p60
+in house
+dx12
+development
+title c
+linear shooter
+1080p30
+unreal engine 4
+dx12
+shipped
+title d
+open world action
+900p30
+in house
+dx11
+development
+title e
+open world multiplayer
+900p30
+unreal engine 4
+dx12
+development
+title f
+sports racing
+1080p60
+in house
+dx11
+development
+title g
+multiplayer strategy
+1080p30
+in house
+dx11
+shipped
+title h
+first person shooter
+720p60
+in house
+dx12
+shipped
+title i
+open world action
+1080p30
+in house
+dx12
+development
+assuming titles b and c are indeed forza motorsport 7 and gears of war 4 respectively we have real life parallels here between initial port data and optimised results present at e3 turn 10 s engine is indeed capable of hitting 60 frames per second with milliseconds to spare and with frame render time of 11ms we get the 65 per cent gpu load from a title aiming for 60fps precisely what we saw with the forzatech demo based on an older iteration of the engine with that in mind we re curious as to what upgrades turn 10 has decided to deploy here compared to the basic xbox one certainly texture filtering is looking great on the demo we ve played arguably more fascinating is gears of war 4 there is overhead in the leap to 4k based on the benchmarks but not a huge amount of it not compared to forza at least however the coalition announced upgrades for the game at e3 including higher resolution textures higher polygon counts longer draw distances upgraded dynamic shadows and improved reflections it s hard to believe that all of those could be accommodated in the relatively small render time improvement seen here suggesting that more intensive optimisation for xbox one x improves upon the raw benchmark result significantly and if that s the case two of the three 900p titles tested here could conceivably attain native 4k resolution upgrades title a is just 1ms away from parity with base xbox one while title e is just 2ms off pace frame times increasing by around five to six per cent in both cases clearly not every game will scale along those lines though title d an open world adventure clearly isn t going to make it perhaps coincidentally open world adventure assassin s creed origins made it to e3 running on xbox one x hardware and producing a 2160p output but requiring checkerboard and dynamic scaling to get there the results still look impressive in motion though clearly
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911159
+gid 1911159
+adzone
+title
+caption
+type
+version hd
+gallery id 1911159
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 1 png caption xbox one at native resolution compared to performance at 2160p from a barebones xbox one x port higher is better the data is expressed here in terms of percentage 1080p scales well 900p holds up better than you might expect 720p predictably not url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 2 png caption here are the frame rates converted from frame times seen in the next slide higher is better 1080p titles gain frame rate moving to 4k with two out of three 900p games within five to six per cent of matching performance at 4k url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 16 33 3 png caption this is the original microsoft data based on frame time measured in milliseconds from pix gpu captures lower is better title d is a 900p game with scaling issues but everything else looks promising bearing in mind the very basic nature of the ports
+there s also been a certain amount of validation for title h almost certainly star wars battlefront running on the frostbite engine clearly a 720p title on base xbox one isn t going to make it to native 4k on xbox one x the raw metrics here suggest that what was originally a 60fps experience would linger in 38fps territory not surprising bearing in mind we re looking at 9x increase in resolution it s a topic we ve discussed recently on how xbox one x s arrival is good news for ps4 pro we speculated that the frostbite team would adapt its pro strategies for the x and based on our analysis of anthem running at 2160p checkerboard on microsoft s new console at the e3 media briefing that s exactly what happened behind the scenes beyond that there are a couple of curiosities in the benchmarks specifically title i an in development open world action game using an in house engine based on dx12 frame times on base xbox one hardware are measured at a staggering 59ms suggesting that this section of game was profiled running at just 17 frames per second there are gains running at native 4k on xbox one x and its performance does seem to be gpu limited if the cpu were an issue the scaling would be far more limited in the back compat results seen below in the documents we ve seen microsoft provides like for like resolution data between base hardware and xbox one x running at the same resolution this may not seem particularly useful in and of itself aside perhaps from revealing the staggering amount of gpu overhead available to developers if they decide to stick to the same resolution however this data does tie into the backwards compatibility functions xbox one x has with existing xbox one titles looking at the table below you ll see comparison data for xbox one titles along with how they run on x hardware based on two scenarios whether they were compiled on the latest xdk development environment or using an older one essentially all existing titles the xbox one x native data represents titles compiled with the july 2017 xdk in development when this presentation was made under the later xdk every new xbox one title will automatically gain xbox one x performance improvements seemingly even if the developer does not have access to an xbox one x devkit and is targeting no bespoke improvements as the data reveals compiling with the new xdk represents a big improvement over older titles so what s going on here why aren t older titles compiled with older xdks matching the results of the newer iteration
+gallery
+document ready function
+new inlinegallery
+target inline gallery 1911160
+gid 1911160
+adzone
+title
+caption
+type
+version hd
+gallery id 1911160
+localisations
+previous previous
+next next
+all view all
+loading loading hold tight
+full view full resolution
+of of
+gallery view gallery
+images url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 4 png caption a percentage increase comparison showing base xbox one performance blue at 100 per cent followed by back compat red and native xbox one x code compiled under the latest xdk green older titles can be recompiled to get a big performance boost url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 5 png caption here s the same data this time in basic frame rate terms only title a doesn t see a huge improvement in performance with back compat while the boost with native xbox x code a barebones port it should be noted is massive in all cases url https d2skuhm0vrry40 cloudfront net 2017 articles 2017 07 02 17 41 6 png caption just like the 4k captures the original data is based on pix captures measured in frame time milliseconds here s that data lower is better here you might say we re looking at 1 31tf vs 3tf vs 6tf performance here at the same resolution
+well it turns out that compatibility with older games isn t a walk in the park so pre existing xbox one titles default to a different set up in effect half of the render back end hardware is disabled and pixel and vertex shaders are each hived off to half of the 40 available compute units it s a somewhat gross generalisation but you could say that older games effectively get access to 3tf of power compared to the 1 31tf in the older xbox one and compared further to the 6tf accessible via the july xdk as the improvements in render time demonstrate pre existing titles should get enough extra horsepower to max dynamic resolution titles and ramp up anisotropic filtering other back compat enhancements promised by microsoft improved loading times faster cpu power ram cache etc are not gpu dependent so out of the scope of these metrics but there s no reason to believe that they will not be delivered in this sense microsoft s implementation for compatibility halving gpu resources effectively may also explain ps4 pro s boost mode where only the clock speed increase seems to make any difference in purely gpu bound scenarios perhaps a similar utilisation of the expanded gpu was in place there the difference being that even with the same limitations xbox one x has the advantage of many more compute units plus a much higher clock we re really looking forward to testing this out in the absence of an xbox one x patch halo 5 should be a fascinating test of back compat functions and how the power impacts dynamic scaling we ll also be wheeling out our perennial hardware upgrade test titles including project cars and just cause 3 microsoft also suggests that developers utilise the latest xdk for patch updates of older games even if there are no plans for specific xbox one x features and by default this should automatically unlock the full 6tf of gpu power for the title
+the best halo gifts clothes and accessories
+home
+articles
+05 07 2017
+article
+revealed microsoft s xbox one x benchmarks
+native 4k vs 900p 1080p on xbox one plus back compat metrics
+subscribe to our youtube channel
+there s bound to be plenty of speculation surrounding the exact identity of all the titles below we re pretty sure that title b is forza motorsport 7 above title c is gears of war 4 while title h is dice s star wars battlefront
+genre
+target
+engine
+api
+status march 17
+title a
+open world adventure
+900p30
+unity
+dx11
+shipped
+title b
+sports racing
+1080p60
+in house
+dx12
+development
+title c
+linear shooter
+1080p30
+unreal engine 4
+dx12
+shipped
+title d
+open world action
+900p30
+in house
+dx11
+development
+title e
+open world multiplayer
+900p30
+unreal engine 4
+dx12
+development
+title f
+sports racing
+1080p60
+in house
+dx11
+development
+title g
+multiplayer strategy
+1080p30
+in house
+dx11
+shipped
+title h
+first person shooter
+720p60
+in house
+dx12
+shipped
+title i
+open world action
+1080p30
+in house
+dx12
+development
+gallery
+gallery
+the best halo gifts clothes and accessories
+about the author
+richard leadbetter
+technology editor digital foundry
+rich has been a games journalist since the days of 16 bit and specialises in technical analysis he s commonly known around eurogamer as the blacksmith of the future
+more articles by richard leadbetter
+richard leadbetter
+technology editor digital foundry
+rich has been a games journalist since the days of 16 bit and specialises in technical analysis he s commonly known around eurogamer as the blacksmith of the future
+more articles by richard leadbetter
+richard leadbetter
+technology editor digital foundry
+rich has been a games journalist since the days of 16 bit and specialises in technical analysis he s commonly known around eurogamer as the blacksmith of the future
+more articles by richard leadbetter
+comments 480
+comments for this article are now closed but please feel free to continue chatting
+on the forum
+hide low scoring comments
+yes
+no
+order
+newest
+oldest
+best
+worst
+threading
+expand all
+collapse all
+global for use in google universal event tracking
+var article
+slug digitalfoundry 2017 microsofts xbox one x benchmarks revealed
+type article
+topics digital foundry
+author richard leadbetter
+document ready function
+var toolbar new commenttoolbar
+toolbar main toolbar
+textarea comment textarea
+lang
+loading loading hold tight
+var c new comments
+toolbar toolbar
+id 1911100
+uid 0
+lang
+loading loading hold tight
+post post a comment
+updating updating
+error an error has occurred
+orderby best
+advertisement
+related
+image
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+24
+image
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+4
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+34
+image
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran
+23
+like what we do at digital foundry support us
+subscribe for only 5 and get access to our entire library of 4k videos
+subscribe and get instant access
+digital foundry
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+advertisement
+comments 480
+comments for this article are now closed but please feel free to continue chatting
+on the forum
+hide low scoring comments
+yes
+no
+order
+newest
+oldest
+best
+worst
+threading
+expand all
+collapse all
+global for use in google universal event tracking
+var article
+slug digitalfoundry 2017 microsofts xbox one x benchmarks revealed
+type article
+topics digital foundry
+author richard leadbetter
+document ready function
+var toolbar new commenttoolbar
+toolbar main toolbar
+textarea comment textarea
+lang
+loading loading hold tight
+var c new comments
+toolbar toolbar
+id 1911100
+uid 0
+lang
+loading loading hold tight
+post post a comment
+updating updating
+error an error has occurred
+orderby best
+comments for this article are now closed but please feel free to continue chatting
+on the forum
+hide low scoring comments
+yes
+no
+order
+newest
+oldest
+best
+worst
+threading
+expand all
+collapse all
+comments for this article are now closed but please feel free to continue chatting
+on the forum
+hide low scoring comments
+yes
+no
+order
+newest
+oldest
+best
+worst
+threading
+expand all
+collapse all
+hide low scoring comments
+yes
+no
+order
+newest
+oldest
+best
+worst
+threading
+expand all
+collapse all
+advertisement
+advertisement
+image
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+24
+image
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+4
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+34
+image
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran
+23
+image
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+24
+image
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+4
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+34
+image
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran
+23
+image
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+24
+image
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+24
+image
+spider man ps4 dev reveals cool easter egg no one noticed
+on a saturday
+24
+24
+image
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+4
+image
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+4
+image
+epic has already banned thousands of fortnite world cup participants for cheating
+v bad
+4
+4
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+64
+image
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+34
+image
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+34
+image
+assassin s creed unity players review bomb steam page with positivity
+i finished unity literally the night before notre dame caught fire
+34
+34
+image
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran
+23
+image
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran
+23
+image
+leaked days gone gameplay doesn t reveal much but does give us a good idea of what to expect
+biker ran
+23
+23
+like what we do at digital foundry support us
+subscribe for only 5 and get access to our entire library of 4k videos
+subscribe and get instant access
+like what we do at digital foundry support us
+subscribe for only 5 and get access to our entire library of 4k videos
+subscribe and get instant access
+like what we do at digital foundry support us
+subscribe for only 5 and get access to our entire library of 4k videos
+subscribe and get instant access
+digital foundry
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+advertisement
+digital foundry
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+image
+digital foundryin theory is ps5 powered by an amd gonzalo processor
+specs have leaked for a new amd console chip but what is it
+64
+64
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+image
+digital foundrycuphead on switch is a stunning conversion
+flawless victory
+98
+98
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+image
+digital foundrybest freesync and g sync compatible monitors for nvidia graphics cards
+our pick of the best adaptive sync screens covering a range of sizes and resolutions
+66
+66
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+image
+digital foundryspec analysis sony s surprise playstation 5 tech reveal
+cerny computer entertainment
+379
+379
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+image
+digital foundrygtx 1660 ti vs vega 56 game benchmarks at 1080p 1440p and 4k
+the discounted mid tier amd gpu faces one of nvidia s new additions
+advertisement
+subscribe to the eurogamer net daily
+the 10 most popular stories of the day delivered at 5pm uk time never miss a thing
+subscribe
+document ready function
+new newslettersubscriber
+target newsletter promo
+lang
+subscribe subscribe
+success you re subscribed to this newsletter nice one
+error an error has occurred
+subscribe to the eurogamer net daily
+the 10 most popular stories of the day delivered at 5pm uk time never miss a thing
+subscribe
+subscribe to the eurogamer net daily
+the 10 most popular stories of the day delivered at 5pm uk time never miss a thing
+subscribe
+subscribe to the eurogamer net daily
+the 10 most popular stories of the day delivered at 5pm uk time never miss a thing
+subscribe
+bad puns and video games since 1999
+this site 2018 gamer network all rights reserved no part of this site or its content may be reproduced without the permission of the copyright holder
+site version
+mobile
+portable
+desktop
+explore
+all topics
+authors
+pc
+playstation 4
+xbox one
+switch
+digital foundry
+news
+reviews
+videos
+features
+guides
+helpful links
+staff
+contact us
+forum
+corporate site
+policy centre
+twitter
+facebook
+careers
+discord
+latest comments
+rss
+across europe
+eurogamer cz
+eurogamer de
+eurogamer es
+eurogamer it
+eurogamer net
+eurogamer nl
+eurogamer pl
+eurogamer pt
+rockpapershotgun de
+gamer network
+gamesindustry biz
+gamer s edition
+jelly deals
+metabomb
+nintendo life
+push square
+rock paper shotgun
+usgamer
+vg247
+events
+egx
+egx berlin
+egx rezzed
+mcm comic con
+pax
+star wars celebration
+bad puns and video games since 1999
+this site 2018 gamer network all rights reserved no part of this site or its content may be reproduced without the permission of the copyright holder
+site version
+mobile
+portable
+desktop
+site version
+mobile
+portable
+desktop
+mobile
+portable
+desktop
+explore
+all topics
+authors
+pc
+playstation 4
+xbox one
+switch
+digital foundry
+news
+reviews
+videos
+features
+guides
+helpful links
+staff
+contact us
+forum
+corporate site
+policy centre
+twitter
+facebook
+careers
+discord
+latest comments
+rss
+across europe
+eurogamer cz
+eurogamer de
+eurogamer es
+eurogamer it
+eurogamer net
+eurogamer nl
+eurogamer pl
+eurogamer pt
+rockpapershotgun de
+gamer network
+gamesindustry biz
+gamer s edition
+jelly deals
+metabomb
+nintendo life
+push square
+rock paper shotgun
+usgamer
+vg247
+events
+egx
+egx berlin
+egx rezzed
+mcm comic con
+pax
+star wars celebration
+sign in
+username
+password
+sign in
+connect with facebook
+document ready function
+new facebooklogin
+target fb login via overlay
+style wide
+translations
+login connect with facebook
+working logging in
+error an error has occurred
+new in town
+create an account
+forgotten your details
+sign in
+username
+password
+sign in
+connect with facebook
+document ready function
+new facebooklogin
+target fb login via overlay
+style wide
+translations
+login connect with facebook
+working logging in
+error an error has occurred
+new in town
+create an account
+forgotten your details
+sign in
+username
+password
+sign in
+connect with facebook
+document ready function
+new facebooklogin
+target fb login via overlay
+style wide
+translations
+login connect with facebook
+working logging in
+error an error has occurred
+new in town
+create an account
+forgotten your details
+sign in
+username
+password
+sign in
+connect with facebook
+document ready function
+new facebooklogin
+target fb login via overlay
+style wide
+translations
+login connect with facebook
+working logging in
+error an error has occurred
+new in town
+create an account
+forgotten your details

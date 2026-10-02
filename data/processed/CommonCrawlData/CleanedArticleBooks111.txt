@@ -1,0 +1,4515 @@
+accessibility links
+saturday 20 april 2019
+by laura roberts7 30am bst 11 sep 2010 philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+carey on course for third booker
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures related partnerslove puzzles get the best at telegraph puzzlesbooks on amazon co ukin book news
+top galleries
+culture galleries
+more from the web
+more from the web
+telegraph books
+one man one dog and their incredible story of courage and survival in world
+war ii
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+more from the web
+back to top copyright of telegraph media group limited 2019terms and conditions today s newsarchivestyle bookweather forecast
+accessibility links
+skip to article
+skip to navigation
+telegraph co uk
+saturday 20 april 2019
+epoch time at the end of header
+var tmgheadertimerend date now
+home
+video
+news
+world
+sport
+business
+money
+comment
+culture
+travel
+life
+women
+fashion
+luxury
+tech
+film
+film
+tv and radio
+books
+music
+comedy
+art
+theatre
+photography
+dance
+opera
+hay festival
+glyndebourne
+best books to read
+book reviews
+fiction
+non fiction
+children s books
+book shop
+ways with words
+books video
+advertisement
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+home
+culture
+books
+book news
+philip pullman and philip hensher criticise booker prize for including present tense novels
+leading authors have criticised the man booker prize shortlist because half of
+it is made up of novels written in the present tense
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+book news
+news
+uk news
+telegraph book shop
+new york at night
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+top galleries
+advertisement
+google ad client ca telegraph uk 300x250
+google ad channel culture
+google max num ads 3
+google ad output js
+google ad type text
+google language en
+google encoding utf8
+google safe high
+google hints books booknews
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+epoch time at the start of mpu ad
+var mpuadtimerstart date now
+advertisement
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+epoch time at the start of skyscraper ad
+var startofskyscraper date now
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+advertisement
+document write tmgadsbuildadtag yell 300x150 adj 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+function
+var outbrainscripttag document createelement script
+outbrainscripttag type text javascript
+outbrainscripttag async true
+outbrainscripttag id outbrain
+outbrainscripttag src
+var s document getelementsbytagname script 0
+s parentnode insertbefore outbrainscripttag s
+epoch time at the end of right hand column
+var righthandtimer date now
+world news
+the latest world news
+view
+us news
+latest and breaking stories from the united states
+view
+film
+all the latest film trailers reviews and features
+view
+football
+catch up on all the latest football news and results
+view
+epoch time at the end of content area
+var contentendtimer date now
+back to top
+home
+film
+film reviews
+film news
+books
+book reviews
+book shop
+music
+music reviews
+classical music
+music video
+music festivals
+opera
+tickets
+tv and radio
+tv guide
+theatre
+theatre reviews
+art
+dance
+dating
+culture news
+picture galleries
+culture video
+culture critics
+photography
+crossword
+theatre tickets
+contact us
+privacy and cookies
+advertising
+fantasy football
+announcements
+reader prints
+follow us
+apps
+epaper
+expat
+promotions
+subscriber
+syndication
+copyright of telegraph media group limited 2019
+terms and conditions
+today s news
+archive
+style book
+weather forecast
+epoch time at the end of footer
+var footerendtimer date now
+telegraph co uk
+saturday 20 april 2019
+telegraph co uk
+saturday 20 april 2019
+telegraph co uk
+saturday 20 april 2019
+saturday 20 april 2019
+saturday 20 april 2019
+saturday 20 april 2019
+home
+video
+news
+world
+sport
+business
+money
+comment
+culture
+travel
+life
+women
+fashion
+luxury
+tech
+film
+film
+tv and radio
+books
+music
+comedy
+art
+theatre
+photography
+dance
+opera
+hay festival
+glyndebourne
+best books to read
+book reviews
+fiction
+non fiction
+children s books
+book shop
+ways with words
+books video
+advertisement
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+home
+culture
+books
+book news
+home
+video
+news
+world
+sport
+business
+money
+comment
+culture
+travel
+life
+women
+fashion
+luxury
+tech
+film
+home
+video
+news
+world
+sport
+business
+money
+comment
+culture
+travel
+life
+women
+fashion
+luxury
+tech
+film
+film
+tv and radio
+books
+music
+comedy
+art
+theatre
+photography
+dance
+opera
+hay festival
+glyndebourne
+best books to read
+book reviews
+fiction
+non fiction
+children s books
+book shop
+ways with words
+books video
+advertisement
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+advertisement
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+advertisement
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+document write tmgadsbuildadtag ban 970x250 970x90 940x250 728x90 468x60 adj 2
+home
+culture
+books
+book news
+philip pullman and philip hensher criticise booker prize for including present tense novels
+leading authors have criticised the man booker prize shortlist because half of
+it is made up of novels written in the present tense
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+book news
+news
+uk news
+telegraph book shop
+new york at night
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+top galleries
+advertisement
+google ad client ca telegraph uk 300x250
+google ad channel culture
+google max num ads 3
+google ad output js
+google ad type text
+google language en
+google encoding utf8
+google safe high
+google hints books booknews
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+epoch time at the start of mpu ad
+var mpuadtimerstart date now
+advertisement
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+epoch time at the start of skyscraper ad
+var startofskyscraper date now
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+advertisement
+document write tmgadsbuildadtag yell 300x150 adj 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+function
+var outbrainscripttag document createelement script
+outbrainscripttag type text javascript
+outbrainscripttag async true
+outbrainscripttag id outbrain
+outbrainscripttag src
+var s document getelementsbytagname script 0
+s parentnode insertbefore outbrainscripttag s
+epoch time at the end of right hand column
+var righthandtimer date now
+world news
+the latest world news
+view
+us news
+latest and breaking stories from the united states
+view
+film
+all the latest film trailers reviews and features
+view
+football
+catch up on all the latest football news and results
+view
+philip pullman and philip hensher criticise booker prize for including present tense novels
+leading authors have criticised the man booker prize shortlist because half of
+it is made up of novels written in the present tense
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+book news
+news
+uk news
+telegraph book shop
+new york at night
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+top galleries
+advertisement
+google ad client ca telegraph uk 300x250
+google ad channel culture
+google max num ads 3
+google ad output js
+google ad type text
+google language en
+google encoding utf8
+google safe high
+google hints books booknews
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+epoch time at the start of mpu ad
+var mpuadtimerstart date now
+advertisement
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+epoch time at the start of skyscraper ad
+var startofskyscraper date now
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+advertisement
+document write tmgadsbuildadtag yell 300x150 adj 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+function
+var outbrainscripttag document createelement script
+outbrainscripttag type text javascript
+outbrainscripttag async true
+outbrainscripttag id outbrain
+outbrainscripttag src
+var s document getelementsbytagname script 0
+s parentnode insertbefore outbrainscripttag s
+epoch time at the end of right hand column
+var righthandtimer date now
+philip pullman and philip hensher criticise booker prize for including present tense novels
+leading authors have criticised the man booker prize shortlist because half of
+it is made up of novels written in the present tense
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+book news
+news
+uk news
+telegraph book shop
+new york at night
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+top galleries
+advertisement
+google ad client ca telegraph uk 300x250
+google ad channel culture
+google max num ads 3
+google ad output js
+google ad type text
+google language en
+google encoding utf8
+google safe high
+google hints books booknews
+philip pullman and philip hensher criticise booker prize for including present tense novels
+leading authors have criticised the man booker prize shortlist because half of
+it is made up of novels written in the present tense
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+philip pullman left and philip hensher have criticised the man booker prize shortlist photo rex
+by laura roberts
+7 30am bst 11 sep 2010
+by laura roberts
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+philip pullman and philip hensher claimed that the use of present tense is becoming a cliche pullman the best selling children s author was scathing over its use he said this wretched fad has been spreading more and more widely i can t see the appeal at all to my mind it drastically narrows the options available to the writer when a language has a range of tenses such as the perfect the imperfect the pluperfect each of which makes other kinds of statement possible why on earth not use them he added i just don t read present tense novels any more it s a silly affectation in my view and it does nothing but annoy the six authors listed for this year s prize are peter carey andrea levy howard jacobson tom mccarthy damon galgut and emma donoghue the first three authors novels are in the past tense while the others written in the more fashionable style
+related articles
+carey on course for third booker
+07 sep 2010
+related articles hensher whose novel the northern clemency was booker shortlisted in 2008 said that writers were mistaken by thinking that using the present tense would make their writing more vivid he said writing is vivid if it is vivid a shift in tense won t do that for you he added what was once a rare interesting effect is starting to become utterly conventional some of the novels on the booker longlist just seemed to me to be following fashion blindly the present tense is everywhere in the english novel like japanese knotweed however sir andrew motion the former poet laureate chairman of the judges for this year s prize was certain that the judges had provided a fair shortlist he said we feel sure we ve chosen books which demonstrate a rich variety of styles and themes while in every case providing deep individual pleasures
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+book news
+news
+uk news
+telegraph book shop
+new york at night
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+book news
+news
+uk news
+book news
+news
+uk news
+book news
+news
+uk news
+book news
+book news
+telegraph book shop
+new york at night
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+telegraph book shop
+new york at night
+the grandeur of nature
+telegraph book shop
+new york at night
+the grandeur of nature
+telegraph book shop
+telegraph book shop
+new york at night
+new york at night
+the grandeur of nature
+the grandeur of nature
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+related partners
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+love puzzles get the best at telegraph puzzles
+books on amazon co uk
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+in book news
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+harry potter s dark arts exhibit
+harry potter s dark arts exhibit
+the 100 novels everyone should read
+the 100 novels everyone should read
+the 85 best books of 2014
+the 85 best books of 2014
+the 19 best history and war books of 2014
+the 19 best history and war books of 2014
+the 50 best cult books
+the 50 best cult books
+top galleries
+advertisement
+google ad client ca telegraph uk 300x250
+google ad channel culture
+google max num ads 3
+google ad output js
+google ad type text
+google language en
+google encoding utf8
+google safe high
+google hints books booknews
+top galleries
+top galleries
+top galleries
+advertisement
+google ad client ca telegraph uk 300x250
+google ad channel culture
+google max num ads 3
+google ad output js
+google ad type text
+google language en
+google encoding utf8
+google safe high
+google hints books booknews
+advertisement
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+epoch time at the start of mpu ad
+var mpuadtimerstart date now
+advertisement
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+epoch time at the start of skyscraper ad
+var startofskyscraper date now
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+advertisement
+document write tmgadsbuildadtag yell 300x150 adj 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+function
+var outbrainscripttag document createelement script
+outbrainscripttag type text javascript
+outbrainscripttag async true
+outbrainscripttag id outbrain
+outbrainscripttag src
+var s document getelementsbytagname script 0
+s parentnode insertbefore outbrainscripttag s
+epoch time at the end of right hand column
+var righthandtimer date now
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+epoch time at the start of mpu ad
+var mpuadtimerstart date now
+advertisement
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+advertisement
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+document write tmgadsbuildadtag mpu 300x250 300x600 adj 2
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+culture galleries
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+the best british political insults
+the simpsons 40 best quotations
+30 great one liners
+a history of the world in funny puns
+100 funny jokes by 100 comedians
+100 funny jokes by 100 comedians
+80 great quotes about love and romance
+80 great quotes about love and romance
+the best british political insults
+the best british political insults
+the simpsons 40 best quotations
+the simpsons 40 best quotations
+30 great one liners
+30 great one liners
+a history of the world in funny puns
+a history of the world in funny puns
+like telegraph books on facebook
+culture video
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+oscars 2016 highlights
+oscars 2016 highlights
+chris rock s funniest oscars jokes
+chris rock s funniest oscars jokes
+come dine with me producer wins oscar
+come dine with me producer wins oscar
+leo attends the oscars after party
+leo attends the oscars after party
+lady gaga sings with sexual abuse survivors
+lady gaga sings with sexual abuse survivors
+oscars 2016 red carpet highlights
+oscars 2016 red carpet highlights
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+more from the web
+epoch time at the start of skyscraper ad
+var startofskyscraper date now
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+epoch time at the start of skyscraper ad
+var startofskyscraper date now
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+advertisement
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+document write tmgadsbuildadtag hpg sks skl 300x600 120x600 160x600 adj 2
+advertisement
+document write tmgadsbuildadtag yell 300x150 adj 2
+document write tmgadsbuildadtag yell 300x150 adj 2
+document write tmgadsbuildadtag yell 300x150 adj 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+more from the web
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var expandmostcommentedarticles false
+var expandmostsharedarticles false
+var expandmostviewedarticlestab true
+var mostcommentedaccordionvalue 0
+var mostsharedaccordionvalue 1
+var mostviewedaccordionvalue 2
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+telegraph books
+robert weintraub s no better friend
+one man one dog and their incredible story of courage and survival in world
+war ii
+one man one dog and their incredible story of courage and survival in world
+war ii
+winston churchill at the telegraph
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+a collection of the best contributions and reports from the telegraph
+focussing on the key events decisions and moments in churchill s life
+sinclair mckay s the secret life of fighter command
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+this book tells the story of the men and women of fighter command who worked
+tirelessly in air bases scattered throughout britain to thwart the nazis
+pet tales extraordinary pets from ordinary homes
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the essential gift book for any pet lover real life tales of devoted dogs
+rebellious cats and other unforgettable four legged friends
+the birds of america
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+a complete edition of john james audubon s world famous the birds of america
+bound in linen and beautifully presented in a special slipcase
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+var optateamlinkingcallback function
+var teammapping
+team 3 arsenal
+team 7 aston villa
+team 57 watford
+team 8 chelsea
+team 31 crystal palace
+team 11 everton
+team 45 norwich city
+team 13 leicester city
+team 14 liverpool
+team 43 manchester city
+team 1 manchester united
+team 4 newcastle united
+team 91 bournemouth
+team 20 southampton
+team 110 stoke city
+team 56 sunderland
+team 80 swansea city
+team 6 tottenham hotspur
+team 35 west bromwich albion
+team 21 west ham
+var rugbyteammapping
+team 800 argentina
+team 100 australia
+team 953 canada
+team 550 england
+team 954 fiji
+team 650 france
+team 2850 georgia
+team 600 ireland
+team 952 italy
+team 3000 japan
+team 2900 namibia
+team 850 newzealand
+team 951 romania
+team 950 samoa
+team 700 scotland
+team 900 southafrica
+team 750 tonga
+team 2800 uruguay
+team 2950 usa
+team 500 wales
+for var team in teammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href teammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+for var team in rugbyteammapping
+fixtures dl matches dt match span team
+add standings container table tr team td team
+add fixtures plus table tr scoreline td team team name
+add fixtures plus table tr scoreline td team relative holder each function
+var textnode this contents filter function
+return this nodetype 3
+last
+var link document createelement a
+var text document createtextnode textnode text
+link appendchild text
+link setattribute class opta team linking
+link setattribute href rugbyteammapping team
+link onclick function
+var menusec opta meta name gsasectionuniquename attr content
+cookie tmg navpos menusec path domain telegraph co uk
+textnode replacewith link
+more from the web
+more from the web
+world news
+the latest world news
+view
+us news
+latest and breaking stories from the united states
+view
+film
+all the latest film trailers reviews and features
+view
+football
+catch up on all the latest football news and results
+view
+world news
+the latest world news
+view
+us news
+latest and breaking stories from the united states
+view
+film
+all the latest film trailers reviews and features
+view
+football
+catch up on all the latest football news and results
+view
+world news
+the latest world news
+view
+us news
+latest and breaking stories from the united states
+view
+film
+all the latest film trailers reviews and features
+view
+football
+catch up on all the latest football news and results
+view
+world news
+the latest world news
+view
+us news
+latest and breaking stories from the united states
+view
+film
+all the latest film trailers reviews and features
+view
+football
+catch up on all the latest football news and results
+view
+world news
+the latest world news
+view
+world news
+the latest world news
+view
+world news
+view
+us news
+latest and breaking stories from the united states
+view
+us news
+latest and breaking stories from the united states
+view
+us news
+view
+film
+all the latest film trailers reviews and features
+view
+film
+all the latest film trailers reviews and features
+view
+film
+view
+football
+catch up on all the latest football news and results
+view
+football
+catch up on all the latest football news and results
+view
+football
+view
+back to top
+home
+film
+film reviews
+film news
+books
+book reviews
+book shop
+music
+music reviews
+classical music
+music video
+music festivals
+opera
+tickets
+tv and radio
+tv guide
+theatre
+theatre reviews
+art
+dance
+dating
+culture news
+picture galleries
+culture video
+culture critics
+photography
+crossword
+theatre tickets
+contact us
+privacy and cookies
+advertising
+fantasy football
+announcements
+reader prints
+follow us
+apps
+epaper
+expat
+promotions
+subscriber
+syndication
+copyright of telegraph media group limited 2019
+terms and conditions
+today s news
+archive
+style book
+weather forecast
+home
+film
+film reviews
+film news
+books
+book reviews
+book shop
+music
+music reviews
+classical music
+music video
+music festivals
+opera
+tickets
+tv and radio
+tv guide
+theatre
+theatre reviews
+art
+dance
+dating
+culture news
+picture galleries
+culture video
+culture critics
+photography
+crossword
+theatre tickets
+contact us
+privacy and cookies
+advertising
+fantasy football
+announcements
+reader prints
+follow us
+apps
+epaper
+expat
+promotions
+subscriber
+syndication
+home
+film
+film reviews
+film news
+books
+book reviews
+book shop
+music
+music reviews
+classical music
+music video
+music festivals
+opera
+tickets
+tv and radio
+tv guide
+theatre
+theatre reviews
+art
+dance
+dating
+culture news
+picture galleries
+culture video
+culture critics
+photography
+crossword
+theatre tickets
+contact us
+privacy and cookies
+advertising
+fantasy football
+announcements
+reader prints
+follow us
+apps
+epaper
+expat
+promotions
+subscriber
+syndication
+copyright of telegraph media group limited 2019
+terms and conditions
+today s news
+archive
+style book
+weather forecast
+document write tmgadsbuildadtag inr 1x1 adj 2
+document write tmgadsbuildadtag tmg 1x1 adj 2
+document write tmgadsbuildadtag ftr 1x1 adj 2

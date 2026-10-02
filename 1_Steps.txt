@@ -40,4 +40,20 @@ B>
 17. Clean article present at processed folder 
 18. hdfs dfs -put E:\Big-Data-Mapper-Reducer\data\processed\clean_article1.txt /BigData/articles 
 19. hadoop jar wc.jar wordCount.WordCount /BigData/articles /BigData/article_wordcount      
-20. hdfs dfs -cat /BigData/output/part-r-00000   
+20. hdfs dfs -cat /BigData/output/part-r-00000  
+
+
+=======================================================================================================================================
+
+21. Uploaded CommonCrawlData's 600 raw file.
+22. Updated DataCleaner under preprocessing 
+23. Compiled DataCleaner >>> cmd : javac -d bin src\preprocessing\DataCleaner.java
+24. runned the file and cleaned all the articles >>> java -cp bin preprocessing.DataCleaner data\raw\CommonCrawlData data\processed\CommonCrawlData
+25. raw/CommonCrawl/Data/* -> DataCleaner.java -> processed/CommonCrawlData/*
+26. created new directory in hadoop /BigData/CommonCrawlData
+27. ran jar file -> it automatically reads all from the directory
+    cmd : hadoop jar wc.jar wordCount.WordCount /BigData/CommonCrawlData /BigData/CommonCrawlWordCount   
+28. See result
+    cmd : hdfs dfs -cat /BigData/CommonCrawlWordCount/part-r-00000
+
+=========================================================================================================================================

@@ -1,0 +1,704 @@
+advertisementby scott shaneoct 10 2008
+washington for 30 years on a sometimes lonely hunt james bamford has pursued that great white whale of american intelligence the national security agency it has been a jarring ride at times he was threatened with prosecution in 1982 for revealing the secrets of that mammoth eavesdropping agency in his pathbreaking first book the puzzle palace by 2001 when he published a fat second volume on the subject body of secrets attitudes had changed and officials actually hosted a book party on the agency s sprawling campus at fort meade md code breakers and linguists stood in line for four hours to have him sign the book though many declined to give him their names for the inscription then in 2005 came the disclosure that the agency contrary to assurances from top officials had been conducting surveillance inside the united states without court warrants for the first time since the 1970s mr bamford caught by surprise by the biggest n s a story in decades joined an american civil liberties union lawsuit accusing the agency of breaking the law advertisementnow he has followed up with a third book reconstructing the agency s recent history the shadow factory the ultra secret nsa from 9 11 to the eavesdropping on america due out on tuesday from doubleday describes what he sees as the agency s failures in the months before the 2001 attacks and its overreaching on the orders of president bush and vice president dick cheney afterward two rank and file government eavesdroppers who spoke with mr bamford gave interviews to abc news where he spent a decade as a producer the network reported thursday on their claims of having intercepted private calls home from american military officers aid workers journalists and others in iraq advertisement i don t think i ll be invited to any more n s a christmas parties mr bamford said deadpan sitting down for an interview this week in his washington town house at 62 bald and with a salt and pepper mustache mr bamford is so unflamboyant that it comes as a surprise to learn that for most of the 1990s he lived aboard a 60 foot motor yacht called the safe house moored in a potomac river marina his relationship with the national security agency might be compared to a long and rocky romance in which fascination with his quarry s size and capabilities has alternated with horror at its power to invade privacy but he insists that he is no enemy of the united states largest intelligence agency or its mission i have no problem whatsoever with their eavesdropping on terrorists in the u s mr bamford said but the law says they need a court warrant the book depicts the agency before 9 11 under michael v hayden a now retired air force general who is currently the director of the central intelligence agency as excessively cautious about legally pursuing terrorists in the united states he attributes the wariness to the trauma that the agency suffered in the 1970s when a senate committee exposed the agency s warrantless surveillance of thousands of americans including the rev dr martin luther king jr and jane fonda mr bamford traces what was happening inside the agency as the 9 11 hijackers arrived in the united states and made preparations for the attack some were living in laurel md home to thousands of agency employees the terrorists and the eavesdroppers would coexist in the n s a s close knit community like unseeing ghosts mr bamford writes but after the terrorist attacks mr bamford asserts general hayden went to the opposite extreme bypassing the warrant requirement of the foreign intelligence surveillance act which was passed in 1978 in response to the earlier abuses mr bamford says he believes general hayden acted out of ambition and deference to his bosses i think he has a desire to please the powerful he said advertisement asked for comment mark mansfield a spokesman for general hayden at the c i a said that the pre 9 11 failings of the n s a and other agencies had been thoroughly examined by congress and the national 9 11 commission and that an attempt to assign blame to general hayden and impugn his conduct and integrity strikes me as an unseemly effort aimed at peddling a book as for the warrantless surveillance he added that the law was followed assiduously and said the suggestion that general hayden caved in to white house pressure was nonsense please verify you re not a robot by clicking the box invalid email address please re enter you must select a newsletter to subscribe to view all new york times newsletters when the new york times reported the warrantless eavesdropping in december 2005 mr bamford recalled my phone started ringing at 4 in the morning as reporters chasing the story looked for an expert this time mr bamford s experience as an n s a sleuth had failed him i was extremely shocked he said i d always said they had learned their lesson and were obeying the law mr bamford said he felt he had been duped by the agency and by general hayden who had granted him several interviews and had invited him to dinner the shadow factory is in part a reporter s mea culpa for his temporary seduction by a powerful agency like many life defining turns mr bamford s decision in the late 70s to take an interest in the national security agency was all but accidental he had served in the navy unit that supports the agency and attended suffolk university law school in boston on the g i bill of rights but after graduation he had decided that he would rather be a writer than a lawyer the eavesdropping giant seemed a worthy target it took him months of research even to persuade a publisher to give him a contract for the puzzle palace which he wrote on a typewriter he has always been awed by the scale of the n s a long the world s largest employer of mathematicians and user of supercomputers what his new book documents is the agency s growing partnership with private companies to tap into the fiber optic cables that now carry most telephone and internet traffic the partners include not only telecommunication giants like at t but also mr bamford found a number of small companies that sell the agency surveillance software and hardware he discovered that key figures in at least two of those suppliers have ties to israeli intelligence including israel s counterpart to the n s a unit 8200 raising questions about the security of the united states most secret intelligence operations i don t think congress knows about these vulnerabilities he said mr bamford denied that he was obsessed with the n s a what he would really like to do next he said is give fiction a try but he said he believed that a new inquiry along the lines of the one headed by senator frank church democrat of idaho in the 70s was called for to examine the warrantless eavesdropping the agency s relations with private companies and other issues raised by the role of a powerful surveillance bureaucracy in a democracy and if there is such an investigation i guess he said it would be a pretty good subject for a fourth n s a book a version of this article appears in print on on page c1 of the new york edition with the headline decades on the trail of a shadowy agency order reprints today s paper subscribe
+we re interested in your feedback on this page tell us what you think go to home page
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+sections
+home
+search
+skip to content
+skip to navigation
+view mobile version
+the new york times
+window magnum writelogo small books masthead theme standard standard branding heading link article
+books decades on the trail of a shadowy agency
+search
+subscribe now
+log in
+0
+settings
+close search
+site search navigation
+search nytimes com
+clear this text input
+go
+loading
+see next articles
+see previous articles
+function
+var ribbon
+if window magnum getflags indexof adaggro 1
+window nytd abra www story pro agro control
+window nytd abra www story pro agro null
+window nytd abra www story pro agro null
+window nytd abra www story pro agro
+ribbon document queryselector ribbon
+if ribbon ribbon parentnode
+ribbon parentnode removechild ribbon
+site navigation
+site mobile navigation
+advertisement
+supported by
+books
+decades on the trail of a shadowy agency
+by scott shaneoct 10 2008
+continue reading the main story
+share this page
+continue reading the main story
+if
+window magnum
+window magnum getflags indexof headlinebalancer 0
+window magnum headlinebalancer
+window magnum headlinebalancer initialize
+window magnum headlinebalancer shouldrun
+window magnum headlinebalancer initialize
+washington for 30 years on a sometimes lonely hunt james bamford has pursued that great white whale of american intelligence the national security agency it has been a jarring ride at times he was threatened with prosecution in 1982 for revealing the secrets of that mammoth eavesdropping agency in his pathbreaking first book the puzzle palace by 2001 when he published a fat second volume on the subject body of secrets attitudes had changed and officials actually hosted a book party on the agency s sprawling campus at fort meade md code breakers and linguists stood in line for four hours to have him sign the book though many declined to give him their names for the inscription then in 2005 came the disclosure that the agency contrary to assurances from top officials had been conducting surveillance inside the united states without court warrants for the first time since the 1970s mr bamford caught by surprise by the biggest n s a story in decades joined an american civil liberties union lawsuit accusing the agency of breaking the law
+advertisement
+continue reading the main story
+now he has followed up with a third book reconstructing the agency s recent history the shadow factory the ultra secret nsa from 9 11 to the eavesdropping on america due out on tuesday from doubleday describes what he sees as the agency s failures in the months before the 2001 attacks and its overreaching on the orders of president bush and vice president dick cheney afterward two rank and file government eavesdroppers who spoke with mr bamford gave interviews to abc news where he spent a decade as a producer the network reported thursday on their claims of having intercepted private calls home from american military officers aid workers journalists and others in iraq continue reading the main story
+advertisement
+continue reading the main story
+i don t think i ll be invited to any more n s a christmas parties mr bamford said deadpan sitting down for an interview this week in his washington town house at 62 bald and with a salt and pepper mustache mr bamford is so unflamboyant that it comes as a surprise to learn that for most of the 1990s he lived aboard a 60 foot motor yacht called the safe house moored in a potomac river marina his relationship with the national security agency might be compared to a long and rocky romance in which fascination with his quarry s size and capabilities has alternated with horror at its power to invade privacy but he insists that he is no enemy of the united states largest intelligence agency or its mission i have no problem whatsoever with their eavesdropping on terrorists in the u s mr bamford said but the law says they need a court warrant the book depicts the agency before 9 11 under michael v hayden a now retired air force general who is currently the director of the central intelligence agency as excessively cautious about legally pursuing terrorists in the united states he attributes the wariness to the trauma that the agency suffered in the 1970s when a senate committee exposed the agency s warrantless surveillance of thousands of americans including the rev dr martin luther king jr and jane fonda mr bamford traces what was happening inside the agency as the 9 11 hijackers arrived in the united states and made preparations for the attack some were living in laurel md home to thousands of agency employees the terrorists and the eavesdroppers would coexist in the n s a s close knit community like unseeing ghosts mr bamford writes
+photo
+james bamford an expert on the national security agency
+credit
+brendan smialowski for the new york times
+but after the terrorist attacks mr bamford asserts general hayden went to the opposite extreme bypassing the warrant requirement of the foreign intelligence surveillance act which was passed in 1978 in response to the earlier abuses mr bamford says he believes general hayden acted out of ambition and deference to his bosses i think he has a desire to please the powerful he said
+advertisement
+continue reading the main story
+asked for comment mark mansfield a spokesman for general hayden at the c i a said that the pre 9 11 failings of the n s a and other agencies had been thoroughly examined by congress and the national 9 11 commission and that an attempt to assign blame to general hayden and impugn his conduct and integrity strikes me as an unseemly effort aimed at peddling a book as for the warrantless surveillance he added that the law was followed assiduously and said the suggestion that general hayden caved in to white house pressure was nonsense
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+when the new york times reported the warrantless eavesdropping in december 2005 mr bamford recalled my phone started ringing at 4 in the morning as reporters chasing the story looked for an expert this time mr bamford s experience as an n s a sleuth had failed him i was extremely shocked he said i d always said they had learned their lesson and were obeying the law mr bamford said he felt he had been duped by the agency and by general hayden who had granted him several interviews and had invited him to dinner the shadow factory is in part a reporter s mea culpa for his temporary seduction by a powerful agency like many life defining turns mr bamford s decision in the late 70s to take an interest in the national security agency was all but accidental he had served in the navy unit that supports the agency and attended suffolk university law school in boston on the g i bill of rights but after graduation he had decided that he would rather be a writer than a lawyer the eavesdropping giant seemed a worthy target it took him months of research even to persuade a publisher to give him a contract for the puzzle palace which he wrote on a typewriter he has always been awed by the scale of the n s a long the world s largest employer of mathematicians and user of supercomputers what his new book documents is the agency s growing partnership with private companies to tap into the fiber optic cables that now carry most telephone and internet traffic the partners include not only telecommunication giants like at t but also mr bamford found a number of small companies that sell the agency surveillance software and hardware he discovered that key figures in at least two of those suppliers have ties to israeli intelligence including israel s counterpart to the n s a unit 8200 raising questions about the security of the united states most secret intelligence operations i don t think congress knows about these vulnerabilities he said mr bamford denied that he was obsessed with the n s a what he would really like to do next he said is give fiction a try but he said he believed that a new inquiry along the lines of the one headed by senator frank church democrat of idaho in the 70s was called for to examine the warrantless eavesdropping the agency s relations with private companies and other issues raised by the role of a powerful surveillance bureaucracy in a democracy and if there is such an investigation i guess he said it would be a pretty good subject for a fourth n s a book
+a version of this article appears in print on on page c1 of the new york edition with the headline decades on the trail of a shadowy agency order reprints today s paper subscribe
+continue reading the main story
+we re interested in your feedback on this page tell us what you think
+what s next
+loading
+go to home page
+site index
+the new york times
+window magnum writelogo small standard site index branding link
+site index navigation
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
+site information navigation
+2019 the new york times company
+home
+search
+accessibility concerns email us at accessibility nytimes com we would love to hear from you
+contact us
+work with us
+advertise
+your ad choices
+privacy
+terms of service
+terms of sale
+site information navigation
+site map
+help
+site feedback
+subscriptions
+sections
+home
+search
+skip to content
+skip to navigation
+view mobile version
+the new york times
+window magnum writelogo small books masthead theme standard standard branding heading link article
+books decades on the trail of a shadowy agency
+search
+subscribe now
+log in
+0
+settings
+sections
+home
+search
+skip to content
+skip to navigation
+view mobile version
+the new york times
+window magnum writelogo small books masthead theme standard standard branding heading link article
+books decades on the trail of a shadowy agency
+search
+subscribe now
+log in
+0
+settings
+subscribe now
+log in
+0
+settings
+close search
+site search navigation
+search nytimes com
+clear this text input
+go
+search nytimes com
+clear this text input
+go
+search nytimes com
+clear this text input
+go
+loading
+see next articles
+see previous articles
+loading
+see next articles
+see previous articles
+advertisement
+supported by
+books
+decades on the trail of a shadowy agency
+by scott shaneoct 10 2008
+continue reading the main story
+share this page
+continue reading the main story
+if
+window magnum
+window magnum getflags indexof headlinebalancer 0
+window magnum headlinebalancer
+window magnum headlinebalancer initialize
+window magnum headlinebalancer shouldrun
+window magnum headlinebalancer initialize
+washington for 30 years on a sometimes lonely hunt james bamford has pursued that great white whale of american intelligence the national security agency it has been a jarring ride at times he was threatened with prosecution in 1982 for revealing the secrets of that mammoth eavesdropping agency in his pathbreaking first book the puzzle palace by 2001 when he published a fat second volume on the subject body of secrets attitudes had changed and officials actually hosted a book party on the agency s sprawling campus at fort meade md code breakers and linguists stood in line for four hours to have him sign the book though many declined to give him their names for the inscription then in 2005 came the disclosure that the agency contrary to assurances from top officials had been conducting surveillance inside the united states without court warrants for the first time since the 1970s mr bamford caught by surprise by the biggest n s a story in decades joined an american civil liberties union lawsuit accusing the agency of breaking the law
+advertisement
+continue reading the main story
+now he has followed up with a third book reconstructing the agency s recent history the shadow factory the ultra secret nsa from 9 11 to the eavesdropping on america due out on tuesday from doubleday describes what he sees as the agency s failures in the months before the 2001 attacks and its overreaching on the orders of president bush and vice president dick cheney afterward two rank and file government eavesdroppers who spoke with mr bamford gave interviews to abc news where he spent a decade as a producer the network reported thursday on their claims of having intercepted private calls home from american military officers aid workers journalists and others in iraq continue reading the main story
+advertisement
+continue reading the main story
+i don t think i ll be invited to any more n s a christmas parties mr bamford said deadpan sitting down for an interview this week in his washington town house at 62 bald and with a salt and pepper mustache mr bamford is so unflamboyant that it comes as a surprise to learn that for most of the 1990s he lived aboard a 60 foot motor yacht called the safe house moored in a potomac river marina his relationship with the national security agency might be compared to a long and rocky romance in which fascination with his quarry s size and capabilities has alternated with horror at its power to invade privacy but he insists that he is no enemy of the united states largest intelligence agency or its mission i have no problem whatsoever with their eavesdropping on terrorists in the u s mr bamford said but the law says they need a court warrant the book depicts the agency before 9 11 under michael v hayden a now retired air force general who is currently the director of the central intelligence agency as excessively cautious about legally pursuing terrorists in the united states he attributes the wariness to the trauma that the agency suffered in the 1970s when a senate committee exposed the agency s warrantless surveillance of thousands of americans including the rev dr martin luther king jr and jane fonda mr bamford traces what was happening inside the agency as the 9 11 hijackers arrived in the united states and made preparations for the attack some were living in laurel md home to thousands of agency employees the terrorists and the eavesdroppers would coexist in the n s a s close knit community like unseeing ghosts mr bamford writes
+photo
+james bamford an expert on the national security agency
+credit
+brendan smialowski for the new york times
+but after the terrorist attacks mr bamford asserts general hayden went to the opposite extreme bypassing the warrant requirement of the foreign intelligence surveillance act which was passed in 1978 in response to the earlier abuses mr bamford says he believes general hayden acted out of ambition and deference to his bosses i think he has a desire to please the powerful he said
+advertisement
+continue reading the main story
+asked for comment mark mansfield a spokesman for general hayden at the c i a said that the pre 9 11 failings of the n s a and other agencies had been thoroughly examined by congress and the national 9 11 commission and that an attempt to assign blame to general hayden and impugn his conduct and integrity strikes me as an unseemly effort aimed at peddling a book as for the warrantless surveillance he added that the law was followed assiduously and said the suggestion that general hayden caved in to white house pressure was nonsense
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+when the new york times reported the warrantless eavesdropping in december 2005 mr bamford recalled my phone started ringing at 4 in the morning as reporters chasing the story looked for an expert this time mr bamford s experience as an n s a sleuth had failed him i was extremely shocked he said i d always said they had learned their lesson and were obeying the law mr bamford said he felt he had been duped by the agency and by general hayden who had granted him several interviews and had invited him to dinner the shadow factory is in part a reporter s mea culpa for his temporary seduction by a powerful agency like many life defining turns mr bamford s decision in the late 70s to take an interest in the national security agency was all but accidental he had served in the navy unit that supports the agency and attended suffolk university law school in boston on the g i bill of rights but after graduation he had decided that he would rather be a writer than a lawyer the eavesdropping giant seemed a worthy target it took him months of research even to persuade a publisher to give him a contract for the puzzle palace which he wrote on a typewriter he has always been awed by the scale of the n s a long the world s largest employer of mathematicians and user of supercomputers what his new book documents is the agency s growing partnership with private companies to tap into the fiber optic cables that now carry most telephone and internet traffic the partners include not only telecommunication giants like at t but also mr bamford found a number of small companies that sell the agency surveillance software and hardware he discovered that key figures in at least two of those suppliers have ties to israeli intelligence including israel s counterpart to the n s a unit 8200 raising questions about the security of the united states most secret intelligence operations i don t think congress knows about these vulnerabilities he said mr bamford denied that he was obsessed with the n s a what he would really like to do next he said is give fiction a try but he said he believed that a new inquiry along the lines of the one headed by senator frank church democrat of idaho in the 70s was called for to examine the warrantless eavesdropping the agency s relations with private companies and other issues raised by the role of a powerful surveillance bureaucracy in a democracy and if there is such an investigation i guess he said it would be a pretty good subject for a fourth n s a book
+a version of this article appears in print on on page c1 of the new york edition with the headline decades on the trail of a shadowy agency order reprints today s paper subscribe
+continue reading the main story
+we re interested in your feedback on this page tell us what you think
+what s next
+loading
+go to home page
+site index
+the new york times
+window magnum writelogo small standard site index branding link
+site index navigation
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
+site information navigation
+2019 the new york times company
+home
+search
+accessibility concerns email us at accessibility nytimes com we would love to hear from you
+contact us
+work with us
+advertise
+your ad choices
+privacy
+terms of service
+terms of sale
+site information navigation
+site map
+help
+site feedback
+subscriptions
+advertisement
+advertisement
+supported by
+books
+decades on the trail of a shadowy agency
+by scott shaneoct 10 2008
+continue reading the main story
+share this page
+continue reading the main story
+supported by
+by scott shaneoct 10 2008
+continue reading the main story
+share this page
+continue reading the main story
+continue reading the main story
+share this page
+continue reading the main story
+continue reading the main story
+share this page
+continue reading the main story
+continue reading the main story
+washington for 30 years on a sometimes lonely hunt james bamford has pursued that great white whale of american intelligence the national security agency it has been a jarring ride at times he was threatened with prosecution in 1982 for revealing the secrets of that mammoth eavesdropping agency in his pathbreaking first book the puzzle palace by 2001 when he published a fat second volume on the subject body of secrets attitudes had changed and officials actually hosted a book party on the agency s sprawling campus at fort meade md code breakers and linguists stood in line for four hours to have him sign the book though many declined to give him their names for the inscription then in 2005 came the disclosure that the agency contrary to assurances from top officials had been conducting surveillance inside the united states without court warrants for the first time since the 1970s mr bamford caught by surprise by the biggest n s a story in decades joined an american civil liberties union lawsuit accusing the agency of breaking the law
+advertisement
+continue reading the main story
+now he has followed up with a third book reconstructing the agency s recent history the shadow factory the ultra secret nsa from 9 11 to the eavesdropping on america due out on tuesday from doubleday describes what he sees as the agency s failures in the months before the 2001 attacks and its overreaching on the orders of president bush and vice president dick cheney afterward two rank and file government eavesdroppers who spoke with mr bamford gave interviews to abc news where he spent a decade as a producer the network reported thursday on their claims of having intercepted private calls home from american military officers aid workers journalists and others in iraq continue reading the main story
+washington for 30 years on a sometimes lonely hunt james bamford has pursued that great white whale of american intelligence the national security agency it has been a jarring ride at times he was threatened with prosecution in 1982 for revealing the secrets of that mammoth eavesdropping agency in his pathbreaking first book the puzzle palace by 2001 when he published a fat second volume on the subject body of secrets attitudes had changed and officials actually hosted a book party on the agency s sprawling campus at fort meade md code breakers and linguists stood in line for four hours to have him sign the book though many declined to give him their names for the inscription then in 2005 came the disclosure that the agency contrary to assurances from top officials had been conducting surveillance inside the united states without court warrants for the first time since the 1970s mr bamford caught by surprise by the biggest n s a story in decades joined an american civil liberties union lawsuit accusing the agency of breaking the law
+advertisement
+continue reading the main story
+now he has followed up with a third book reconstructing the agency s recent history the shadow factory the ultra secret nsa from 9 11 to the eavesdropping on america due out on tuesday from doubleday describes what he sees as the agency s failures in the months before the 2001 attacks and its overreaching on the orders of president bush and vice president dick cheney afterward two rank and file government eavesdroppers who spoke with mr bamford gave interviews to abc news where he spent a decade as a producer the network reported thursday on their claims of having intercepted private calls home from american military officers aid workers journalists and others in iraq continue reading the main story
+advertisement
+continue reading the main story
+advertisement
+advertisement
+continue reading the main story
+advertisement
+continue reading the main story
+advertisement
+i don t think i ll be invited to any more n s a christmas parties mr bamford said deadpan sitting down for an interview this week in his washington town house at 62 bald and with a salt and pepper mustache mr bamford is so unflamboyant that it comes as a surprise to learn that for most of the 1990s he lived aboard a 60 foot motor yacht called the safe house moored in a potomac river marina his relationship with the national security agency might be compared to a long and rocky romance in which fascination with his quarry s size and capabilities has alternated with horror at its power to invade privacy but he insists that he is no enemy of the united states largest intelligence agency or its mission i have no problem whatsoever with their eavesdropping on terrorists in the u s mr bamford said but the law says they need a court warrant the book depicts the agency before 9 11 under michael v hayden a now retired air force general who is currently the director of the central intelligence agency as excessively cautious about legally pursuing terrorists in the united states he attributes the wariness to the trauma that the agency suffered in the 1970s when a senate committee exposed the agency s warrantless surveillance of thousands of americans including the rev dr martin luther king jr and jane fonda mr bamford traces what was happening inside the agency as the 9 11 hijackers arrived in the united states and made preparations for the attack some were living in laurel md home to thousands of agency employees the terrorists and the eavesdroppers would coexist in the n s a s close knit community like unseeing ghosts mr bamford writes
+photo
+james bamford an expert on the national security agency
+credit
+brendan smialowski for the new york times
+but after the terrorist attacks mr bamford asserts general hayden went to the opposite extreme bypassing the warrant requirement of the foreign intelligence surveillance act which was passed in 1978 in response to the earlier abuses mr bamford says he believes general hayden acted out of ambition and deference to his bosses i think he has a desire to please the powerful he said
+advertisement
+continue reading the main story
+asked for comment mark mansfield a spokesman for general hayden at the c i a said that the pre 9 11 failings of the n s a and other agencies had been thoroughly examined by congress and the national 9 11 commission and that an attempt to assign blame to general hayden and impugn his conduct and integrity strikes me as an unseemly effort aimed at peddling a book as for the warrantless surveillance he added that the law was followed assiduously and said the suggestion that general hayden caved in to white house pressure was nonsense
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+when the new york times reported the warrantless eavesdropping in december 2005 mr bamford recalled my phone started ringing at 4 in the morning as reporters chasing the story looked for an expert this time mr bamford s experience as an n s a sleuth had failed him i was extremely shocked he said i d always said they had learned their lesson and were obeying the law mr bamford said he felt he had been duped by the agency and by general hayden who had granted him several interviews and had invited him to dinner the shadow factory is in part a reporter s mea culpa for his temporary seduction by a powerful agency like many life defining turns mr bamford s decision in the late 70s to take an interest in the national security agency was all but accidental he had served in the navy unit that supports the agency and attended suffolk university law school in boston on the g i bill of rights but after graduation he had decided that he would rather be a writer than a lawyer the eavesdropping giant seemed a worthy target it took him months of research even to persuade a publisher to give him a contract for the puzzle palace which he wrote on a typewriter he has always been awed by the scale of the n s a long the world s largest employer of mathematicians and user of supercomputers what his new book documents is the agency s growing partnership with private companies to tap into the fiber optic cables that now carry most telephone and internet traffic the partners include not only telecommunication giants like at t but also mr bamford found a number of small companies that sell the agency surveillance software and hardware he discovered that key figures in at least two of those suppliers have ties to israeli intelligence including israel s counterpart to the n s a unit 8200 raising questions about the security of the united states most secret intelligence operations i don t think congress knows about these vulnerabilities he said mr bamford denied that he was obsessed with the n s a what he would really like to do next he said is give fiction a try but he said he believed that a new inquiry along the lines of the one headed by senator frank church democrat of idaho in the 70s was called for to examine the warrantless eavesdropping the agency s relations with private companies and other issues raised by the role of a powerful surveillance bureaucracy in a democracy and if there is such an investigation i guess he said it would be a pretty good subject for a fourth n s a book
+a version of this article appears in print on on page c1 of the new york edition with the headline decades on the trail of a shadowy agency order reprints today s paper subscribe
+continue reading the main story
+i don t think i ll be invited to any more n s a christmas parties mr bamford said deadpan sitting down for an interview this week in his washington town house at 62 bald and with a salt and pepper mustache mr bamford is so unflamboyant that it comes as a surprise to learn that for most of the 1990s he lived aboard a 60 foot motor yacht called the safe house moored in a potomac river marina his relationship with the national security agency might be compared to a long and rocky romance in which fascination with his quarry s size and capabilities has alternated with horror at its power to invade privacy but he insists that he is no enemy of the united states largest intelligence agency or its mission i have no problem whatsoever with their eavesdropping on terrorists in the u s mr bamford said but the law says they need a court warrant the book depicts the agency before 9 11 under michael v hayden a now retired air force general who is currently the director of the central intelligence agency as excessively cautious about legally pursuing terrorists in the united states he attributes the wariness to the trauma that the agency suffered in the 1970s when a senate committee exposed the agency s warrantless surveillance of thousands of americans including the rev dr martin luther king jr and jane fonda mr bamford traces what was happening inside the agency as the 9 11 hijackers arrived in the united states and made preparations for the attack some were living in laurel md home to thousands of agency employees the terrorists and the eavesdroppers would coexist in the n s a s close knit community like unseeing ghosts mr bamford writes
+photo
+james bamford an expert on the national security agency
+credit
+brendan smialowski for the new york times
+but after the terrorist attacks mr bamford asserts general hayden went to the opposite extreme bypassing the warrant requirement of the foreign intelligence surveillance act which was passed in 1978 in response to the earlier abuses mr bamford says he believes general hayden acted out of ambition and deference to his bosses i think he has a desire to please the powerful he said
+advertisement
+continue reading the main story
+asked for comment mark mansfield a spokesman for general hayden at the c i a said that the pre 9 11 failings of the n s a and other agencies had been thoroughly examined by congress and the national 9 11 commission and that an attempt to assign blame to general hayden and impugn his conduct and integrity strikes me as an unseemly effort aimed at peddling a book as for the warrantless surveillance he added that the law was followed assiduously and said the suggestion that general hayden caved in to white house pressure was nonsense
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+when the new york times reported the warrantless eavesdropping in december 2005 mr bamford recalled my phone started ringing at 4 in the morning as reporters chasing the story looked for an expert this time mr bamford s experience as an n s a sleuth had failed him i was extremely shocked he said i d always said they had learned their lesson and were obeying the law mr bamford said he felt he had been duped by the agency and by general hayden who had granted him several interviews and had invited him to dinner the shadow factory is in part a reporter s mea culpa for his temporary seduction by a powerful agency like many life defining turns mr bamford s decision in the late 70s to take an interest in the national security agency was all but accidental he had served in the navy unit that supports the agency and attended suffolk university law school in boston on the g i bill of rights but after graduation he had decided that he would rather be a writer than a lawyer the eavesdropping giant seemed a worthy target it took him months of research even to persuade a publisher to give him a contract for the puzzle palace which he wrote on a typewriter he has always been awed by the scale of the n s a long the world s largest employer of mathematicians and user of supercomputers what his new book documents is the agency s growing partnership with private companies to tap into the fiber optic cables that now carry most telephone and internet traffic the partners include not only telecommunication giants like at t but also mr bamford found a number of small companies that sell the agency surveillance software and hardware he discovered that key figures in at least two of those suppliers have ties to israeli intelligence including israel s counterpart to the n s a unit 8200 raising questions about the security of the united states most secret intelligence operations i don t think congress knows about these vulnerabilities he said mr bamford denied that he was obsessed with the n s a what he would really like to do next he said is give fiction a try but he said he believed that a new inquiry along the lines of the one headed by senator frank church democrat of idaho in the 70s was called for to examine the warrantless eavesdropping the agency s relations with private companies and other issues raised by the role of a powerful surveillance bureaucracy in a democracy and if there is such an investigation i guess he said it would be a pretty good subject for a fourth n s a book
+a version of this article appears in print on on page c1 of the new york edition with the headline decades on the trail of a shadowy agency order reprints today s paper subscribe
+continue reading the main story
+advertisement
+continue reading the main story
+advertisement
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+a version of this article appears in print on on page c1 of the new york edition with the headline decades on the trail of a shadowy agency order reprints today s paper subscribe
+we re interested in your feedback on this page tell us what you think
+loading
+loading
+loading
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
