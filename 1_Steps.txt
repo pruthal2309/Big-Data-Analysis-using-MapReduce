@@ -57,3 +57,28 @@ B>
     cmd : hdfs dfs -cat /BigData/CommonCrawlWordCount/part-r-00000
 
 =========================================================================================================================================
+
+restarted hadoop 
+29. Create:  coOccurrence/
+            ├── CoOccurrence.java
+            ├── CoOccurrenceMapper.java
+            └── CoOccurrenceReducer.java
+30. Compile new MapReduce Program 
+    cmd : javac -d bin -cp "%HADOOP_HOME%\share\hadoop\common\*;%HADOOP_HOME%\share\hadoop\common\lib\*;%HADOOP_HOME%\share\hadoop\mapreduce\*;%HADOOP_HOME%\share\hadoop\mapreduce\lib\*" src\coOccurrence\*.java
+31. Create JAR 
+    cmd : jar -cvf E:\Big-Data-Mapper-Reducer\coOccurrence.jar -C E:\Big-Data-Mapper-Reducer\bin .
+32. ReCompile (Optional)
+    cmd : javac -d E:\Big-Data-Mapper-Reducer\bin -classpath "%HADOOP_HOME%\share\hadoop\common\*;%HADOOP_HOME%\share\hadoop\common\lib\*;%HADOOP_HOME%\share\hadoop\hdfs\*;%HADOOP_HOME%\share\hadoop\hdfs\lib\*;%HADOOP_HOME%\share\hadoop\mapreduce\*;%HADOOP_HOME%\share\hadoop\mapreduce\lib\*;%HADOOP_HOME%\share\hadoop\yarn\*;%HADOOP_HOME%\share\hadoop\yarn\lib\*" E:\Big-Data-Mapper-Reducer\src\coOccurrence\*.java
+33. Let's testCoOccurrence
+    cmd : hdfs dfs -mkdir -p /BigData/CommonCrawlTest
+    cmd : hdfs dfs -put E:\Big-Data-Mapper-Reducer\data\processed\CommonCrawlData\CleanedArticleBooks1.txt /BigData/CommonCrawlTest/
+    cmd : hdfs dfs -put E:\Big-Data-Mapper-Reducer\data\processed\CommonCrawlData\CleanedArticleBooks2.txt /BigData/CommonCrawlTest/
+    cmd : hdfs dfs -put E:\Big-Data-Mapper-Reducer\data\processed\CommonCrawlData\CleanedArticleBooks3.txt /BigData/CommonCrawlTest/
+34. Run CoOccurrence
+    clear by : hdfs dfs -rm -r /BigData/CoOccurrenceTest
+    cmd : hadoop jar E:\Big-Data-Mapper-Reducer\coOccurrence.jar coOccurrence.CoOccurrence /BigData/CommonCrawlTest /BigData/CoOccurrenceTest
+35. check Results
+    cmd : hdfs dfs -ls /BigData/CoOccurrenceTest
+    cmd : hdfs dfs -cat /BigData/CoOccurrenceTest/part-r-00000
+
+=====================================================================================================================================
