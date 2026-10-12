@@ -1,0 +1,1765 @@
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+don t forget me
+never give all the heart
+finale
+sign up for exclusive discounts and save up to 50 on tickets
+blocking belongson the stage not on websites our website is made possible bydisplaying online advertisements to our visitors please consider supporting us bywhitelisting playbill com with your ad blocker thank you
+bsp site header wrapper bsp site customcolors header
+background color fde300 important
+border bottom 0px solid important
+height 74px
+bsp site header wrapper bsp site customcolors header bsp site search
+background color fde300 important
+bsp site header wrapper bsp site customcolors header bsp extra menu li a
+color 000000
+bsp site header wrapper bsp site customcolors header bsp extra menu li hover a
+bsp site header wrapper bsp site customcolors header bsp extra menu li a hover
+color inherit important
+bsp site header wrapper bsp site customcolors header bsp site menu trigger a i icon
+color 000000
+bsp site header wrapper bsp site customcolors header bsp site menu trigger a hover i icon
+color 000000
+bsp site header wrapper bsp site customcolors header bsp site menu trigger toggle in
+background color fde300
+bsp site header wrapper bsp site customcolors header bsp site menu content
+background color fde300
+bsp site header wrapper bsp site customcolors header bsp site search trigger a icon
+color 000000
+bsp site header wrapper bsp site customcolors header bsp site search trigger a hover icon
+color inherit
+news
+features
+theatre
+classic arts
+film and tv
+seth rudetsky
+education
+cast recordings
+obituaries
+opening night livestreams
+playbill mixtape
+grosses
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+weekly schedule
+upcoming broadway
+tickets
+broadway discounts
+off broadway discounts
+broadway rush
+off broadway rush
+ticket giveaway
+subscribe to save
+jobs
+store
+travel
+universe
+restaurants
+toggle menu
+adding date from fe because server time will be wrong for clients in different timezones
+var monthnames january february march april may june july august september october november december
+var d new date
+bsp site header date text monthnames d getmonth d getdate d getfullyear
+go
+toggle search form
+news
+features
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+tickets
+broadway discounts
+off bway discounts
+broadway rush
+off bway rush
+ticket giveaway
+subscribe to save
+jobs
+find a job
+post a job
+subscribe to playbill jobs
+shop
+travel
+pp 652 remove rubberband
+document ontouchmove function event
+var istouchmoveallowed true target event target
+while target null
+if target classlist target classlist contains disable scrolling
+istouchmoveallowed false
+break
+target target parentnode
+if istouchmoveallowed
+event preventdefault
+function removeiosrubbereffect element
+element addeventlistener touchstart function
+var top element scrolltop totalscroll element scrollheight currentscroll top element offsetheight
+if top 0
+element scrolltop 1
+else if currentscroll totalscroll
+element scrolltop top 1
+removeiosrubbereffect document queryselector bsp site menu content
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+playbill sites
+playbill store
+playbill classic arts
+playbillder
+playbill travel
+contact playbill
+playbill club
+advertising
+career
+rss
+site map
+privacy policy
+contact us
+follow playbill now
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+copyright 2019 playbill inc all rights reserved
+powered by
+bsp site header wrapper bsp site customcolors header
+background color fde300 important
+border bottom 0px solid important
+height 74px
+bsp site header wrapper bsp site customcolors header bsp site search
+background color fde300 important
+bsp site header wrapper bsp site customcolors header bsp extra menu li a
+color 000000
+bsp site header wrapper bsp site customcolors header bsp extra menu li hover a
+bsp site header wrapper bsp site customcolors header bsp extra menu li a hover
+color inherit important
+bsp site header wrapper bsp site customcolors header bsp site menu trigger a i icon
+color 000000
+bsp site header wrapper bsp site customcolors header bsp site menu trigger a hover i icon
+color 000000
+bsp site header wrapper bsp site customcolors header bsp site menu trigger toggle in
+background color fde300
+bsp site header wrapper bsp site customcolors header bsp site menu content
+background color fde300
+bsp site header wrapper bsp site customcolors header bsp site search trigger a icon
+color 000000
+bsp site header wrapper bsp site customcolors header bsp site search trigger a hover icon
+color inherit
+news
+features
+theatre
+classic arts
+film and tv
+seth rudetsky
+education
+cast recordings
+obituaries
+opening night livestreams
+playbill mixtape
+grosses
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+weekly schedule
+upcoming broadway
+tickets
+broadway discounts
+off broadway discounts
+broadway rush
+off broadway rush
+ticket giveaway
+subscribe to save
+jobs
+store
+travel
+universe
+restaurants
+toggle menu
+adding date from fe because server time will be wrong for clients in different timezones
+var monthnames january february march april may june july august september october november december
+var d new date
+bsp site header date text monthnames d getmonth d getdate d getfullyear
+go
+toggle search form
+news
+features
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+tickets
+broadway discounts
+off bway discounts
+broadway rush
+off bway rush
+ticket giveaway
+subscribe to save
+jobs
+find a job
+post a job
+subscribe to playbill jobs
+shop
+travel
+news
+features
+theatre
+classic arts
+film and tv
+seth rudetsky
+education
+cast recordings
+obituaries
+opening night livestreams
+playbill mixtape
+grosses
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+weekly schedule
+upcoming broadway
+tickets
+broadway discounts
+off broadway discounts
+broadway rush
+off broadway rush
+ticket giveaway
+subscribe to save
+jobs
+store
+travel
+universe
+restaurants
+toggle menu
+adding date from fe because server time will be wrong for clients in different timezones
+var monthnames january february march april may june july august september october november december
+var d new date
+bsp site header date text monthnames d getmonth d getdate d getfullyear
+go
+toggle search form
+news
+features
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+tickets
+broadway discounts
+off bway discounts
+broadway rush
+off bway rush
+ticket giveaway
+subscribe to save
+jobs
+find a job
+post a job
+subscribe to playbill jobs
+shop
+travel
+news
+features
+theatre
+classic arts
+film and tv
+seth rudetsky
+education
+cast recordings
+obituaries
+opening night livestreams
+playbill mixtape
+grosses
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+weekly schedule
+upcoming broadway
+tickets
+broadway discounts
+off broadway discounts
+broadway rush
+off broadway rush
+ticket giveaway
+subscribe to save
+jobs
+store
+travel
+universe
+restaurants
+toggle menu
+news
+features
+theatre
+classic arts
+film and tv
+seth rudetsky
+education
+cast recordings
+obituaries
+opening night livestreams
+playbill mixtape
+grosses
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+weekly schedule
+upcoming broadway
+tickets
+broadway discounts
+off broadway discounts
+broadway rush
+off broadway rush
+ticket giveaway
+subscribe to save
+jobs
+store
+travel
+universe
+restaurants
+toggle menu
+adding date from fe because server time will be wrong for clients in different timezones
+var monthnames january february march april may june july august september october november december
+var d new date
+bsp site header date text monthnames d getmonth d getdate d getfullyear
+go
+toggle search form
+go
+toggle search form
+news
+features
+vault
+shows
+broadway
+off broadway
+touring
+regional
+london
+tickets
+broadway discounts
+off bway discounts
+broadway rush
+off bway rush
+ticket giveaway
+subscribe to save
+jobs
+find a job
+post a job
+subscribe to playbill jobs
+shop
+travel
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+latest news
+close
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+32 new stories
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+the 6 most memorable sets from kerry butler s broadway career
+the 6 most memorable sets from kerry butler s broadway career
+look back at jessica lange in long day s journey into night on broadway
+look back at jessica lange in long day s journey into night on broadway
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+upcoming equity auditions for in the heights curious incident hamilton billy elliot and more
+can you name the 17 broadway shows from these gifs
+can you name the 17 broadway shows from these gifs
+playbill vault s today in theatre history april 20
+playbill vault s today in theatre history april 20
+32 new stories
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+listen to ramin karimloo sing hamilton s you ll be back
+listen to ramin karimloo sing hamilton s you ll be back
+which showtune best describes you
+which showtune best describes you
+can you name these broadway shows from an alternate title
+can you name these broadway shows from an alternate title
+check out these spooky new production photos from broadway s beetlejuice
+check out these spooky new production photos from broadway s beetlejuice
+see these 37 musicals recreated with legos
+see these 37 musicals recreated with legos
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+googletag cmd push function googletag display div gpt ad 14052319 newsrail
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 14052319 topnews
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+googletag cmd push function googletag display div gpt ad 19092005 welcomemat
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+news
+smash musical bombshell headed to the stage
+by adam hetrick
+jun 22 2015
+following the success of the one night only june 8 broadway concert staging of the marilyn monroe inspired musical bombshell which was born from the nbc series smash universal stage productions has announced that the property is in development as a full length stage musical
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+by adam hetrick
+jun 22 2015
+by adam hetrick
+jun 22 2015
+by adam hetrickjun 22 2015
+smash producers craig zadan and neil meron who presented the june 8 actors fund concert presentation that reunited original cast members from the series will executive produce the theatrical entity according to the creative team no one from the cast of smash is involved in the stage musical at this point a timeline for bombshell s theatrical debut has not been announced bombshell features a score by tony award winning songwriters marc shaiman and scott wittman standouts from the score include let me be your star and hang the moon a bookwriter for the stage production has not been announced
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+joshua bergasse who earned an emmy award for smash and also co directed and choreographed the broadway concert will return to create the dances for the stage production steven spielberg who was executive producer on smash will be involved in bombshell s ongoing musical developments there is a still a lot of love for smash and a rabid fan base out there and we re thrilled to be able to keep the dream alive as we work towards bringing bombshell to theatre audiences said robert greenblatt chairman of nbc entertainment in a statement smash was ambitious because every episode was a complicated musical for television and we also built the foundation of the musical within the musical about marilyn s endlessly fascinating and tumultuous life over the course of two seasons an entire bombshell score was written to service smash storylines and now that show will have a chance to stand on its own we are so thrilled that smash isn t over and that bombshell gets to live on zadan said in a statement the emmy nominated songs by marc shaiman and scott wittman including the iconic let me be your star are every bit the caliber of their tony and grammy winning broadway work the actors fund benefit reinforced how alive this material is on stage and how much the audience wants to see the marilyn monroe musical in its entirety as life imitates art joshua bergasse our brilliant emmy winning choreographer from smash actually made his broadway debut this season as a choreographer and was nominated for a tony award now he will get the chance to reimagine his exhilarating bombshell dances for the theatre meron added playwright theresa rebeck created the series and wrote the pilot for smash which set the backstage story of bombshell in motion the producing team will also include justin falvey darryl frank and chris herzberger bombshell was one of two musicals central to the plot of smash which gave viewers a dramatically compacted and often overly heightened insider s glimpse of the making of a new broadway musical the june 8 concert featured original smash stars christian borle will chase megan hilty katharine mcphee debra messing jaime cepero brian d arcy james ann harada jeremy jordan donna mckechnie leslie odom jr and wesley taylor flip through bombshell s broadway playbill click here to read playbill s play by play of the june 8 event and then watch or re watch big finish don t forget me never give all the heart and the finale below and don t forget to click here to learn about the six unexpected moments from the evening big finish
+brightcove createexperiences don t forget me
+brightcove createexperiences never give all the heart
+brightcove createexperiences finale
+brightcove createexperiences
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+bombshell in performance see smash stars come together on the broadway stage
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+bombshell in performance see smash stars come together on the broadway stage
+bombshell the fictional show from smash that musicalizes the life story of marilyn monroe was presented june 8 in a one night only broadway concert reuniting cast members from the nbc series christian borle will chase megan hilty katharine mcphee and debra messing were among the stars
+13 photos
+christian borle and debra messing
+jay brady
+megan hilty and katharine mcphee
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+katharine mcphee
+jay brady
+katharine mcphee
+jay brady
+will chase and megan hilty
+jay brady
+leslie odom jr
+jay brady
+jeremy jordan
+jay brady
+christian borle and cast
+jay brady
+donna mckechnie ripley sobo and cast
+jay brady
+share
+related
+craig zadan
+krysta rodriguez
+peter nigrini
+smash tv
+the actors fund
+related
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+if typeof googletag undefined
+googletag cmd push function googletag display div gpt ad 14052319 lowernews
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+today s most popular news
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+cast recordings albums
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+photos
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+production photos
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+photo features
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+video
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+the verdict
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+quiz
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+the verdict
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+cast recordings albums
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+listen to ramin karimloo sing hamilton s you ll be back
+by ruthie fierberg 04 19 2019
+the tony nominee lends his take to the king george tune
+listen to ramin karimloo sing hamilton s you ll be back by ruthie fierberg 04 19 2019the tony nominee lends his take to the king george tune
+meet the principal cast of the in the heights movie so far
+by nathan skethway 04 20 2019
+the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+meet the principal cast of the in the heights movie so farby nathan skethway 04 20 2019the film adaptation of lin manuel miranda s breakout 2008 broadway musical directed by jon m chu is set to hit theaters in 2020
+check out these spooky new production photos from broadway s beetlejuice
+by nathan skethway 04 18 2019
+the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+check out these spooky new production photos from broadway s beetlejuiceby nathan skethway 04 18 2019the musical now in previews at the winter garden theatre is based on tim burton s beloved 1988 dark comedy
+see these 37 musicals recreated with legos
+by hannah vine 08 31 2018
+broadway bricks jack abrams transforms ordinary legos into broadway shows
+see these 37 musicals recreated with legosby hannah vine 08 31 2018broadway bricks jack abrams transforms ordinary legos into broadway shows
+watch this 360 degree view of broadway s my fair lady
+by ruthie fierberg 04 19 2019
+a wild new onstage look at the embassy waltz recorded during a live performance
+watch this 360 degree view of broadway s my fair lady by ruthie fierberg 04 19 2019a wild new onstage look at the embassy waltz recorded during a live performance
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgow
+by adam hetrick 04 18 2019
+the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+read reviews for hillary and clinton on broadway starring laurie metcalf and john lithgowby adam hetrick 04 18 2019the new play from tony award nominee lucas hnath opens on broadway april 18 at the john golden theatre
+can you name the 17 broadway shows from these gifs
+by hannah vine 04 20 2019
+test your broadway knowledge
+can you name the 17 broadway shows from these gifs by hannah vine 04 20 2019test your broadway knowledge
+read reviews for hadestown on broadway
+by adam hetrick 04 17 2019
+reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+read reviews for hadestown on broadwayby adam hetrick 04 17 2019reeve carney and eva noblezada star in the new musical by ana s mitchell that opened april 17 at the walter kerr theatre
+broadway s kiss me kate to record cast album
+by olivia clement 04 19 2019
+the roundabout revival extended through june will record an album with ghostlight next week
+broadway s kiss me kate to record cast albumby olivia clement 04 19 2019the roundabout revival extended through june will record an album with ghostlight next week
+playbill sites
+playbill store
+playbill classic arts
+playbillder
+playbill travel
+contact playbill
+playbill club
+advertising
+career
+rss
+site map
+privacy policy
+contact us
+follow playbill now
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+copyright 2019 playbill inc all rights reserved
+powered by
+playbill sites
+playbill store
+playbill classic arts
+playbillder
+playbill travel
+contact playbill
+playbill club
+advertising
+career
+rss
+site map
+privacy policy
+contact us
+follow playbill now
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+copyright 2019 playbill inc all rights reserved
+powered by
+playbill sites
+playbill store
+playbill classic arts
+playbillder
+playbill travel
+contact playbill
+playbill club
+advertising
+career
+rss
+site map
+privacy policy
+contact us
+follow playbill now
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+playbill sites
+playbill store
+playbill classic arts
+playbillder
+playbill travel
+contact playbill
+playbill club
+advertising
+career
+rss
+site map
+privacy policy
+contact us
+follow playbill now
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+follow playbill now
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+want discount tickets
+sign up for exclusive discounts and save up to 50 on tickets
+copyright 2019 playbill inc all rights reserved
+powered by
+copyright 2019 playbill inc all rights reserved
+powered by
+x
+blocking belongson the stage not on websites
+our website is made possible bydisplaying online advertisements to our visitors
+please consider supporting us bywhitelisting playbill com with your ad blocker thank you
+x
+blocking belongson the stage not on websites
+our website is made possible bydisplaying online advertisements to our visitors
+please consider supporting us bywhitelisting playbill com with your ad blocker thank you
+x
+blocking belongson the stage not on websites
+our website is made possible bydisplaying online advertisements to our visitors
+please consider supporting us bywhitelisting playbill com with your ad blocker thank you

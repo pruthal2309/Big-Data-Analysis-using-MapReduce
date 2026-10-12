@@ -1,0 +1,646 @@
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019 this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019 registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019
+cdata
+replace the first parameter with true to use popup notifications
+ajaxcart init true utils basket qty basketpopup utils bookshelf qty bookshelfbasketpopup utils subscription qty subscriptionbasketpopup
+contact us
+help
+offers
+investors
+select your bloomsbury location
+uk
+us
+australia
+india
+var selectedlanguageid
+document ready function
+cancel click function e
+e preventdefault
+location change warning window data twindow close
+resetlanguagedropdown
+function resetlanguagedropdown
+customerlanguage val 1
+function showcartwarning
+location change warning window data twindow center open
+function onlanguagechanged
+check if language selection requires shopping cart items to be removed or not
+ajax
+cache false
+type post
+url us common isclearcartonlanguagechange
+datatype json
+traditional true
+beforesend function xhr
+displayajaxloading true
+success function result
+if result success 1
+showcartwarning
+else if result success 0
+changebloomsburylocation
+error function xhr textstatus errorthrown
+displaybarnotification xhr error 3500
+complete function xhr textstatus
+displayajaxloading false
+function selectlanguage
+var selectedcustomerlanguage document getelementbyid customerlanguage
+selectedlanguageid selectedcustomerlanguage options selectedcustomerlanguage selectedindex value
+onlanguagechanged
+function selectmobilechangelanguage
+var selectedcustomerlanguage document getelementbyid customerlanguage
+selectedlanguageid mobile customerlanguage val
+onlanguagechanged
+function changebloomsburylocation
+var changelanguageactionurl us commonaction setlanguage languageplaceholder
+changelanguageactionurl changelanguageactionurl replace languageplaceholder selectedlanguageid
+setlocation changelanguageactionurl
+function languagechangeconfirmed
+var changelanguageactionurl us commonaction clearcartonlanguagechange languageplaceholder
+changelanguageactionurl changelanguageactionurl replace languageplaceholder selectedlanguageid
+setlocation changelanguageactionurl
+you are about to change your locationclose
+items in your cart cannot be carried over to a different region and some products may not be available to order due to territorial rights
+continue
+cancel
+function ondatabindingautosuggest e
+var gid gid val
+if q val length 2 gid 3
+var searchmodel
+gid gid
+q q val
+e data searchmodel
+else
+return false
+function onerrorautosuggest args
+the current xmlhttprequest object
+var xhr args xmlhttprequest
+var title xhr responsetext split 1 split 0
+alert title
+in
+the whole site
+by author
+by isbn
+by title
+by category
+function
+var langauge customerlanguage clone
+langauge attr class mobile customerlanguage
+langauge attr onchange selectmobilechangelanguage
+mobile location select html langauge
+toggel search click function
+searchform fadetoggle
+location
+sign in
+register
+my cart
+0
+bookshelf
+0
+my subscriptions
+0
+your cart is empty
+function cartredirection
+debugger
+alert hii
+your bookshelf is empty
+your cart is empty
+academic
+authors
+digital resources
+instructors students
+librarians researchers
+series
+anthropology
+architecture
+art visual culture
+biblical studies
+business management
+classical studies archaeology
+design
+drama performance studies
+economics
+education
+fashion
+film media studies
+food
+geography
+history
+interior design and interior architecture
+law
+linguistics
+literary studies
+middle east
+music sound studies
+philosophy
+photography
+politics international relations
+psychology
+religious studies
+research methods study skills
+sociology
+textiles
+theology
+children teen
+awards
+board books
+chapter books
+middle grade
+non fiction
+picture books
+teachers librarians parents
+teens
+fiction
+adventure
+authors events
+general fiction
+graphic novels
+historical fiction
+horror
+mystery thriller
+poetry
+reading guides
+romance
+science fiction
+short stories
+non fiction
+the arts
+biography memoir
+business management
+cooking food
+crafts hobbies
+current events politics
+drama
+general
+graphic non fiction
+health psychology
+history
+humor
+literary criticism
+natural history
+nautical
+parenting
+philosophy religion
+pop culture
+popular science
+reference yearbooks
+science nature
+sports fitness
+travel
+visual arts
+writing
+wisden
+authors
+author events
+submissions
+communities
+newsletters
+reading groups
+teachers librarians parents
+company
+about us
+announcements
+bloomsbury bespoke
+bloomsbury content services
+careers
+catalogs
+contact us
+investor relations
+permissions
+rights
+trade
+twitter facebook instagram pinterest youtube snapchat linkedin sign up for the latest news and offers
+document ready function
+a share newsletter attr href us newsletter
+bloomsbury highlights
+document ready function
+pc1234492 bxslider
+slidemargin 20
+hidecontrolonend true
+auto true
+women talking
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019
+latest releases
+twitter
+document ready function
+gettwitter bloomsburypub us widgetcontent gettwitterfeed bloomsburypub twitter feed2686343
+the bloomsbury group other sitesbloomsbury content servicesbloomsbury institutebloomsbury professionalfairchild booksharry potterhart publishingindependent schools yearbookosprey publishingwhitaker swho s whowriters and artists yearbook bloomsbury digital productsberg fashion librarybloomsbury applied visual artsbloomsbury architecture librarybloomsbury collectionsbloomsbury cultural historybloomsbury design librarybloomsbury education and childhood studiesbloomsbury encyclopedia of philosophersbloomsbury fashion centralbloomsbury food librarybloomsbury popular musicchurchill archivedrama onlinescreen studiesbloomsbury officeslondon uknew delhi indianew york usasydney australia bloomsbury investor relationsuseful linksabout uscareerscookie policyhelpmodern slavery statementsprivacy policyterms conditionsventures managed by bloomsburyarcadian library onlineiza world of labor registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019
+careerscontact uscookie policyhelpinvestorsprivacy policysite mapterms conditionsvisit our mobile site
+bloomsbury publishing plc 2019
+var policyurl us privacy policy
+var policycookiename bloomsbury cookiespolicy 1 178163578
+this website uses cookies to improve user experience by using our website you consent to all cookies in accordance with our cookie policy
+it looks like you are located in australia or new zealand
+close
+visit the australia site
+continue on uk site
+var ismobiledevice false
+document ready function
+cookiedetailtable click function
+if ismobiledevice false
+backtocookiespolicy hide
+cdata
+replace the first parameter with true to use popup notifications
+ajaxcart init true utils basket qty basketpopup utils bookshelf qty bookshelfbasketpopup utils subscription qty subscriptionbasketpopup
+contact us
+help
+offers
+investors
+select your bloomsbury location
+uk
+us
+australia
+india
+var selectedlanguageid
+document ready function
+cancel click function e
+e preventdefault
+location change warning window data twindow close
+resetlanguagedropdown
+function resetlanguagedropdown
+customerlanguage val 1
+function showcartwarning
+location change warning window data twindow center open
+function onlanguagechanged
+check if language selection requires shopping cart items to be removed or not
+ajax
+cache false
+type post
+url us common isclearcartonlanguagechange
+datatype json
+traditional true
+beforesend function xhr
+displayajaxloading true
+success function result
+if result success 1
+showcartwarning
+else if result success 0
+changebloomsburylocation
+error function xhr textstatus errorthrown
+displaybarnotification xhr error 3500
+complete function xhr textstatus
+displayajaxloading false
+function selectlanguage
+var selectedcustomerlanguage document getelementbyid customerlanguage
+selectedlanguageid selectedcustomerlanguage options selectedcustomerlanguage selectedindex value
+onlanguagechanged
+function selectmobilechangelanguage
+var selectedcustomerlanguage document getelementbyid customerlanguage
+selectedlanguageid mobile customerlanguage val
+onlanguagechanged
+function changebloomsburylocation
+var changelanguageactionurl us commonaction setlanguage languageplaceholder
+changelanguageactionurl changelanguageactionurl replace languageplaceholder selectedlanguageid
+setlocation changelanguageactionurl
+function languagechangeconfirmed
+var changelanguageactionurl us commonaction clearcartonlanguagechange languageplaceholder
+changelanguageactionurl changelanguageactionurl replace languageplaceholder selectedlanguageid
+setlocation changelanguageactionurl
+you are about to change your locationclose
+items in your cart cannot be carried over to a different region and some products may not be available to order due to territorial rights
+continue
+cancel
+function ondatabindingautosuggest e
+var gid gid val
+if q val length 2 gid 3
+var searchmodel
+gid gid
+q q val
+e data searchmodel
+else
+return false
+function onerrorautosuggest args
+the current xmlhttprequest object
+var xhr args xmlhttprequest
+var title xhr responsetext split 1 split 0
+alert title
+in
+the whole site
+by author
+by isbn
+by title
+by category
+function
+var langauge customerlanguage clone
+langauge attr class mobile customerlanguage
+langauge attr onchange selectmobilechangelanguage
+mobile location select html langauge
+toggel search click function
+searchform fadetoggle
+location
+sign in
+register
+my cart
+0
+bookshelf
+0
+my subscriptions
+0
+your cart is empty
+function cartredirection
+debugger
+alert hii
+your bookshelf is empty
+your cart is empty
+academic
+authors
+digital resources
+instructors students
+librarians researchers
+series
+anthropology
+architecture
+art visual culture
+biblical studies
+business management
+classical studies archaeology
+design
+drama performance studies
+economics
+education
+fashion
+film media studies
+food
+geography
+history
+interior design and interior architecture
+law
+linguistics
+literary studies
+middle east
+music sound studies
+philosophy
+photography
+politics international relations
+psychology
+religious studies
+research methods study skills
+sociology
+textiles
+theology
+children teen
+awards
+board books
+chapter books
+middle grade
+non fiction
+picture books
+teachers librarians parents
+teens
+fiction
+adventure
+authors events
+general fiction
+graphic novels
+historical fiction
+horror
+mystery thriller
+poetry
+reading guides
+romance
+science fiction
+short stories
+non fiction
+the arts
+biography memoir
+business management
+cooking food
+crafts hobbies
+current events politics
+drama
+general
+graphic non fiction
+health psychology
+history
+humor
+literary criticism
+natural history
+nautical
+parenting
+philosophy religion
+pop culture
+popular science
+reference yearbooks
+science nature
+sports fitness
+travel
+visual arts
+writing
+wisden
+authors
+author events
+submissions
+communities
+newsletters
+reading groups
+teachers librarians parents
+company
+about us
+announcements
+bloomsbury bespoke
+bloomsbury content services
+careers
+catalogs
+contact us
+investor relations
+permissions
+rights
+trade
+twitter facebook instagram pinterest youtube snapchat linkedin sign up for the latest news and offers
+document ready function
+a share newsletter attr href us newsletter
+bloomsbury highlights
+document ready function
+pc1234492 bxslider
+slidemargin 20
+hidecontrolonend true
+auto true
+women talking
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019
+latest releases
+twitter
+document ready function
+gettwitter bloomsburypub us widgetcontent gettwitterfeed bloomsburypub twitter feed2686343
+the bloomsbury group other sitesbloomsbury content servicesbloomsbury institutebloomsbury professionalfairchild booksharry potterhart publishingindependent schools yearbookosprey publishingwhitaker swho s whowriters and artists yearbook bloomsbury digital productsberg fashion librarybloomsbury applied visual artsbloomsbury architecture librarybloomsbury collectionsbloomsbury cultural historybloomsbury design librarybloomsbury education and childhood studiesbloomsbury encyclopedia of philosophersbloomsbury fashion centralbloomsbury food librarybloomsbury popular musicchurchill archivedrama onlinescreen studiesbloomsbury officeslondon uknew delhi indianew york usasydney australia bloomsbury investor relationsuseful linksabout uscareerscookie policyhelpmodern slavery statementsprivacy policyterms conditionsventures managed by bloomsburyarcadian library onlineiza world of labor registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019
+careerscontact uscookie policyhelpinvestorsprivacy policysite mapterms conditionsvisit our mobile site
+bloomsbury publishing plc 2019
+var policyurl us privacy policy
+var policycookiename bloomsbury cookiespolicy 1 178163578
+this website uses cookies to improve user experience by using our website you consent to all cookies in accordance with our cookie policy
+it looks like you are located in australia or new zealand
+close
+visit the australia site
+continue on uk site
+select your bloomsbury location
+uk
+us
+australia
+india
+var selectedlanguageid
+document ready function
+cancel click function e
+e preventdefault
+location change warning window data twindow close
+resetlanguagedropdown
+function resetlanguagedropdown
+customerlanguage val 1
+function showcartwarning
+location change warning window data twindow center open
+function onlanguagechanged
+check if language selection requires shopping cart items to be removed or not
+ajax
+cache false
+type post
+url us common isclearcartonlanguagechange
+datatype json
+traditional true
+beforesend function xhr
+displayajaxloading true
+success function result
+if result success 1
+showcartwarning
+else if result success 0
+changebloomsburylocation
+error function xhr textstatus errorthrown
+displaybarnotification xhr error 3500
+complete function xhr textstatus
+displayajaxloading false
+function selectlanguage
+var selectedcustomerlanguage document getelementbyid customerlanguage
+selectedlanguageid selectedcustomerlanguage options selectedcustomerlanguage selectedindex value
+onlanguagechanged
+function selectmobilechangelanguage
+var selectedcustomerlanguage document getelementbyid customerlanguage
+selectedlanguageid mobile customerlanguage val
+onlanguagechanged
+function changebloomsburylocation
+var changelanguageactionurl us commonaction setlanguage languageplaceholder
+changelanguageactionurl changelanguageactionurl replace languageplaceholder selectedlanguageid
+setlocation changelanguageactionurl
+function languagechangeconfirmed
+var changelanguageactionurl us commonaction clearcartonlanguagechange languageplaceholder
+changelanguageactionurl changelanguageactionurl replace languageplaceholder selectedlanguageid
+setlocation changelanguageactionurl
+you are about to change your locationclose
+items in your cart cannot be carried over to a different region and some products may not be available to order due to territorial rights
+continue
+cancel
+you are about to change your locationclose
+items in your cart cannot be carried over to a different region and some products may not be available to order due to territorial rights
+continue
+cancel
+you are about to change your locationcloseclose
+items in your cart cannot be carried over to a different region and some products may not be available to order due to territorial rights
+continue
+cancel
+function ondatabindingautosuggest e
+var gid gid val
+if q val length 2 gid 3
+var searchmodel
+gid gid
+q q val
+e data searchmodel
+else
+return false
+function onerrorautosuggest args
+the current xmlhttprequest object
+var xhr args xmlhttprequest
+var title xhr responsetext split 1 split 0
+alert title
+in
+the whole site
+by author
+by isbn
+by title
+by category
+function
+var langauge customerlanguage clone
+langauge attr class mobile customerlanguage
+langauge attr onchange selectmobilechangelanguage
+mobile location select html langauge
+toggel search click function
+searchform fadetoggle
+location
+sign in
+register
+my cart
+0
+bookshelf
+0
+my subscriptions
+0
+your cart is empty
+function cartredirection
+debugger
+alert hii
+your bookshelf is empty
+your cart is empty
+in
+the whole site
+by author
+by isbn
+by title
+by category
+in
+the whole site
+by author
+by isbn
+by title
+by category
+the whole site
+by author
+by isbn
+by title
+by category
+twitter facebook instagram pinterest youtube snapchat linkedin sign up for the latest news and offers
+document ready function
+a share newsletter attr href us newsletter
+twitter facebook instagram pinterest youtube snapchat linkedin sign up for the latest news and offers
+twitter facebook instagram pinterest youtube snapchat linkedin sign up for the latest news and offers
+bloomsbury highlights
+document ready function
+pc1234492 bxslider
+slidemargin 20
+hidecontrolonend true
+auto true
+women talking
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019
+latest releases
+twitter
+document ready function
+gettwitter bloomsburypub us widgetcontent gettwitterfeed bloomsburypub twitter feed2686343
+bloomsbury highlights
+document ready function
+pc1234492 bxslider
+slidemargin 20
+hidecontrolonend true
+auto true
+women talking
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019
+latest releases
+bloomsbury highlights
+women talking
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019
+this amazing sad shocking but touching novel based on a real life event could be right out of the handmaid s tale margaret atwoodwomen talking by miriam toews comes out in april 2019
+latest releases
+the bloomsbury group other sitesbloomsbury content servicesbloomsbury institutebloomsbury professionalfairchild booksharry potterhart publishingindependent schools yearbookosprey publishingwhitaker swho s whowriters and artists yearbook bloomsbury digital productsberg fashion librarybloomsbury applied visual artsbloomsbury architecture librarybloomsbury collectionsbloomsbury cultural historybloomsbury design librarybloomsbury education and childhood studiesbloomsbury encyclopedia of philosophersbloomsbury fashion centralbloomsbury food librarybloomsbury popular musicchurchill archivedrama onlinescreen studiesbloomsbury officeslondon uknew delhi indianew york usasydney australia bloomsbury investor relationsuseful linksabout uscareerscookie policyhelpmodern slavery statementsprivacy policyterms conditionsventures managed by bloomsburyarcadian library onlineiza world of labor registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019
+the bloomsbury group other sitesbloomsbury content servicesbloomsbury institutebloomsbury professionalfairchild booksharry potterhart publishingindependent schools yearbookosprey publishingwhitaker swho s whowriters and artists yearbook bloomsbury digital productsberg fashion librarybloomsbury applied visual artsbloomsbury architecture librarybloomsbury collectionsbloomsbury cultural historybloomsbury design librarybloomsbury education and childhood studiesbloomsbury encyclopedia of philosophersbloomsbury fashion centralbloomsbury food librarybloomsbury popular musicchurchill archivedrama onlinescreen studiesbloomsbury officeslondon uknew delhi indianew york usasydney australia bloomsbury investor relationsuseful linksabout uscareerscookie policyhelpmodern slavery statementsprivacy policyterms conditionsventures managed by bloomsburyarcadian library onlineiza world of labor registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019
+the bloomsbury group other sitesbloomsbury content servicesbloomsbury institutebloomsbury professionalfairchild booksharry potterhart publishingindependent schools yearbookosprey publishingwhitaker swho s whowriters and artists yearbook bloomsbury digital productsberg fashion librarybloomsbury applied visual artsbloomsbury architecture librarybloomsbury collectionsbloomsbury cultural historybloomsbury design librarybloomsbury education and childhood studiesbloomsbury encyclopedia of philosophersbloomsbury fashion centralbloomsbury food librarybloomsbury popular musicchurchill archivedrama onlinescreen studiesbloomsbury officeslondon uknew delhi indianew york usasydney australia bloomsbury investor relationsuseful linksabout uscareerscookie policyhelpmodern slavery statementsprivacy policyterms conditionsventures managed by bloomsburyarcadian library onlineiza world of labor registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019 registered office 1385 broadway fifth floor new york ny 10018 usa tel 1 212 419 5300 publishing plcregistered in england no 01984336 bloomsbury publishing plc 2019
+careerscontact uscookie policyhelpinvestorsprivacy policysite mapterms conditionsvisit our mobile site
+careerscontact uscookie policyhelpinvestorsprivacy policysite mapterms conditionsvisit our mobile site
+bloomsbury publishing plc 2019
+bloomsbury publishing plc 2019
+this website uses cookies to improve user experience by using our website you consent to all cookies in accordance with our cookie policy
+this website uses cookies to improve user experience by using our website you consent to all cookies in accordance with our cookie policy
+this website uses cookies to improve user experience by using our website you consent to all cookies in accordance with our cookie policy
+it looks like you are located in australia or new zealand
+close
+visit the australia site
+continue on uk site
+it looks like you are located in australia or new zealand
+close
+visit the australia site
+continue on uk site
+it looks like you are located in australia or new zealand
+close
+close
+visit the australia site
+continue on uk site
+some content here

@@ -1,0 +1,669 @@
+advertisementby julie bosmansept 3 2008
+hundreds of small independent publishers will have easier access to digital book technology under a new service offered by perseus books group the result of agreements between it and more than a half dozen technology companies perseus is expected to announce on thursday the new service called constellation will allow independent publishers to make use of electronic readers digital book search print on demand and other digital formats at rates negotiated by perseus on their behalf unlike large publishers small ones typically lack the resources to use digital technology and as a result often bypass it altogether david steinberger the president and chief executive of perseus said that by using constellation independent publishers could make their books quickly available in several digital formats allowing them to compete on the same technological level and with the same speed and flexibility as larger companies many publishing analysts see digital technology as one of the few major growth areas in the book industry amazon and barnesandnoble com have features that allow consumers to read or search inside a book and such tools are known to improve sales digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand advertisement there s been an increasing sense of urgency about this mr steinberger said we kept asking ourselves what does the independent publisher need to grow and succeed in the future and this is what kept coming up advertisementperseus books group one of the largest independent publishers of general interest books includes the imprints basic books running press and vanguard press it also provides sales marketing and distribution services to more than 300 independent publishers mr steinberger said he sees constellation which will go into effect on thursday as an expansion of perseus s book distribution services distribution means getting our publishers books everywhere they need to go and everywhere they want to go he said digital is an essential part to that we re just trying to streamline it please verify you re not a robot by clicking the box invalid email address please re enter you must select a newsletter to subscribe to view all new york times newsletters the companies involved in the deal include google for its google book search feature amazon for its kindle electronic reader sony for its sony reader barnes noble for its see inside feature on its web site and lightning source a print on demand company publishers who use the new service can provide a single digital book file to constellation and specify how they would like it to be used as a result consumers may see more obscure esoteric books available in digital formats perseus said electronic books have been available since 1968 though they still make up only a small portion of the book business much of the growth especially in the amazon kindle and the sony reader has picked up in the last several years while corporate publishers like random house and simon schuster have devoted significant time and resources to harnessing digital technology most small publishers have out of necessity kept their focus on the traditional duties of acquiring editing and publishing books larger publishers also typically have more leverage when negotiating contracts peter osnos the founder of publicaffairs a member of the perseus books group and the executive director of the caravan project a nonprofit partnership that makes books available in different formats said constellation is applying the same model as caravan the biggest problem in the book world is availability measuring how many books you think you need mr osnos said what you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them that s why all of this matters a version of this article appears in print on on page e2 of the new york edition with the headline small book publishers offered new technology order reprints today s paper subscribe
+we re interested in your feedback on this page tell us what you think go to home page
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+nytimes com no longer supports internet explorer 9 or earlier please upgrade your browser
+learn more
+sections
+home
+search
+skip to content
+skip to navigation
+view mobile version
+the new york times
+window magnum writelogo small books masthead theme standard standard branding heading link article
+books small book publishers offered new technology
+search
+subscribe now
+log in
+0
+settings
+close search
+site search navigation
+search nytimes com
+clear this text input
+go
+loading
+see next articles
+see previous articles
+function
+var ribbon
+if window magnum getflags indexof adaggro 1
+window nytd abra www story pro agro control
+window nytd abra www story pro agro null
+window nytd abra www story pro agro null
+window nytd abra www story pro agro
+ribbon document queryselector ribbon
+if ribbon ribbon parentnode
+ribbon parentnode removechild ribbon
+site navigation
+site mobile navigation
+advertisement
+supported by
+books
+small book publishers offered new technology
+by julie bosmansept 3 2008
+continue reading the main story
+share this page
+continue reading the main story
+if
+window magnum
+window magnum getflags indexof headlinebalancer 0
+window magnum headlinebalancer
+window magnum headlinebalancer initialize
+window magnum headlinebalancer shouldrun
+window magnum headlinebalancer initialize
+hundreds of small independent publishers will have easier access to digital book technology under a new service offered by perseus books group the result of agreements between it and more than a half dozen technology companies perseus is expected to announce on thursday the new service called constellation will allow independent publishers to make use of electronic readers digital book search print on demand and other digital formats at rates negotiated by perseus on their behalf unlike large publishers small ones typically lack the resources to use digital technology and as a result often bypass it altogether david steinberger the president and chief executive of perseus said that by using constellation independent publishers could make their books quickly available in several digital formats allowing them to compete on the same technological level and with the same speed and flexibility as larger companies many publishing analysts see digital technology as one of the few major growth areas in the book industry amazon and barnesandnoble com have features that allow consumers to read or search inside a book and such tools are known to improve sales digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand
+advertisement
+continue reading the main story
+there s been an increasing sense of urgency about this mr steinberger said we kept asking ourselves what does the independent publisher need to grow and succeed in the future and this is what kept coming up continue reading the main story
+advertisement
+continue reading the main story
+perseus books group one of the largest independent publishers of general interest books includes the imprints basic books running press and vanguard press it also provides sales marketing and distribution services to more than 300 independent publishers mr steinberger said he sees constellation which will go into effect on thursday as an expansion of perseus s book distribution services distribution means getting our publishers books everywhere they need to go and everywhere they want to go he said digital is an essential part to that we re just trying to streamline it
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+the companies involved in the deal include google for its google book search feature amazon for its kindle electronic reader sony for its sony reader barnes noble for its see inside feature on its web site and lightning source a print on demand company publishers who use the new service can provide a single digital book file to constellation and specify how they would like it to be used as a result consumers may see more obscure esoteric books available in digital formats perseus said electronic books have been available since 1968 though they still make up only a small portion of the book business much of the growth especially in the amazon kindle and the sony reader has picked up in the last several years while corporate publishers like random house and simon schuster have devoted significant time and resources to harnessing digital technology most small publishers have out of necessity kept their focus on the traditional duties of acquiring editing and publishing books larger publishers also typically have more leverage when negotiating contracts peter osnos the founder of publicaffairs a member of the perseus books group and the executive director of the caravan project a nonprofit partnership that makes books available in different formats said constellation is applying the same model as caravan the biggest problem in the book world is availability measuring how many books you think you need mr osnos said what you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them that s why all of this matters
+a version of this article appears in print on on page e2 of the new york edition with the headline small book publishers offered new technology order reprints today s paper subscribe
+continue reading the main story
+we re interested in your feedback on this page tell us what you think
+what s next
+loading
+go to home page
+site index
+the new york times
+window magnum writelogo small standard site index branding link
+site index navigation
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
+site information navigation
+2019 the new york times company
+home
+search
+accessibility concerns email us at accessibility nytimes com we would love to hear from you
+contact us
+work with us
+advertise
+your ad choices
+privacy
+terms of service
+terms of sale
+site information navigation
+site map
+help
+site feedback
+subscriptions
+sections
+home
+search
+skip to content
+skip to navigation
+view mobile version
+the new york times
+window magnum writelogo small books masthead theme standard standard branding heading link article
+books small book publishers offered new technology
+search
+subscribe now
+log in
+0
+settings
+sections
+home
+search
+skip to content
+skip to navigation
+view mobile version
+the new york times
+window magnum writelogo small books masthead theme standard standard branding heading link article
+books small book publishers offered new technology
+search
+subscribe now
+log in
+0
+settings
+subscribe now
+log in
+0
+settings
+close search
+site search navigation
+search nytimes com
+clear this text input
+go
+search nytimes com
+clear this text input
+go
+search nytimes com
+clear this text input
+go
+loading
+see next articles
+see previous articles
+loading
+see next articles
+see previous articles
+advertisement
+supported by
+books
+small book publishers offered new technology
+by julie bosmansept 3 2008
+continue reading the main story
+share this page
+continue reading the main story
+if
+window magnum
+window magnum getflags indexof headlinebalancer 0
+window magnum headlinebalancer
+window magnum headlinebalancer initialize
+window magnum headlinebalancer shouldrun
+window magnum headlinebalancer initialize
+hundreds of small independent publishers will have easier access to digital book technology under a new service offered by perseus books group the result of agreements between it and more than a half dozen technology companies perseus is expected to announce on thursday the new service called constellation will allow independent publishers to make use of electronic readers digital book search print on demand and other digital formats at rates negotiated by perseus on their behalf unlike large publishers small ones typically lack the resources to use digital technology and as a result often bypass it altogether david steinberger the president and chief executive of perseus said that by using constellation independent publishers could make their books quickly available in several digital formats allowing them to compete on the same technological level and with the same speed and flexibility as larger companies many publishing analysts see digital technology as one of the few major growth areas in the book industry amazon and barnesandnoble com have features that allow consumers to read or search inside a book and such tools are known to improve sales digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand
+advertisement
+continue reading the main story
+there s been an increasing sense of urgency about this mr steinberger said we kept asking ourselves what does the independent publisher need to grow and succeed in the future and this is what kept coming up continue reading the main story
+advertisement
+continue reading the main story
+perseus books group one of the largest independent publishers of general interest books includes the imprints basic books running press and vanguard press it also provides sales marketing and distribution services to more than 300 independent publishers mr steinberger said he sees constellation which will go into effect on thursday as an expansion of perseus s book distribution services distribution means getting our publishers books everywhere they need to go and everywhere they want to go he said digital is an essential part to that we re just trying to streamline it
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+the companies involved in the deal include google for its google book search feature amazon for its kindle electronic reader sony for its sony reader barnes noble for its see inside feature on its web site and lightning source a print on demand company publishers who use the new service can provide a single digital book file to constellation and specify how they would like it to be used as a result consumers may see more obscure esoteric books available in digital formats perseus said electronic books have been available since 1968 though they still make up only a small portion of the book business much of the growth especially in the amazon kindle and the sony reader has picked up in the last several years while corporate publishers like random house and simon schuster have devoted significant time and resources to harnessing digital technology most small publishers have out of necessity kept their focus on the traditional duties of acquiring editing and publishing books larger publishers also typically have more leverage when negotiating contracts peter osnos the founder of publicaffairs a member of the perseus books group and the executive director of the caravan project a nonprofit partnership that makes books available in different formats said constellation is applying the same model as caravan the biggest problem in the book world is availability measuring how many books you think you need mr osnos said what you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them that s why all of this matters
+a version of this article appears in print on on page e2 of the new york edition with the headline small book publishers offered new technology order reprints today s paper subscribe
+continue reading the main story
+we re interested in your feedback on this page tell us what you think
+what s next
+loading
+go to home page
+site index
+the new york times
+window magnum writelogo small standard site index branding link
+site index navigation
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
+site information navigation
+2019 the new york times company
+home
+search
+accessibility concerns email us at accessibility nytimes com we would love to hear from you
+contact us
+work with us
+advertise
+your ad choices
+privacy
+terms of service
+terms of sale
+site information navigation
+site map
+help
+site feedback
+subscriptions
+advertisement
+advertisement
+supported by
+books
+small book publishers offered new technology
+by julie bosmansept 3 2008
+continue reading the main story
+share this page
+continue reading the main story
+supported by
+by julie bosmansept 3 2008
+continue reading the main story
+share this page
+continue reading the main story
+continue reading the main story
+share this page
+continue reading the main story
+continue reading the main story
+share this page
+continue reading the main story
+continue reading the main story
+hundreds of small independent publishers will have easier access to digital book technology under a new service offered by perseus books group the result of agreements between it and more than a half dozen technology companies perseus is expected to announce on thursday the new service called constellation will allow independent publishers to make use of electronic readers digital book search print on demand and other digital formats at rates negotiated by perseus on their behalf unlike large publishers small ones typically lack the resources to use digital technology and as a result often bypass it altogether david steinberger the president and chief executive of perseus said that by using constellation independent publishers could make their books quickly available in several digital formats allowing them to compete on the same technological level and with the same speed and flexibility as larger companies many publishing analysts see digital technology as one of the few major growth areas in the book industry amazon and barnesandnoble com have features that allow consumers to read or search inside a book and such tools are known to improve sales digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand
+advertisement
+continue reading the main story
+there s been an increasing sense of urgency about this mr steinberger said we kept asking ourselves what does the independent publisher need to grow and succeed in the future and this is what kept coming up continue reading the main story
+hundreds of small independent publishers will have easier access to digital book technology under a new service offered by perseus books group the result of agreements between it and more than a half dozen technology companies perseus is expected to announce on thursday the new service called constellation will allow independent publishers to make use of electronic readers digital book search print on demand and other digital formats at rates negotiated by perseus on their behalf unlike large publishers small ones typically lack the resources to use digital technology and as a result often bypass it altogether david steinberger the president and chief executive of perseus said that by using constellation independent publishers could make their books quickly available in several digital formats allowing them to compete on the same technological level and with the same speed and flexibility as larger companies many publishing analysts see digital technology as one of the few major growth areas in the book industry amazon and barnesandnoble com have features that allow consumers to read or search inside a book and such tools are known to improve sales digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand
+advertisement
+continue reading the main story
+there s been an increasing sense of urgency about this mr steinberger said we kept asking ourselves what does the independent publisher need to grow and succeed in the future and this is what kept coming up continue reading the main story
+advertisement
+continue reading the main story
+advertisement
+advertisement
+continue reading the main story
+advertisement
+continue reading the main story
+advertisement
+perseus books group one of the largest independent publishers of general interest books includes the imprints basic books running press and vanguard press it also provides sales marketing and distribution services to more than 300 independent publishers mr steinberger said he sees constellation which will go into effect on thursday as an expansion of perseus s book distribution services distribution means getting our publishers books everywhere they need to go and everywhere they want to go he said digital is an essential part to that we re just trying to streamline it
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+the companies involved in the deal include google for its google book search feature amazon for its kindle electronic reader sony for its sony reader barnes noble for its see inside feature on its web site and lightning source a print on demand company publishers who use the new service can provide a single digital book file to constellation and specify how they would like it to be used as a result consumers may see more obscure esoteric books available in digital formats perseus said electronic books have been available since 1968 though they still make up only a small portion of the book business much of the growth especially in the amazon kindle and the sony reader has picked up in the last several years while corporate publishers like random house and simon schuster have devoted significant time and resources to harnessing digital technology most small publishers have out of necessity kept their focus on the traditional duties of acquiring editing and publishing books larger publishers also typically have more leverage when negotiating contracts peter osnos the founder of publicaffairs a member of the perseus books group and the executive director of the caravan project a nonprofit partnership that makes books available in different formats said constellation is applying the same model as caravan the biggest problem in the book world is availability measuring how many books you think you need mr osnos said what you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them that s why all of this matters
+a version of this article appears in print on on page e2 of the new york edition with the headline small book publishers offered new technology order reprints today s paper subscribe
+continue reading the main story
+perseus books group one of the largest independent publishers of general interest books includes the imprints basic books running press and vanguard press it also provides sales marketing and distribution services to more than 300 independent publishers mr steinberger said he sees constellation which will go into effect on thursday as an expansion of perseus s book distribution services distribution means getting our publishers books everywhere they need to go and everywhere they want to go he said digital is an essential part to that we re just trying to streamline it
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+the companies involved in the deal include google for its google book search feature amazon for its kindle electronic reader sony for its sony reader barnes noble for its see inside feature on its web site and lightning source a print on demand company publishers who use the new service can provide a single digital book file to constellation and specify how they would like it to be used as a result consumers may see more obscure esoteric books available in digital formats perseus said electronic books have been available since 1968 though they still make up only a small portion of the book business much of the growth especially in the amazon kindle and the sony reader has picked up in the last several years while corporate publishers like random house and simon schuster have devoted significant time and resources to harnessing digital technology most small publishers have out of necessity kept their focus on the traditional duties of acquiring editing and publishing books larger publishers also typically have more leverage when negotiating contracts peter osnos the founder of publicaffairs a member of the perseus books group and the executive director of the caravan project a nonprofit partnership that makes books available in different formats said constellation is applying the same model as caravan the biggest problem in the book world is availability measuring how many books you think you need mr osnos said what you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them that s why all of this matters
+a version of this article appears in print on on page e2 of the new york edition with the headline small book publishers offered new technology order reprints today s paper subscribe
+continue reading the main story
+newsletter sign up
+continue reading the main story
+headline book review summary be the first to see reviews news and features in the new york times book review product code bk product title book review sample url http recommendations on the best tv shows and films to stream and watch delivered to your inbox product code wg product title watching sample url http dispatch summary every saturday get travel tips destination coverage photos from all over the world and more product code tl product title travel dispatch sample url http
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+see sample
+manage email preferences
+not you
+privacy policy
+opt out or contact us anytime
+opt out or contact us anytime
+var signupbtn document getelementbyid submit button
+function focussignupbtn
+signupbtn setattribute aria hidden false
+settimeout function
+signupbtn focus
+2000
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+please verify you re not a robot by clicking the box
+invalid email address please re enter
+you must select a newsletter to subscribe to
+sign up
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you will receive emails containing news content updates and promotions from the new york times you may opt out at any time
+you agree to receive occasional updates and special offers for the new york times s products and services
+you agree to receive occasional updates and special offers for the new york times s products and services
+thank you for subscribing
+an error has occurred please try again later
+you are already subscribed to this email
+view all new york times newsletters
+a version of this article appears in print on on page e2 of the new york edition with the headline small book publishers offered new technology order reprints today s paper subscribe
+we re interested in your feedback on this page tell us what you think
+loading
+loading
+loading
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition
+news
+world
+u s
+politics
+n y
+business
+tech
+science
+health
+sports
+education
+obituaries
+today s paper
+corrections
+opinion
+today s opinion
+op ed columnists
+editorials
+op ed contributors
+letters
+sunday review
+video opinion
+arts
+today s arts
+art design
+books
+dance
+movies
+music
+n y c events guide
+television
+theater
+video arts
+living
+automobiles
+crossword
+food
+education
+fashion style
+health
+jobs
+magazine
+n y c events guide
+real estate
+t magazine
+travel
+weddings celebrations
+listings more
+reader center
+classifieds
+tools services
+n y c events guide
+multimedia
+photography
+video
+nyt store
+times journeys
+subscribe
+manage my account
+nytco
+subscribe
+subscribe
+home delivery
+digital subscriptions
+crossword
+email newsletters
+gift subscriptions
+group subscriptions
+education rate
+mobile applications
+replica edition

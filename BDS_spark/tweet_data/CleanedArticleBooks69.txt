@@ -1,0 +1,1391 @@
+in books
+in case you didn t realize it we re smack dab in the middle of banned books week which reminds us not to take intellectual freedom for granted hundreds of books are censored each year in america s schools bookstores and libraries many of them works of unquestionable literary merit books like the catcher in the rye to kill a mockingbird and huckleberry finn the new york times has created a handy guide outlining ways to celebrate banned books week while city lights the beloved san francisco bookstore founded by lawrence ferlinghetti came up with its own way to raise awareness they got filmmaker john waters to read a steamy passage from d h lawrence s controversial novel lady chatterley s lover although originally published in 1928 an uncensored version of the book didn t appear in britain until 1960 and almost immediately penguin the publisher was tried under the obscene publications act a jury returned with a verdict of not guilty as you can imagine the lines read by mr waters are not safe for work you can find lady chatterley s lover housed in our collection of free ebooks censorship is telling a man he can t have a steak just because a baby can t chew it mark twainvia galleycatrelated content frank zappa debates censorship on cnn s crossfire 1986 allen ginsberg reads his classic beat poem howlmike wallace and bennett cerf founder of random house talk censorship by dc permalink comments 0 we re hoping to rely on our loyal readers rather than erratic ads to support open culture s continued operation please consider making a donation we thank you
+be the first to comment name required
+email required
+message
+click here to cancel reply
+adsbygoogle window adsbygoogle push
+get the best cultural and educational resources on the web curated for you in a daily email we never spam unsubscribe at any time
+follow on social mediaopen culture scours the web for the best educational media we find the free courses and audio books you need the language lessons educational videos you want and plenty of enlightenment in between 2006 2019 open culture llc all rights reserved if you like our facebook fanpage you ll receive more articles like the one you just read
+calculate the width of available ad space
+ad document getelementbyid leaderboard div
+console log width of ad is string ad getboundingclientrect width
+if ad getboundingclientrect width
+adwidth ad getboundingclientrect width for modern browsers
+else
+adwidth ad offsetwidth for old ie
+google ad client ca pub 1184791463292965
+google ad slot 9984475861
+console log ad width adwidth tostring
+do not change anything after this line
+if adwidth 728
+google ad size 728 90 leaderboard 728x90
+else if adwidth 468
+google ad size 468 60 banner 468 x 60
+else if adwidth 319
+google ad size 320 50
+else
+google ad size 234 60
+else if adwidth 336
+google ad size 336 280 large rectangle 336 x 280
+else if adwidth 300
+google ad size 300 250 medium rectangle 300 x 250
+else if adwidth 250
+google ad size 250 250 square 250 x 250
+else if adwidth 200
+google ad size 200 200 small square 200 x 200
+else if adwidth 180
+google ad size 180 150 small rectangle 180 x 150
+else
+google ad size 125 125 button 125 x 125
+document write
+ins class adsbygoogle style display inline block width
+google ad size 0 px height
+google ad size 1 px data ad client
+google ad client data ad slot
+google ad slot
+adsbygoogle window adsbygoogle push
+calculate the width of available ad space
+ad document getelementbyid leaderboard div
+console log width of ad is string ad getboundingclientrect width
+if ad getboundingclientrect width
+adwidth ad getboundingclientrect width for modern browsers
+else
+adwidth ad offsetwidth for old ie
+google ad client ca pub 1184791463292965
+google ad slot 9984475861
+console log ad width adwidth tostring
+do not change anything after this line
+if adwidth 728
+google ad size 728 90 leaderboard 728x90
+else if adwidth 468
+google ad size 468 60 banner 468 x 60
+else if adwidth 319
+google ad size 320 50
+else
+google ad size 234 60
+else if adwidth 336
+google ad size 336 280 large rectangle 336 x 280
+else if adwidth 300
+google ad size 300 250 medium rectangle 300 x 250
+else if adwidth 250
+google ad size 250 250 square 250 x 250
+else if adwidth 200
+google ad size 200 200 small square 200 x 200
+else if adwidth 180
+google ad size 180 150 small rectangle 180 x 150
+else
+google ad size 125 125 button 125 x 125
+document write
+ins class adsbygoogle style display inline block width
+google ad size 0 px height
+google ad size 1 px data ad client
+google ad client data ad slot
+google ad slot
+adsbygoogle window adsbygoogle push
+calculate the width of available ad space
+ad document getelementbyid leaderboard div
+console log width of ad is string ad getboundingclientrect width
+if ad getboundingclientrect width
+adwidth ad getboundingclientrect width for modern browsers
+else
+adwidth ad offsetwidth for old ie
+google ad client ca pub 1184791463292965
+google ad slot 9984475861
+console log ad width adwidth tostring
+do not change anything after this line
+if adwidth 728
+google ad size 728 90 leaderboard 728x90
+else if adwidth 468
+google ad size 468 60 banner 468 x 60
+else if adwidth 319
+google ad size 320 50
+else
+google ad size 234 60
+else if adwidth 336
+google ad size 336 280 large rectangle 336 x 280
+else if adwidth 300
+google ad size 300 250 medium rectangle 300 x 250
+else if adwidth 250
+google ad size 250 250 square 250 x 250
+else if adwidth 200
+google ad size 200 200 small square 200 x 200
+else if adwidth 180
+google ad size 180 150 small rectangle 180 x 150
+else
+google ad size 125 125 button 125 x 125
+document write
+ins class adsbygoogle style display inline block width
+google ad size 0 px height
+google ad size 1 px data ad client
+google ad client data ad slot
+google ad slot
+adsbygoogle window adsbygoogle push
+calculate the width of available ad space
+ad document getelementbyid leaderboard div
+console log width of ad is string ad getboundingclientrect width
+if ad getboundingclientrect width
+adwidth ad getboundingclientrect width for modern browsers
+else
+adwidth ad offsetwidth for old ie
+google ad client ca pub 1184791463292965
+google ad slot 9984475861
+console log ad width adwidth tostring
+do not change anything after this line
+if adwidth 728
+google ad size 728 90 leaderboard 728x90
+else if adwidth 468
+google ad size 468 60 banner 468 x 60
+else if adwidth 319
+google ad size 320 50
+else
+google ad size 234 60
+else if adwidth 336
+google ad size 336 280 large rectangle 336 x 280
+else if adwidth 300
+google ad size 300 250 medium rectangle 300 x 250
+else if adwidth 250
+google ad size 250 250 square 250 x 250
+else if adwidth 200
+google ad size 200 200 small square 200 x 200
+else if adwidth 180
+google ad size 180 150 small rectangle 180 x 150
+else
+google ad size 125 125 button 125 x 125
+document write
+ins class adsbygoogle style display inline block width
+google ad size 0 px height
+google ad size 1 px data ad client
+google ad client data ad slot
+google ad slot
+adsbygoogle window adsbygoogle push
+calculate the width of available ad space
+ad document getelementbyid leaderboard div
+console log width of ad is string ad getboundingclientrect width
+if ad getboundingclientrect width
+adwidth ad getboundingclientrect width for modern browsers
+else
+adwidth ad offsetwidth for old ie
+google ad client ca pub 1184791463292965
+google ad slot 9984475861
+console log ad width adwidth tostring
+do not change anything after this line
+if adwidth 728
+google ad size 728 90 leaderboard 728x90
+else if adwidth 468
+google ad size 468 60 banner 468 x 60
+else if adwidth 319
+google ad size 320 50
+else
+google ad size 234 60
+else if adwidth 336
+google ad size 336 280 large rectangle 336 x 280
+else if adwidth 300
+google ad size 300 250 medium rectangle 300 x 250
+else if adwidth 250
+google ad size 250 250 square 250 x 250
+else if adwidth 200
+google ad size 200 200 small square 200 x 200
+else if adwidth 180
+google ad size 180 150 small rectangle 180 x 150
+else
+google ad size 125 125 button 125 x 125
+document write
+ins class adsbygoogle style display inline block width
+google ad size 0 px height
+google ad size 1 px data ad client
+google ad client data ad slot
+google ad slot
+adsbygoogle window adsbygoogle push
+calculate the width of available ad space
+ad document getelementbyid leaderboard div
+console log width of ad is string ad getboundingclientrect width
+if ad getboundingclientrect width
+adwidth ad getboundingclientrect width for modern browsers
+else
+adwidth ad offsetwidth for old ie
+google ad client ca pub 1184791463292965
+google ad slot 9984475861
+console log ad width adwidth tostring
+do not change anything after this line
+if adwidth 728
+google ad size 728 90 leaderboard 728x90
+else if adwidth 468
+google ad size 468 60 banner 468 x 60
+else if adwidth 319
+google ad size 320 50
+else
+google ad size 234 60
+else if adwidth 336
+google ad size 336 280 large rectangle 336 x 280
+else if adwidth 300
+google ad size 300 250 medium rectangle 300 x 250
+else if adwidth 250
+google ad size 250 250 square 250 x 250
+else if adwidth 200
+google ad size 200 200 small square 200 x 200
+else if adwidth 180
+google ad size 180 150 small rectangle 180 x 150
+else
+google ad size 125 125 button 125 x 125
+document write
+ins class adsbygoogle style display inline block width
+google ad size 0 px height
+google ad size 1 px data ad client
+google ad client data ad slot
+google ad slot
+adsbygoogle window adsbygoogle push
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+donate
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+donate
+contentmiddle ul li list style type circle
+margin left 3rem
+john waters reads steamy scene from lady chatterley s lover for banned books week nsfw
+in books
+contentmiddle ul li list style type circle
+margin left 3rem
+john waters reads steamy scene from lady chatterley s lover for banned books week nsfw
+in books
+john waters reads steamy scene from lady chatterley s lover for banned books week nsfw
+in books
+john waters reads steamy scene from lady chatterley s lover for banned books week nsfw
+in books785sharesfacebooktwitterredditsubscribegooglewhatsapppinterestdigglinkedinstumbleuponvkprintdeliciousbufferpocketxingtumblrmailyummlytelegramflipboard
+785shares785facebooktwitterredditsubscribegooglewhatsapppinterestdigglinkedinstumbleuponvkprintdeliciousbufferpocketxingtumblrmailyummlytelegramflipboardsubscribegooglewhatsapppinterestdigglinkedinstumbleuponvkprintdeliciousbufferpocketxingtumblrmailyummlytelegramflipboard
+advertisement
+adsbygoogle window adsbygoogle push
+adsbygoogle window adsbygoogle push
+in case you didn t realize it we re smack dab in the middle of banned books week which reminds us not to take intellectual freedom for granted hundreds of books are censored each year in america s schools bookstores and libraries many of them works of unquestionable literary merit books like the catcher in the rye to kill a mockingbird and huckleberry finn
+the new york times has created a handy guide outlining ways to celebrate banned books week while city lights the beloved san francisco bookstore founded by lawrence ferlinghetti came up with its own way to raise awareness they got filmmaker john waters to read a steamy passage from d h lawrence s controversial novel lady chatterley s lover although originally published in 1928 an uncensored version of the book didn t appear in britain until 1960 and almost immediately penguin the publisher was tried under the obscene publications act a jury returned with a verdict of not guilty as you can imagine the lines read by mr waters are not safe for work you can find lady chatterley s lover housed in our collection of free ebooks
+censorship is telling a man he can t have a steak just because a baby can t chew it mark twain
+via galleycat
+related content
+frank zappa debates censorship on cnn s crossfire 1986
+allen ginsberg reads his classic beat poem howl
+mike wallace and bennett cerf founder of random house talk censorship
+in case you didn t realize it we re smack dab in the middle of banned books week which reminds us not to take intellectual freedom for granted hundreds of books are censored each year in america s schools bookstores and libraries many of them works of unquestionable literary merit books like the catcher in the rye to kill a mockingbird and huckleberry finn
+the new york times has created a handy guide outlining ways to celebrate banned books week while city lights the beloved san francisco bookstore founded by lawrence ferlinghetti came up with its own way to raise awareness they got filmmaker john waters to read a steamy passage from d h lawrence s controversial novel lady chatterley s lover although originally published in 1928 an uncensored version of the book didn t appear in britain until 1960 and almost immediately penguin the publisher was tried under the obscene publications act a jury returned with a verdict of not guilty as you can imagine the lines read by mr waters are not safe for work you can find lady chatterley s lover housed in our collection of free ebooks
+censorship is telling a man he can t have a steak just because a baby can t chew it mark twain
+via galleycat
+related content
+frank zappa debates censorship on cnn s crossfire 1986
+allen ginsberg reads his classic beat poem howl
+mike wallace and bennett cerf founder of random house talk censorship
+785sharesfacebooktwitterredditsubscribegooglewhatsapppinterestdigglinkedinstumbleuponvkprintdeliciousbufferpocketxingtumblrmailyummlytelegramflipboard
+785shares785facebooktwitterredditsubscribegooglewhatsapppinterestdigglinkedinstumbleuponvkprintdeliciousbufferpocketxingtumblrmailyummlytelegramflipboardsubscribegooglewhatsapppinterestdigglinkedinstumbleuponvkprintdeliciousbufferpocketxingtumblrmailyummlytelegramflipboard
+by dc permalink comments 0
+support open culture
+we re hoping to rely on our loyal readers rather than erratic ads to support open culture s continued operation please consider making a donation we thank you
+support open culture
+we re hoping to rely on our loyal readers rather than erratic ads to support open culture s continued operation please consider making a donation we thank you
+support open culture
+we re hoping to rely on our loyal readers rather than erratic ads to support open culture s continued operation please consider making a donation we thank you
+support open culture
+comments 0
+be the first to comment
+leave a reply
+name required
+email required
+message
+click here to cancel reply
+wordpress hashcash needs javascript to work but your browser has javascript disabled your comment will be queued in akismet
+comments 0
+be the first to comment
+leave a reply
+name required
+email required
+message
+click here to cancel reply
+wordpress hashcash needs javascript to work but your browser has javascript disabled your comment will be queued in akismet
+leave a reply
+name required
+email required
+message
+click here to cancel reply
+wordpress hashcash needs javascript to work but your browser has javascript disabled your comment will be queued in akismet
+name required
+email required
+message
+click here to cancel reply
+wordpress hashcash needs javascript to work but your browser has javascript disabled your comment will be queued in akismet
+click here to cancel reply wordpress hashcash needs javascript to work but your browser has javascript disabled your comment will be queued in akismet
+essentials
+1 300 free online courses
+1000 moocs
+1 150 free movies
+700 free audio books
+800 free ebooks
+200 free textbooks
+300 free language lessons
+150 free business courses
+free k 12 education
+get our daily email
+support us
+we re hoping to rely on loyal readers rather than erratic ads click the donate button and support open culture we thank you
+free courses
+astronomy
+biology
+business
+chemistry
+classics ancient world
+computer science
+economics
+engineering
+environment
+history
+literature
+math
+philosophy
+physics
+political science
+psychology
+religion
+all 1250 free courses
+1000 moocs certificate courses
+adsbygoogle window adsbygoogle push
+free movies
+1150 free movies online
+free film noir
+silent films
+documentaries
+martial arts kung fu
+animations
+free hitchcock films
+free charlie chaplin
+free john wayne movies
+free tarkovsky films
+free dziga vertov
+free oscar winners
+adsbygoogle window adsbygoogle push
+free language lessons
+arabic
+chinese
+english
+french
+german
+italian
+russian
+spanish
+all languages
+free ebooks
+700 free ebooks
+free philosophy ebooks
+the harvard classics
+philip k dick stories
+neil gaiman stories
+david foster wallace stories essays
+hemingway stories
+great gatsby other fitzgerald novels
+hp lovecraft
+edgar allan poe
+free alice munro stories
+jennifer egan stories
+george saunders stories
+hunter s thompson essays
+joan didion essays
+gabriel garcia marquez stories
+david sedaris stories
+stephen king
+chomsky
+golden age comics
+free books by uc press
+life changing books
+free audio books
+700 free audio books
+free audio books fiction
+free audio books poetry
+free audio books non fiction
+free textbooks
+200 free textbooks
+free physics textbooks
+free computer science textbooks
+free math textbooks
+k 12 resources
+free books
+free video lessons
+web resources by subject
+free language lessons
+quality youtube channels
+teacher resources
+test prep
+all free kids resources
+free art images
+all art images books
+the met
+the getty
+the rijksmuseum
+smithsonian
+the guggenheim
+the tate
+the national gallery
+the whitney
+la county museum
+stanford university
+british library
+google art project
+french revolution
+getty images
+guggenheim art books
+met art books
+getty art books
+new york public library maps
+museum of new zealand
+street art
+smarthistory
+rembrandt
+van gogh
+coloring books
+free music
+all bach organ works
+all of bach
+80 000 classical music scores
+free classical music
+live classical music
+9 000 grateful dead concerts
+alan lomax blues folk archive
+writing tips
+hemingway
+fitzgerald
+stephen king
+ray bradbury
+william zinsser
+kurt vonnegut
+toni morrison
+edgar allan poe
+margaret atwood
+david ogilvy
+steinbeck
+billy wilder
+archive
+all posts by date
+categories
+amazon kindle
+animation
+apple
+architecture
+archives
+art
+astronomy
+audio books
+beat tweets
+biology
+books
+business
+chemistry
+comedy
+comics cartoons
+computer science
+creativity
+current affairs
+dance
+data
+deals
+design
+e books
+economics
+education
+english language
+entrepreneurship
+environment
+fashion
+film
+food drink
+games
+gender
+google
+graduation speech
+harvard
+health
+history
+how to learn for free
+internet archive
+ipad
+iphone
+jazz
+k 12
+language lessons
+law
+letters
+libraries
+life
+literature
+magazines
+maps
+math
+media
+mit
+moocs
+most popular
+museums
+music
+nature
+neuroscience
+online courses
+opera
+philosophy
+photography
+physics
+podcast articles and resources
+poetry
+politics
+psychology
+radio
+random
+religion
+sci fi
+science
+software
+sports
+stanford
+technology
+ted talks
+television
+theatre
+travel
+twitter
+uc berkeley
+uncategorized
+video arts culture
+video politics society
+video science
+video games
+web tech
+wikipedia
+writing
+yale
+youtube
+1 300 free online courses
+1000 moocs
+1 150 free movies
+700 free audio books
+800 free ebooks
+200 free textbooks
+300 free language lessons
+150 free business courses
+free k 12 education
+get our daily email
+1 300 free online courses
+1000 moocs
+1 150 free movies
+700 free audio books
+800 free ebooks
+200 free textbooks
+300 free language lessons
+150 free business courses
+free k 12 education
+get our daily email
+we re hoping to rely on loyal readers rather than erratic ads click the donate button and support open culture we thank you
+we re hoping to rely on loyal readers rather than erratic ads click the donate button and support open culture we thank you
+free courses
+astronomy
+biology
+business
+chemistry
+classics ancient world
+computer science
+economics
+engineering
+environment
+history
+literature
+math
+philosophy
+physics
+political science
+psychology
+religion
+all 1250 free courses
+1000 moocs certificate courses
+free courses
+astronomy
+biology
+business
+chemistry
+classics ancient world
+computer science
+economics
+engineering
+environment
+history
+literature
+math
+philosophy
+physics
+political science
+psychology
+religion
+all 1250 free courses
+1000 moocs certificate courses
+adsbygoogle window adsbygoogle push
+adsbygoogle window adsbygoogle push
+free movies
+1150 free movies online
+free film noir
+silent films
+documentaries
+martial arts kung fu
+animations
+free hitchcock films
+free charlie chaplin
+free john wayne movies
+free tarkovsky films
+free dziga vertov
+free oscar winners
+free movies
+1150 free movies online
+free film noir
+silent films
+documentaries
+martial arts kung fu
+animations
+free hitchcock films
+free charlie chaplin
+free john wayne movies
+free tarkovsky films
+free dziga vertov
+free oscar winners
+adsbygoogle window adsbygoogle push
+free language lessons
+arabic
+chinese
+english
+french
+german
+italian
+russian
+spanish
+all languages
+free language lessons
+arabic
+chinese
+english
+french
+german
+italian
+russian
+spanish
+all languages
+free ebooks
+700 free ebooks
+free philosophy ebooks
+the harvard classics
+philip k dick stories
+neil gaiman stories
+david foster wallace stories essays
+hemingway stories
+great gatsby other fitzgerald novels
+hp lovecraft
+edgar allan poe
+free alice munro stories
+jennifer egan stories
+george saunders stories
+hunter s thompson essays
+joan didion essays
+gabriel garcia marquez stories
+david sedaris stories
+stephen king
+chomsky
+golden age comics
+free books by uc press
+life changing books
+free ebooks
+700 free ebooks
+free philosophy ebooks
+the harvard classics
+philip k dick stories
+neil gaiman stories
+david foster wallace stories essays
+hemingway stories
+great gatsby other fitzgerald novels
+hp lovecraft
+edgar allan poe
+free alice munro stories
+jennifer egan stories
+george saunders stories
+hunter s thompson essays
+joan didion essays
+gabriel garcia marquez stories
+david sedaris stories
+stephen king
+chomsky
+golden age comics
+free books by uc press
+life changing books
+free audio books
+700 free audio books
+free audio books fiction
+free audio books poetry
+free audio books non fiction
+free audio books
+700 free audio books
+free audio books fiction
+free audio books poetry
+free audio books non fiction
+free textbooks
+200 free textbooks
+free physics textbooks
+free computer science textbooks
+free math textbooks
+free textbooks
+200 free textbooks
+free physics textbooks
+free computer science textbooks
+free math textbooks
+k 12 resources
+free books
+free video lessons
+web resources by subject
+free language lessons
+quality youtube channels
+teacher resources
+test prep
+all free kids resources
+k 12 resources
+free books
+free video lessons
+web resources by subject
+free language lessons
+quality youtube channels
+teacher resources
+test prep
+all free kids resources
+free art images
+all art images books
+the met
+the getty
+the rijksmuseum
+smithsonian
+the guggenheim
+the tate
+the national gallery
+the whitney
+la county museum
+stanford university
+british library
+google art project
+french revolution
+getty images
+guggenheim art books
+met art books
+getty art books
+new york public library maps
+museum of new zealand
+street art
+smarthistory
+rembrandt
+van gogh
+coloring books
+free art images
+all art images books
+the met
+the getty
+the rijksmuseum
+smithsonian
+the guggenheim
+the tate
+the national gallery
+the whitney
+la county museum
+stanford university
+british library
+google art project
+french revolution
+getty images
+guggenheim art books
+met art books
+getty art books
+new york public library maps
+museum of new zealand
+street art
+smarthistory
+rembrandt
+van gogh
+coloring books
+free music
+all bach organ works
+all of bach
+80 000 classical music scores
+free classical music
+live classical music
+9 000 grateful dead concerts
+alan lomax blues folk archive
+free music
+all bach organ works
+all of bach
+80 000 classical music scores
+free classical music
+live classical music
+9 000 grateful dead concerts
+alan lomax blues folk archive
+writing tips
+hemingway
+fitzgerald
+stephen king
+ray bradbury
+william zinsser
+kurt vonnegut
+toni morrison
+edgar allan poe
+margaret atwood
+david ogilvy
+steinbeck
+billy wilder
+writing tips
+hemingway
+fitzgerald
+stephen king
+ray bradbury
+william zinsser
+kurt vonnegut
+toni morrison
+edgar allan poe
+margaret atwood
+david ogilvy
+steinbeck
+billy wilder
+archive
+all posts by date
+archive
+all posts by date
+adsbygoogle window adsbygoogle push
+great lectures
+michel foucault
+sun ra at uc berkeley
+richard feynman
+joseph campbell
+carl sagan
+margaret atwood
+jorge luis borges
+leonard bernstein
+richard dawkins
+buckminster fuller
+walter kaufmann on existentialism
+jacques lacan
+roland barthes
+nobel lectures by writers
+toni morrison
+bertrand russell
+oxford philosophy lectures
+free updates
+get our daily email
+get the best cultural and educational resources on the web curated for you in a daily email we never spam unsubscribe at any time
+follow on social media
+about us
+open culture scours the web for the best educational media we find the free courses and audio books you need the language lessons educational videos you want and plenty of enlightenment in between
+advertise with us
+great recordings
+t s eliot reads waste land
+sylvia plath ariel
+joyce reads ulysses
+joyce finnegans wake
+patti smith reads virginia woolf
+albert einstein
+charles bukowski
+bill murray
+hemingway
+fitzgerald reads shakespeare
+william faulkner
+flannery o connor
+tolkien the hobbit
+allen ginsberg howl
+w b yeats
+ezra pound
+dylan thomas
+anne sexton
+john cheever
+david foster wallace
+book lists by
+neil degrasse tyson
+ernest hemingway
+f scott fitzgerald
+allen ginsberg
+patti smith
+brian eno
+henry miller
+christopher hitchens
+joseph brodsky
+w h auden
+donald barthelme
+carl sagan
+david bowie
+samuel beckett
+art garfunkel
+marilyn monroe
+jorge luis borges
+picks by female creatives
+syllabi
+wh auden
+david foster wallace
+donald barthelme
+allen ginsberg
+zadie smith gary shteyngart
+spike lee
+lynda barry
+junot diaz
+favorite movies
+kubrick
+kurosawa s 100
+tarantino
+scorsese
+tarkovsky
+david lynch
+werner herzog
+woody allen
+wes anderson
+luis bu uel
+roger ebert
+susan sontag
+scorsese foreign films
+philosophy films
+archives
+april 2019
+march 2019
+february 2019
+january 2019
+december 2018
+november 2018
+october 2018
+september 2018
+august 2018
+july 2018
+june 2018
+may 2018
+april 2018
+march 2018
+february 2018
+january 2018
+december 2017
+november 2017
+october 2017
+september 2017
+august 2017
+july 2017
+june 2017
+may 2017
+april 2017
+march 2017
+february 2017
+january 2017
+december 2016
+november 2016
+october 2016
+september 2016
+august 2016
+july 2016
+june 2016
+may 2016
+april 2016
+march 2016
+february 2016
+january 2016
+december 2015
+november 2015
+october 2015
+september 2015
+august 2015
+july 2015
+june 2015
+may 2015
+april 2015
+march 2015
+february 2015
+january 2015
+december 2014
+november 2014
+october 2014
+september 2014
+august 2014
+july 2014
+june 2014
+may 2014
+april 2014
+march 2014
+february 2014
+january 2014
+december 2013
+november 2013
+october 2013
+september 2013
+august 2013
+july 2013
+june 2013
+may 2013
+april 2013
+march 2013
+february 2013
+january 2013
+december 2012
+november 2012
+october 2012
+september 2012
+august 2012
+july 2012
+june 2012
+may 2012
+april 2012
+march 2012
+february 2012
+january 2012
+december 2011
+november 2011
+october 2011
+september 2011
+august 2011
+july 2011
+june 2011
+may 2011
+april 2011
+march 2011
+february 2011
+january 2011
+december 2010
+november 2010
+october 2010
+september 2010
+august 2010
+july 2010
+june 2010
+may 2010
+april 2010
+march 2010
+february 2010
+january 2010
+december 2009
+november 2009
+october 2009
+september 2009
+august 2009
+july 2009
+june 2009
+may 2009
+april 2009
+march 2009
+february 2009
+january 2009
+december 2008
+november 2008
+october 2008
+september 2008
+august 2008
+july 2008
+june 2008
+may 2008
+april 2008
+march 2008
+february 2008
+january 2008
+december 2007
+november 2007
+october 2007
+september 2007
+august 2007
+july 2007
+june 2007
+may 2007
+april 2007
+march 2007
+february 2007
+january 2007
+december 2006
+november 2006
+october 2006
+september 2006
+adsbygoogle window adsbygoogle push
+adsbygoogle window adsbygoogle push
+michel foucault
+sun ra at uc berkeley
+richard feynman
+joseph campbell
+carl sagan
+margaret atwood
+jorge luis borges
+leonard bernstein
+richard dawkins
+buckminster fuller
+walter kaufmann on existentialism
+jacques lacan
+roland barthes
+nobel lectures by writers
+toni morrison
+bertrand russell
+oxford philosophy lectures
+michel foucault
+sun ra at uc berkeley
+richard feynman
+joseph campbell
+carl sagan
+margaret atwood
+jorge luis borges
+leonard bernstein
+richard dawkins
+buckminster fuller
+walter kaufmann on existentialism
+jacques lacan
+roland barthes
+nobel lectures by writers
+toni morrison
+bertrand russell
+oxford philosophy lectures
+free updates
+get our daily email
+get the best cultural and educational resources on the web curated for you in a daily email we never spam unsubscribe at any time
+follow on social media
+free updates
+get our daily email
+get the best cultural and educational resources on the web curated for you in a daily email we never spam unsubscribe at any time
+follow on social media
+open culture scours the web for the best educational media we find the free courses and audio books you need the language lessons educational videos you want and plenty of enlightenment in between
+advertise with us
+open culture scours the web for the best educational media we find the free courses and audio books you need the language lessons educational videos you want and plenty of enlightenment in between
+advertise with us
+great recordings
+t s eliot reads waste land
+sylvia plath ariel
+joyce reads ulysses
+joyce finnegans wake
+patti smith reads virginia woolf
+albert einstein
+charles bukowski
+bill murray
+hemingway
+fitzgerald reads shakespeare
+william faulkner
+flannery o connor
+tolkien the hobbit
+allen ginsberg howl
+w b yeats
+ezra pound
+dylan thomas
+anne sexton
+john cheever
+david foster wallace
+great recordings
+t s eliot reads waste land
+sylvia plath ariel
+joyce reads ulysses
+joyce finnegans wake
+patti smith reads virginia woolf
+albert einstein
+charles bukowski
+bill murray
+hemingway
+fitzgerald reads shakespeare
+william faulkner
+flannery o connor
+tolkien the hobbit
+allen ginsberg howl
+w b yeats
+ezra pound
+dylan thomas
+anne sexton
+john cheever
+david foster wallace
+book lists by
+neil degrasse tyson
+ernest hemingway
+f scott fitzgerald
+allen ginsberg
+patti smith
+brian eno
+henry miller
+christopher hitchens
+joseph brodsky
+w h auden
+donald barthelme
+carl sagan
+david bowie
+samuel beckett
+art garfunkel
+marilyn monroe
+jorge luis borges
+picks by female creatives
+book lists by
+neil degrasse tyson
+ernest hemingway
+f scott fitzgerald
+allen ginsberg
+patti smith
+brian eno
+henry miller
+christopher hitchens
+joseph brodsky
+w h auden
+donald barthelme
+carl sagan
+david bowie
+samuel beckett
+art garfunkel
+marilyn monroe
+jorge luis borges
+picks by female creatives
+syllabi
+wh auden
+david foster wallace
+donald barthelme
+allen ginsberg
+zadie smith gary shteyngart
+spike lee
+lynda barry
+junot diaz
+syllabi
+wh auden
+david foster wallace
+donald barthelme
+allen ginsberg
+zadie smith gary shteyngart
+spike lee
+lynda barry
+junot diaz
+favorite movies
+kubrick
+kurosawa s 100
+tarantino
+scorsese
+tarkovsky
+david lynch
+werner herzog
+woody allen
+wes anderson
+luis bu uel
+roger ebert
+susan sontag
+scorsese foreign films
+philosophy films
+favorite movies
+kubrick
+kurosawa s 100
+tarantino
+scorsese
+tarkovsky
+david lynch
+werner herzog
+woody allen
+wes anderson
+luis bu uel
+roger ebert
+susan sontag
+scorsese foreign films
+philosophy films
+2006 2019 open culture llc all rights reserved
+home
+about us
+advertise with us
+copyright policy
+privacy policy
+terms of use
+bio
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+2006 2019 open culture llc all rights reserved
+home
+about us
+advertise with us
+copyright policy
+privacy policy
+terms of use
+bio
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+2006 2019 open culture llc all rights reserved
+home
+about us
+advertise with us
+copyright policy
+privacy policy
+terms of use
+bio
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+2006 2019 open culture llc all rights reserved
+home
+about us
+advertise with us
+copyright policy
+privacy policy
+terms of use
+bio
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+2006 2019 open culture llc all rights reserved
+home
+about us
+advertise with us
+copyright policy
+privacy policy
+terms of use
+bio
+2006 2019 open culture llc all rights reserved
+2006 2019 open culture llc all rights reserved
+home
+about us
+advertise with us
+copyright policy
+privacy policy
+terms of use
+bio
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+audio books
+online courses
+moocs
+movies
+languages
+textbooks
+ebooks
+close
+do you want more open culture
+if you like our facebook fanpage you ll receive more articles like the one you just read
+do you already like us on facebook
+do not ask me again for facebook
+continue to the article
+close
+do you want more open culture
+if you like our facebook fanpage you ll receive more articles like the one you just read
+close
+do you want more open culture
+if you like our facebook fanpage you ll receive more articles like the one you just read
+do you want more open culture
+if you like our facebook fanpage you ll receive more articles like the one you just read
+do you want more open culture
+if you like our facebook fanpage you ll receive more articles like the one you just read
+do you already like us on facebook
+do not ask me again for facebook
+do you already like us on facebook
+continue to the article

@@ -1,0 +1,939 @@
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+back issuesavailable here 2019 bookseller media ltd rights reserved at the heart of publishing since 1858
+sign in
+e mail
+password
+sign in
+forgotten password
+create account
+sign in
+e mail
+password
+sign in
+forgotten password
+create account
+e mail
+password
+sign in
+forgotten password
+create account
+e mail
+password
+sign in
+forgotten password
+create account
+e mail
+password
+sign in
+search form
+search
+register
+subscribe
+sign in
+about
+search form
+search
+search form
+search
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard
+responsive
+useresponsive true
+bounds
+id 5604931
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp masthead
+responsive
+useresponsive true
+bounds
+id 5613884
+min 993
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp masthead
+homenewsbookschartsblogsinsightchildren sfuturebookeventscareersjobs
+homenewsbookschartsblogsinsightchildren sfuturebookeventscareersjobs
+homenewsbookschartsblogsinsightchildren sfuturebookeventscareersjobs
+homenewsbookschartsblogsinsightchildren sfuturebookeventscareersjobs
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+page not found
+the requested page could not be found
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu alpha
+responsive
+useresponsive true
+bounds
+id 5604940
+min 0
+max 400
+id 5604939
+min 401
+max 899
+id 5604936
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu alpha
+jobs in books
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb hp job of the week
+responsive
+useresponsive true
+bounds
+id 5605084
+min 0
+max 400
+id 5605081
+min 401
+max 899
+id 5605074
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb hp job of the week
+area sales manager london
+marketing designer
+publicity coordinator
+more jobs
+latest news stories
+simon schuster prepares mueller report e book release and hefty print run
+prh us launches reader loyalty programme
+harpercollins reveals new true crime podcast
+cassell bags book from england bowling hero jimmy anderson
+johnson and mcintyre shortlisted for little rebels award
+hunchback of notre dame sees amazon france sales spike
+the official uk chart
+1
+hinch yourself happy
+by mrs hinch
+2
+pinch of nom
+by kay featherstone kate allinson
+3
+past tense
+by lee child
+4
+diary of an awesome friendly kid
+by jeff kinney
+5
+nine perfect strangers
+by liane moriarty
+6
+fing
+by david walliams tony ross
+7
+transcription
+by kate atkinson
+8
+ambush
+by james patterson james o born
+9
+the moon sister
+by lucinda riley
+10
+the tattooist of auschwitz
+by heather morris
+more charts
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu beta
+responsive
+useresponsive true
+bounds
+id 5604941
+min 0
+max 400
+id 5604935
+min 401
+max 899
+id 5604937
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu beta
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+page not found
+the requested page could not be found
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp leaderboard m
+responsive
+useresponsive true
+bounds
+id 5604934
+min 0
+max 738
+id 5604938
+min 739
+max 992
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp leaderboard m
+the requested page could not be found
+the requested page could not be found
+the requested page could not be found
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu alpha
+responsive
+useresponsive true
+bounds
+id 5604940
+min 0
+max 400
+id 5604939
+min 401
+max 899
+id 5604936
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu alpha
+jobs in books
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb hp job of the week
+responsive
+useresponsive true
+bounds
+id 5605084
+min 0
+max 400
+id 5605081
+min 401
+max 899
+id 5605074
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb hp job of the week
+area sales manager london
+marketing designer
+publicity coordinator
+more jobs
+latest news stories
+simon schuster prepares mueller report e book release and hefty print run
+prh us launches reader loyalty programme
+harpercollins reveals new true crime podcast
+cassell bags book from england bowling hero jimmy anderson
+johnson and mcintyre shortlisted for little rebels award
+hunchback of notre dame sees amazon france sales spike
+the official uk chart
+1
+hinch yourself happy
+by mrs hinch
+2
+pinch of nom
+by kay featherstone kate allinson
+3
+past tense
+by lee child
+4
+diary of an awesome friendly kid
+by jeff kinney
+5
+nine perfect strangers
+by liane moriarty
+6
+fing
+by david walliams tony ross
+7
+transcription
+by kate atkinson
+8
+ambush
+by james patterson james o born
+9
+the moon sister
+by lucinda riley
+10
+the tattooist of auschwitz
+by heather morris
+more charts
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu beta
+responsive
+useresponsive true
+bounds
+id 5604941
+min 0
+max 400
+id 5604935
+min 401
+max 899
+id 5604937
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu beta
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu alpha
+responsive
+useresponsive true
+bounds
+id 5604940
+min 0
+max 400
+id 5604939
+min 401
+max 899
+id 5604936
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu alpha
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu alpha
+responsive
+useresponsive true
+bounds
+id 5604940
+min 0
+max 400
+id 5604939
+min 401
+max 899
+id 5604936
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu alpha
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu alpha
+responsive
+useresponsive true
+bounds
+id 5604940
+min 0
+max 400
+id 5604939
+min 401
+max 899
+id 5604936
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu alpha
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu alpha
+responsive
+useresponsive true
+bounds
+id 5604940
+min 0
+max 400
+id 5604939
+min 401
+max 899
+id 5604936
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu alpha
+jobs in books
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb hp job of the week
+responsive
+useresponsive true
+bounds
+id 5605084
+min 0
+max 400
+id 5605081
+min 401
+max 899
+id 5605074
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb hp job of the week
+area sales manager london
+marketing designer
+publicity coordinator
+more jobs
+jobs in books
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb hp job of the week
+responsive
+useresponsive true
+bounds
+id 5605084
+min 0
+max 400
+id 5605081
+min 401
+max 899
+id 5605074
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb hp job of the week
+area sales manager london
+marketing designer
+publicity coordinator
+more jobs
+jobs in books
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb hp job of the week
+responsive
+useresponsive true
+bounds
+id 5605084
+min 0
+max 400
+id 5605081
+min 401
+max 899
+id 5605074
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb hp job of the week
+area sales manager london
+marketing designer
+publicity coordinator
+more jobs
+area sales manager london
+marketing designer
+publicity coordinator
+more jobs
+more jobs
+latest news stories
+simon schuster prepares mueller report e book release and hefty print run
+prh us launches reader loyalty programme
+harpercollins reveals new true crime podcast
+cassell bags book from england bowling hero jimmy anderson
+johnson and mcintyre shortlisted for little rebels award
+hunchback of notre dame sees amazon france sales spike
+latest news stories
+simon schuster prepares mueller report e book release and hefty print run
+prh us launches reader loyalty programme
+harpercollins reveals new true crime podcast
+cassell bags book from england bowling hero jimmy anderson
+johnson and mcintyre shortlisted for little rebels award
+hunchback of notre dame sees amazon france sales spike
+latest news stories
+simon schuster prepares mueller report e book release and hefty print run
+prh us launches reader loyalty programme
+harpercollins reveals new true crime podcast
+cassell bags book from england bowling hero jimmy anderson
+johnson and mcintyre shortlisted for little rebels award
+hunchback of notre dame sees amazon france sales spike
+simon schuster prepares mueller report e book release and hefty print run
+prh us launches reader loyalty programme
+harpercollins reveals new true crime podcast
+cassell bags book from england bowling hero jimmy anderson
+johnson and mcintyre shortlisted for little rebels award
+hunchback of notre dame sees amazon france sales spike
+simon schuster prepares mueller report e book release and hefty print run prh us launches reader loyalty programme harpercollins reveals new true crime podcast cassell bags book from england bowling hero jimmy anderson johnson and mcintyre shortlisted for little rebels award hunchback of notre dame sees amazon france sales spike
+the official uk chart
+1
+hinch yourself happy
+by mrs hinch
+2
+pinch of nom
+by kay featherstone kate allinson
+3
+past tense
+by lee child
+4
+diary of an awesome friendly kid
+by jeff kinney
+5
+nine perfect strangers
+by liane moriarty
+6
+fing
+by david walliams tony ross
+7
+transcription
+by kate atkinson
+8
+ambush
+by james patterson james o born
+9
+the moon sister
+by lucinda riley
+10
+the tattooist of auschwitz
+by heather morris
+more charts
+the official uk chart
+1
+hinch yourself happy
+by mrs hinch
+2
+pinch of nom
+by kay featherstone kate allinson
+3
+past tense
+by lee child
+4
+diary of an awesome friendly kid
+by jeff kinney
+5
+nine perfect strangers
+by liane moriarty
+6
+fing
+by david walliams tony ross
+7
+transcription
+by kate atkinson
+8
+ambush
+by james patterson james o born
+9
+the moon sister
+by lucinda riley
+10
+the tattooist of auschwitz
+by heather morris
+more charts
+the official uk chart
+1
+hinch yourself happy
+by mrs hinch
+2
+pinch of nom
+by kay featherstone kate allinson
+3
+past tense
+by lee child
+4
+diary of an awesome friendly kid
+by jeff kinney
+5
+nine perfect strangers
+by liane moriarty
+6
+fing
+by david walliams tony ross
+7
+transcription
+by kate atkinson
+8
+ambush
+by james patterson james o born
+9
+the moon sister
+by lucinda riley
+10
+the tattooist of auschwitz
+by heather morris
+more charts
+1
+hinch yourself happy
+by mrs hinch
+2
+pinch of nom
+by kay featherstone kate allinson
+3
+past tense
+by lee child
+4
+diary of an awesome friendly kid
+by jeff kinney
+5
+nine perfect strangers
+by liane moriarty
+6
+fing
+by david walliams tony ross
+7
+transcription
+by kate atkinson
+8
+ambush
+by james patterson james o born
+9
+the moon sister
+by lucinda riley
+10
+the tattooist of auschwitz
+by heather morris
+more charts
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu beta
+responsive
+useresponsive true
+bounds
+id 5604941
+min 0
+max 400
+id 5604935
+min 401
+max 899
+id 5604937
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu beta
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu beta
+responsive
+useresponsive true
+bounds
+id 5604941
+min 0
+max 400
+id 5604935
+min 401
+max 899
+id 5604937
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu beta
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu beta
+responsive
+useresponsive true
+bounds
+id 5604941
+min 0
+max 400
+id 5604935
+min 401
+max 899
+id 5604937
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu beta
+placement specifc configuration with option to call a placement via the alias
+adtech config placements adtech tb sp mpu beta
+responsive
+useresponsive true
+bounds
+id 5604941
+min 0
+max 400
+id 5604935
+min 401
+max 899
+id 5604937
+min 900
+max 9999
+params
+target blank
+for asynchronous loading use adtech enquead at any point in the document
+adtech enqueuead adtech tb sp mpu beta
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+latest issueview online orsubscribe now
+issue no 5838
+friday april 19 2019
+back issuesavailable here
+site mapadvertisejobscontactabout useditorial featuresprivacy policyupgrade subscription
+2019 bookseller media ltd rights reserved
+at the heart of publishing since 1858
+site mapadvertisejobscontactabout useditorial featuresprivacy policyupgrade subscription
+2019 bookseller media ltd rights reserved
+site mapadvertisejobscontactabout useditorial featuresprivacy policyupgrade subscription
+at the heart of publishing since 1858
+settimeout function var a document createelement script
+var b document getelementsbytagname script 0
+a src document location protocol script crazyegg com pages scripts 0029 7466 js math floor new date gettime 3600000
+a async true a type text javascript b parentnode insertbefore a b 1
+settimeout function var a document createelement script
+var b document getelementsbytagname script 0
+a src document location protocol script crazyegg com pages scripts 0029 7466 js math floor new date gettime 3600000
+a async true a type text javascript b parentnode insertbefore a b 1

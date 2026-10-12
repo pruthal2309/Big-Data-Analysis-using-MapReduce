@@ -1,0 +1,1088 @@
+bo goes for a romp in the white house in bo america s commander in leash and what a busy boy bo is the book begins with bo stealing the president s letter opener and he s off and running for the next 25 pages flying off the obama girls swing running from bees near the first lady s vegetable garden putting green dye in the fountain for st patrick s day he even serves up a summer burger to vice president biden dog lovers will be most amused by the fact that bo like most dogs loves to stick his head out of a vehicle s window to catch the breeze no car for bo though this time bo is enjoying the view and breeze from the window of the president s helicopter it all ends with bo exhausted by his day s activities at 1600 pennsylvania ave dreaming about the lucky white house pets who have preceded him the 14 95 book aimed at kids 4 to 10 has been in the works for two months says aryal publisher of mascot which specializes in books about team and school mascots aryal says he wrote a story narrated by a mischievous white house puppy and added details once bo s identity was known the book is also available from mascotbooks com bo joins a parade of books capitalizing on the first puppy already out which puppy by kate feiffer illustrated by jules feiffer about a contest to live in the white house and first dog by j patrick lewis and beth zappitello illustrated by tim bowers about an unnamed portie in early june algonquin will release first dogs american presidents and their best friends by roy rowan 9 95 trade paperback it features 100 photographs including photos of bo and the bush scottish terriers
+cars auto
+financing event
+tickets jobs real
+estate online
+degrees shopping
+searchhow do i find it subscribe to paper
+oas ad top728x90
+home
+news
+travel
+money
+sports
+life
+tech
+weather
+function change lbrule
+document getelementbyid lbrulecontrol style bordercolor ffffff
+document getelementbyid lbrulecontrol style marginbottom 0
+document getelementbyid lbrulecontrol style margintop 18
+document getelementbyid ad leaderboard style marginbottom 8
+if document getelementbyid lbrulecontrol document getelementbyid ad leaderboard change lbrule
+life
+books
+top 150 books
+shop for books
+oas ad links1
+oas ad poster3 oas ad posterbig oas ad verticalbanner
+oas ad links2
+var showreprintssi showreprintssi
+function rightslinkpopup
+var url
+var location url
+publishername escape usatoday required hard coded
+publication escape usatoday required hard coded
+title escape bo takes office as commander in leash in new book required
+publicationdate escape 4 15 2009 3 20 30 pm required
+author escape by bob minzesheimer and craig wilson usa today
+contentid escape required
+orderbeanreset true required hard coded
+popup window open location rightslink toolbar no directories no status no menubar no scrollbars yes resizable yes width 650 height 550
+bo takes office as commander in leash in new book
+posted document write nicedate 4 15 2009 3 20 pm comment recommend
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+enlarge
+the children s book bo america s commander in leash written by naren aryal and illustrated by danny moore arrives in stores next week
+enlargeby danny moore mascot booksbo goes for a romp in the white house in bo america s commander in leash enlargeby jack gruber usa today president obama and first lady michelle obama walk with daughters malia left and sasha as they show off bo to the press at the white house on tuesday
+var storyurl
+var storytitle bo takes office as commander in leash in new book
+document write
+if typeof articlesummary undefined
+var articlesummary
+var articlesource usatoday com
+var yahoobuzzarticleid usatoday storyurl csp 34
+var yahoobuzzbadgetype text
+var twturl usatlyshorturl
+var maxlength 140 twturl length 1
+var twtsource rt usatoday
+if storytitle length maxlength
+storytitle storytitle substr 0 maxlength 5
+var twtlink twtsource storytitle twturl
+function getthis t c u l
+var targeturl t encodeuricomponent t
+c encodeuricomponent c u encodeuricomponent u l l
+window open targeturl
+var scllisttop
+scllisttop
+scllisttop
+scllisttop share
+scllisttop
+scllisttop nbsp add to mixx
+scllisttop nbsp facebook
+scllisttop nbsp twitter
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop more
+scllisttop
+scllisttop nbsp fark
+scllisttop nbsp digg
+scllisttop nbsp reddit
+scllisttop nbsp myspace
+scllisttop nbsp a href
+uotrack stumbleupon target stumbleupon stumbleupon
+scllisttop nbsp propeller
+scllisttop nbsp linkedin
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+jquery topsocialbuttons append scllisttop
+jquery share nav treeview control treecontrol animated medium collapsed true
+jquery function
+jquery ajax type get url marketing rss settings xml datatype xml success buildsubscribebuttons
+function buildsubscribebuttons xml
+build ssts array
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+var feedid
+var feedname
+var idx 1
+while feedid idx 0
+idx nurl indexof
+jquery xml find add each function
+if jquery this attr key nurl
+feedid jquery this attr value
+if feedid
+nurl nurl replace 1
+jquery xml find add each function
+if jquery this attr key feedid
+feedname jquery this attr value
+if feedname feedname usatoday newstopstories xml
+var scllisttop
+scllisttop
+scllisttop
+scllisttop subscribe
+scllisttop nbsp myyahoo
+scllisttop nbsp igoogle
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop more
+scllisttop
+scllisttop nbsp netvibes
+scllisttop nbsp myaol
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+jquery topsocialbuttons append scllisttop
+jquery subscribe nav treeview control treecontrol animated medium collapsed true
+by bob minzesheimer and craig wilson usa today
+bo the obamas 6 month old portuguese water dog proved tuesday that he has star quality with his rambunctious debut at the white house and now he and the president will star in the children s book bo america s commander in leash by naren aryal illustrated by danny moore mascot books expected to be in stores next week
+and what a busy boy bo is the book begins with bo stealing the president s letter opener and he s off and running for the next 25 pages flying off the obama girls swing running from bees near the first lady s vegetable garden putting green dye in the fountain for st patrick s day he even serves up a summer burger to vice president biden
+dog lovers will be most amused by the fact that bo like most dogs loves to stick his head out of a vehicle s window to catch the breeze no car for bo though this time bo is enjoying the view and breeze from the window of the president s helicopter
+it all ends with bo exhausted by his day s activities at 1600 pennsylvania ave dreaming about the lucky white house pets who have preceded him
+the 14 95 book aimed at kids 4 to 10 has been in the works for two months says aryal publisher of mascot which specializes in books about team and school mascots aryal says he wrote a story narrated by a mischievous white house puppy and added details once bo s identity was known the book is also available from mascotbooks com
+bo joins a parade of books capitalizing on the first puppy already out which puppy by kate feiffer illustrated by jules feiffer about a contest to live in the white house and first dog by j patrick lewis and beth zappitello illustrated by tim bowers about an unnamed portie
+in early june algonquin will release first dogs american presidents and their best friends by roy rowan 9 95 trade paperback it features 100 photographs including photos of bo and the bush scottish terriers
+var yahoobuzzarticleid usatoday storyurl csp 34
+var yahoobuzzbadgetype text
+var scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom nbsp mixx
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+new additions
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+document write scllistbottom
+posted document write nicedate 4 15 2009 3 20 pm
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+to report corrections and clarifications contact reader editor brent jones for publication consideration in the newspaper send comments to letters usatoday com include name phone number city and state for verification to view our corrections go to corrections usatoday com
+guidelines you share in the usa today community so please keep your comments smart and civil don t attack other readers personally and keep your language decent use the report abuse button to make a difference read more
+oas ad floatbottom
+oas ad bottom728x90
+newspaper home delivery subscribe today
+home news travel money sports life tech weather
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+copyright 2011 usa today a division of gannett co inc
+usat page addloadevent doload
+oas ad adops1
+oas ad pagecount
+oas ad invcount
+function inserttagsandstories
+if typeof tagid undefined
+if document getelementbyid bylinetag
+usat page inserttags bylinetag tagid 1
+if document getelementbyid tagcrumbs
+usat page inserttags tagcrumbs tagid 0
+insertsstsstories sstsstories
+function insertsstsstories element
+var ssts getsstsarray
+var url common scripts sstsstoriesprovisioner sstsstories ashx t ssts
+var rh function result
+try
+element innerhtml result
+catch e
+var errh function result
+usataj showdebug get tags error result
+if ssts match nfl football sports i
+usataj ajax url rh errh
+function getsstsarray
+var url document location tostring
+var urlarray url split
+var nurl
+for i urlarray length 2 i 3 i
+if i 3
+nurl urlarray i
+else
+nurl urlarray i
+return nurl
+usat page addloadevent loaddynamiccontent
+usat page addloadevent inserttagsandstories
+video play float left
+cars auto
+financing event
+tickets jobs real
+estate online
+degrees shopping
+searchhow do i find it subscribe to paper
+oas ad top728x90
+home
+news
+travel
+money
+sports
+life
+tech
+weather
+function change lbrule
+document getelementbyid lbrulecontrol style bordercolor ffffff
+document getelementbyid lbrulecontrol style marginbottom 0
+document getelementbyid lbrulecontrol style margintop 18
+document getelementbyid ad leaderboard style marginbottom 8
+if document getelementbyid lbrulecontrol document getelementbyid ad leaderboard change lbrule
+life
+books
+top 150 books
+shop for books
+oas ad links1
+oas ad poster3 oas ad posterbig oas ad verticalbanner
+oas ad links2
+var showreprintssi showreprintssi
+function rightslinkpopup
+var url
+var location url
+publishername escape usatoday required hard coded
+publication escape usatoday required hard coded
+title escape bo takes office as commander in leash in new book required
+publicationdate escape 4 15 2009 3 20 30 pm required
+author escape by bob minzesheimer and craig wilson usa today
+contentid escape required
+orderbeanreset true required hard coded
+popup window open location rightslink toolbar no directories no status no menubar no scrollbars yes resizable yes width 650 height 550
+bo takes office as commander in leash in new book
+posted document write nicedate 4 15 2009 3 20 pm comment recommend
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+enlarge
+the children s book bo america s commander in leash written by naren aryal and illustrated by danny moore arrives in stores next week
+enlargeby danny moore mascot booksbo goes for a romp in the white house in bo america s commander in leash enlargeby jack gruber usa today president obama and first lady michelle obama walk with daughters malia left and sasha as they show off bo to the press at the white house on tuesday
+var storyurl
+var storytitle bo takes office as commander in leash in new book
+document write
+if typeof articlesummary undefined
+var articlesummary
+var articlesource usatoday com
+var yahoobuzzarticleid usatoday storyurl csp 34
+var yahoobuzzbadgetype text
+var twturl usatlyshorturl
+var maxlength 140 twturl length 1
+var twtsource rt usatoday
+if storytitle length maxlength
+storytitle storytitle substr 0 maxlength 5
+var twtlink twtsource storytitle twturl
+function getthis t c u l
+var targeturl t encodeuricomponent t
+c encodeuricomponent c u encodeuricomponent u l l
+window open targeturl
+var scllisttop
+scllisttop
+scllisttop
+scllisttop share
+scllisttop
+scllisttop nbsp add to mixx
+scllisttop nbsp facebook
+scllisttop nbsp twitter
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop more
+scllisttop
+scllisttop nbsp fark
+scllisttop nbsp digg
+scllisttop nbsp reddit
+scllisttop nbsp myspace
+scllisttop nbsp a href
+uotrack stumbleupon target stumbleupon stumbleupon
+scllisttop nbsp propeller
+scllisttop nbsp linkedin
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+jquery topsocialbuttons append scllisttop
+jquery share nav treeview control treecontrol animated medium collapsed true
+jquery function
+jquery ajax type get url marketing rss settings xml datatype xml success buildsubscribebuttons
+function buildsubscribebuttons xml
+build ssts array
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+var feedid
+var feedname
+var idx 1
+while feedid idx 0
+idx nurl indexof
+jquery xml find add each function
+if jquery this attr key nurl
+feedid jquery this attr value
+if feedid
+nurl nurl replace 1
+jquery xml find add each function
+if jquery this attr key feedid
+feedname jquery this attr value
+if feedname feedname usatoday newstopstories xml
+var scllisttop
+scllisttop
+scllisttop
+scllisttop subscribe
+scllisttop nbsp myyahoo
+scllisttop nbsp igoogle
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop more
+scllisttop
+scllisttop nbsp netvibes
+scllisttop nbsp myaol
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+jquery topsocialbuttons append scllisttop
+jquery subscribe nav treeview control treecontrol animated medium collapsed true
+by bob minzesheimer and craig wilson usa today
+bo the obamas 6 month old portuguese water dog proved tuesday that he has star quality with his rambunctious debut at the white house and now he and the president will star in the children s book bo america s commander in leash by naren aryal illustrated by danny moore mascot books expected to be in stores next week
+and what a busy boy bo is the book begins with bo stealing the president s letter opener and he s off and running for the next 25 pages flying off the obama girls swing running from bees near the first lady s vegetable garden putting green dye in the fountain for st patrick s day he even serves up a summer burger to vice president biden
+dog lovers will be most amused by the fact that bo like most dogs loves to stick his head out of a vehicle s window to catch the breeze no car for bo though this time bo is enjoying the view and breeze from the window of the president s helicopter
+it all ends with bo exhausted by his day s activities at 1600 pennsylvania ave dreaming about the lucky white house pets who have preceded him
+the 14 95 book aimed at kids 4 to 10 has been in the works for two months says aryal publisher of mascot which specializes in books about team and school mascots aryal says he wrote a story narrated by a mischievous white house puppy and added details once bo s identity was known the book is also available from mascotbooks com
+bo joins a parade of books capitalizing on the first puppy already out which puppy by kate feiffer illustrated by jules feiffer about a contest to live in the white house and first dog by j patrick lewis and beth zappitello illustrated by tim bowers about an unnamed portie
+in early june algonquin will release first dogs american presidents and their best friends by roy rowan 9 95 trade paperback it features 100 photographs including photos of bo and the bush scottish terriers
+var yahoobuzzarticleid usatoday storyurl csp 34
+var yahoobuzzbadgetype text
+var scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom nbsp mixx
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+new additions
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+document write scllistbottom
+posted document write nicedate 4 15 2009 3 20 pm
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+to report corrections and clarifications contact reader editor brent jones for publication consideration in the newspaper send comments to letters usatoday com include name phone number city and state for verification to view our corrections go to corrections usatoday com
+guidelines you share in the usa today community so please keep your comments smart and civil don t attack other readers personally and keep your language decent use the report abuse button to make a difference read more
+oas ad floatbottom
+oas ad bottom728x90
+newspaper home delivery subscribe today
+home news travel money sports life tech weather
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+copyright 2011 usa today a division of gannett co inc
+usat page addloadevent doload
+cars auto
+financing event
+tickets jobs real
+estate online
+degrees shopping
+cars auto
+financing event
+tickets jobs real
+estate online
+degrees shopping
+searchhow do i find it subscribe to paper
+how do i find it subscribe to paper oas ad top728x90 oas ad top728x90 oas ad top728x90 oas ad top728x90 oas ad top728x90
+home
+news
+travel
+money
+sports
+life
+tech
+weather
+function change lbrule
+document getelementbyid lbrulecontrol style bordercolor ffffff
+document getelementbyid lbrulecontrol style marginbottom 0
+document getelementbyid lbrulecontrol style margintop 18
+document getelementbyid ad leaderboard style marginbottom 8
+if document getelementbyid lbrulecontrol document getelementbyid ad leaderboard change lbrule
+home
+news
+travel
+money
+sports
+life
+tech
+weather
+home
+news
+travel
+money
+sports
+life
+tech
+weather
+life
+books
+top 150 books
+shop for books
+life
+books
+top 150 books
+shop for books
+oas ad links1
+oas ad poster3 oas ad posterbig oas ad verticalbanner
+oas ad links2
+var showreprintssi showreprintssi
+function rightslinkpopup
+var url
+var location url
+publishername escape usatoday required hard coded
+publication escape usatoday required hard coded
+title escape bo takes office as commander in leash in new book required
+publicationdate escape 4 15 2009 3 20 30 pm required
+author escape by bob minzesheimer and craig wilson usa today
+contentid escape required
+orderbeanreset true required hard coded
+popup window open location rightslink toolbar no directories no status no menubar no scrollbars yes resizable yes width 650 height 550
+bo takes office as commander in leash in new book
+posted document write nicedate 4 15 2009 3 20 pm comment recommend
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+enlarge
+the children s book bo america s commander in leash written by naren aryal and illustrated by danny moore arrives in stores next week
+enlargeby danny moore mascot booksbo goes for a romp in the white house in bo america s commander in leash enlargeby jack gruber usa today president obama and first lady michelle obama walk with daughters malia left and sasha as they show off bo to the press at the white house on tuesday
+var storyurl
+var storytitle bo takes office as commander in leash in new book
+document write
+if typeof articlesummary undefined
+var articlesummary
+var articlesource usatoday com
+var yahoobuzzarticleid usatoday storyurl csp 34
+var yahoobuzzbadgetype text
+var twturl usatlyshorturl
+var maxlength 140 twturl length 1
+var twtsource rt usatoday
+if storytitle length maxlength
+storytitle storytitle substr 0 maxlength 5
+var twtlink twtsource storytitle twturl
+function getthis t c u l
+var targeturl t encodeuricomponent t
+c encodeuricomponent c u encodeuricomponent u l l
+window open targeturl
+var scllisttop
+scllisttop
+scllisttop
+scllisttop share
+scllisttop
+scllisttop nbsp add to mixx
+scllisttop nbsp facebook
+scllisttop nbsp twitter
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop more
+scllisttop
+scllisttop nbsp fark
+scllisttop nbsp digg
+scllisttop nbsp reddit
+scllisttop nbsp myspace
+scllisttop nbsp a href
+uotrack stumbleupon target stumbleupon stumbleupon
+scllisttop nbsp propeller
+scllisttop nbsp linkedin
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+jquery topsocialbuttons append scllisttop
+jquery share nav treeview control treecontrol animated medium collapsed true
+jquery function
+jquery ajax type get url marketing rss settings xml datatype xml success buildsubscribebuttons
+function buildsubscribebuttons xml
+build ssts array
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+var feedid
+var feedname
+var idx 1
+while feedid idx 0
+idx nurl indexof
+jquery xml find add each function
+if jquery this attr key nurl
+feedid jquery this attr value
+if feedid
+nurl nurl replace 1
+jquery xml find add each function
+if jquery this attr key feedid
+feedname jquery this attr value
+if feedname feedname usatoday newstopstories xml
+var scllisttop
+scllisttop
+scllisttop
+scllisttop subscribe
+scllisttop nbsp myyahoo
+scllisttop nbsp igoogle
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop more
+scllisttop
+scllisttop nbsp netvibes
+scllisttop nbsp myaol
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+scllisttop
+jquery topsocialbuttons append scllisttop
+jquery subscribe nav treeview control treecontrol animated medium collapsed true
+by bob minzesheimer and craig wilson usa today
+bo the obamas 6 month old portuguese water dog proved tuesday that he has star quality with his rambunctious debut at the white house and now he and the president will star in the children s book bo america s commander in leash by naren aryal illustrated by danny moore mascot books expected to be in stores next week
+and what a busy boy bo is the book begins with bo stealing the president s letter opener and he s off and running for the next 25 pages flying off the obama girls swing running from bees near the first lady s vegetable garden putting green dye in the fountain for st patrick s day he even serves up a summer burger to vice president biden
+dog lovers will be most amused by the fact that bo like most dogs loves to stick his head out of a vehicle s window to catch the breeze no car for bo though this time bo is enjoying the view and breeze from the window of the president s helicopter
+it all ends with bo exhausted by his day s activities at 1600 pennsylvania ave dreaming about the lucky white house pets who have preceded him
+the 14 95 book aimed at kids 4 to 10 has been in the works for two months says aryal publisher of mascot which specializes in books about team and school mascots aryal says he wrote a story narrated by a mischievous white house puppy and added details once bo s identity was known the book is also available from mascotbooks com
+bo joins a parade of books capitalizing on the first puppy already out which puppy by kate feiffer illustrated by jules feiffer about a contest to live in the white house and first dog by j patrick lewis and beth zappitello illustrated by tim bowers about an unnamed portie
+in early june algonquin will release first dogs american presidents and their best friends by roy rowan 9 95 trade paperback it features 100 photographs including photos of bo and the bush scottish terriers
+var yahoobuzzarticleid usatoday storyurl csp 34
+var yahoobuzzbadgetype text
+var scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom nbsp mixx
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+new additions
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom nbsp
+scllistbottom
+scllistbottom
+scllistbottom
+scllistbottom
+document write scllistbottom
+posted document write nicedate 4 15 2009 3 20 pm
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+to report corrections and clarifications contact reader editor brent jones for publication consideration in the newspaper send comments to letters usatoday com include name phone number city and state for verification to view our corrections go to corrections usatoday com
+guidelines you share in the usa today community so please keep your comments smart and civil don t attack other readers personally and keep your language decent use the report abuse button to make a difference read more
+oas ad floatbottom
+oas ad bottom728x90
+newspaper home delivery subscribe today
+home news travel money sports life tech weather
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+copyright 2011 usa today a division of gannett co inc
+usat page addloadevent doload
+oas ad links1 oas ad poster3 oas ad posterbig oas ad verticalbanner oas ad links2
+var showreprintssi showreprintssi
+function rightslinkpopup
+var url
+var location url
+publishername escape usatoday required hard coded
+publication escape usatoday required hard coded
+title escape bo takes office as commander in leash in new book required
+publicationdate escape 4 15 2009 3 20 30 pm required
+author escape by bob minzesheimer and craig wilson usa today
+contentid escape required
+orderbeanreset true required hard coded
+popup window open location rightslink toolbar no directories no status no menubar no scrollbars yes resizable yes width 650 height 550
+bo takes office as commander in leash in new book
+posted document write nicedate 4 15 2009 3 20 pm comment recommend
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+var showreprintssi showreprintssi
+function rightslinkpopup
+var url
+var location url
+publishername escape usatoday required hard coded
+publication escape usatoday required hard coded
+title escape bo takes office as commander in leash in new book required
+publicationdate escape 4 15 2009 3 20 30 pm required
+author escape by bob minzesheimer and craig wilson usa today
+contentid escape required
+orderbeanreset true required hard coded
+popup window open location rightslink toolbar no directories no status no menubar no scrollbars yes resizable yes width 650 height 550
+bo takes office as commander in leash in new book
+posted document write nicedate 4 15 2009 3 20 pm comment recommend
+e mail print
+addthis button email span display none
+addthis button print span display none
+var tempshowreprintssi
+if window showreprintssi
+tempshowreprintssi showreprintssi
+if navigator os indexof mac 1 navigator type 2
+macie
+if document forms hiddenvalform hiddenmacprintvalue value 0 document forms hiddenvalform hiddenmacprintvalue value 2
+if document forms hiddenvalform hiddenmacprintvalue value 2
+document forms hiddenvalform hiddenmacprintvalue value 0
+else
+document forms hiddenvalform hiddenmacprintvalue value 1
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+else
+document forms hiddenvalform hiddenmacprintvalue value 2
+else
+non macie write top and bottom
+if tempshowreprintssi showreprintssi
+writereprintlink
+writesubscribetolink
+function writereprintlink
+document write reprints amp permissions
+function writesubscribetolink
+var url document location tostring
+var urlarray url split
+var nurl
+for i 3 i urlarray length 1 i
+if i urlarray length 2
+nurl urlarray i
+else
+nurl urlarray i
+document write
+enlarge
+the children s book bo america s commander in leash written by naren aryal and illustrated by danny moore arrives in stores next week
+enlargeby danny moore mascot booksbo goes for a romp in the white house in bo america s commander in leash enlargeby jack gruber usa today president obama and first lady michelle obama walk with daughters malia left and sasha as they show off bo to the press at the white house on tuesday by bob minzesheimer and craig wilson usa todaybo the obamas 6 month old portuguese water dog proved tuesday that he has star quality with his rambunctious debut at the white house and now he and the president will star in the children s book bo america s commander in leash by naren aryal illustrated by danny moore mascot books expected to be in stores next week guidelines you share in the usa today community so please keep your comments smart and civil don t attack other readers personally and keep your language decent use the report abuse button to make a difference read more
+oas ad floatbottom oas ad floatbottom
+oas ad bottom728x90 oas ad bottom728x90
+newspaper home delivery subscribe today
+home news travel money sports life tech weather
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+copyright 2011 usa today a division of gannett co inc
+usat page addloadevent doload
+newspaper home delivery subscribe today
+home news travel money sports life tech weather
+home news travel money sports life tech weather
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+about usatoday com site map faq
+contact us jobs with us terms of service
+privacy policy your california privacy right advertise press room developer media lounge reprints and permissions
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+news your way
+mobile news
+email news
+add usatoday com rss feeds
+twitter
+podcasts
+widgets
+partners usa weekend sports weekly education space com travel tips
+copyright 2011 usa today a division of gannett co inc
+usat page addloadevent doload
