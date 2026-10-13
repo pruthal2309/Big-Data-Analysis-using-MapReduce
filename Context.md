@@ -244,8 +244,6 @@ E:\Big-Data-Mapper-Reducer\
 ├── bin\
 ├── wc.jar
 ├── cooccurrence.jar
-├── output\
-│   └── wordcount.txt
 ├── README.md
 └── 1_Steps.txt / steps.md
 ```
@@ -624,7 +622,6 @@ Name: Word Count
 Therefore Word Count is DONE.
 
 ---
-
 # 22. Local Word Count Output
 
 Local directory:
@@ -649,6 +646,7 @@ E:\Big-Data-Mapper-Reducer\output\wordcount.txt
 This is the input for Top-10 analysis.
 
 ---
+"""
 
 # 23. Top 10 Words
 
@@ -979,56 +977,6 @@ New York Times
 Common Crawl
 ```
 
----
-
-# 33. Twitter — NOT YET IMPLEMENTED
-
-Original project used Tweepy.
-
-It filtered:
-
-- English tweets
-- non-retweets
-- entertainment-related hashtags
-
-Our current implementation has not added Twitter collection.
-
-The original repository contains historical API credentials in notebooks. **Do not reuse them.** If Twitter/X collection is required, use newly configured credentials.
-
----
-
-# 34. New York Times — NOT YET IMPLEMENTED
-
-Original project used:
-
-```text
-NYT Article API
-BeautifulSoup
-```
-
-Pipeline:
-
-```text
-NYT API
-   |
-   v
-Article URLs
-   |
-   v
-BeautifulSoup
-   |
-   v
-<p> text
-   |
-   v
-Article files
-```
-
-Our current implementation has not added NYT collection.
-
-Do not reuse historical API keys from the original repository.
-
----
 
 # 35. Common Crawl — CURRENT FOCUS
 
@@ -1117,12 +1065,6 @@ Final visualization can include:
 For exact reproduction, the original project has six main output groups:
 
 ```text
-Twitter Word Count
-Twitter Co-Occurrence
-
-NYT Word Count
-NYT Co-Occurrence
-
 Common Crawl Word Count
 Common Crawl Co-Occurrence
 ```
