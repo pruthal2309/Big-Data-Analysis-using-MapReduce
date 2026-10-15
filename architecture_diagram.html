@@ -1,0 +1,1688 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Big Data MapReduce — Architecture Diagram</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0a0d14;
+      --surface: #111827;
+      --surface2: #1a2235;
+      --surface3: #1f2c45;
+      --border: rgba(99,179,237,0.15);
+      --accent-blue: #60a5fa;
+      --accent-cyan: #22d3ee;
+      --accent-purple: #a78bfa;
+      --accent-green: #34d399;
+      --accent-orange: #fb923c;
+      --accent-pink: #f472b6;
+      --accent-yellow: #fbbf24;
+      --text: #e2e8f0;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+      --hadoop-blue: #4fa3e0;
+      --hdfs-color: #22d3ee;
+      --yarn-color: #a78bfa;
+      --mapred-color: #34d399;
+      --topn-color: #fbbf24;
+      --cooc-color: #f472b6;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Animated starfield background */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 50% at 20% 20%, rgba(96,165,250,0.06) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 80%, rgba(167,139,250,0.06) 0%, transparent 60%),
+        radial-gradient(ellipse 50% 60% at 50% 50%, rgba(52,211,153,0.03) 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .page-wrapper {
+      position: relative;
+      z-index: 1;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* ── HEADER ── */
+    .header {
+      text-align: center;
+      margin-bottom: 60px;
+    }
+    .header-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(96,165,250,0.1);
+      border: 1px solid rgba(96,165,250,0.3);
+      border-radius: 999px;
+      padding: 6px 18px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--accent-blue);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+    .header-badge::before { content: '⬡'; font-size: 14px; }
+    .header h1 {
+      font-size: clamp(28px, 5vw, 52px);
+      font-weight: 800;
+      background: linear-gradient(135deg, #60a5fa 0%, #22d3ee 40%, #a78bfa 80%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.15;
+      margin-bottom: 14px;
+    }
+    .header p {
+      color: var(--text-muted);
+      font-size: 16px;
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.7;
+    }
+    .tech-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    .tech-pill {
+      padding: 4px 14px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .pill-hadoop { background: rgba(79,163,224,0.15); color: #4fa3e0; border: 1px solid rgba(79,163,224,0.3); }
+    .pill-java   { background: rgba(251,146,60,0.15);  color: #fb923c; border: 1px solid rgba(251,146,60,0.3); }
+    .pill-hdfs   { background: rgba(34,211,238,0.15);  color: #22d3ee; border: 1px solid rgba(34,211,238,0.3); }
+    .pill-yarn   { background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); }
+    .pill-python { background: rgba(52,211,153,0.15);  color: #34d399; border: 1px solid rgba(52,211,153,0.3); }
+
+    /* ── SECTION TITLES ── */
+    .section-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--text-dim);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ── PIPELINE OVERVIEW ── */
+    .pipeline-overview {
+      margin-bottom: 60px;
+    }
+    .pipeline-flow {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      overflow-x: auto;
+      padding-bottom: 12px;
+    }
+    .pipeline-stage {
+      flex: 1;
+      min-width: 140px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .pipeline-stage:not(:last-child)::after {
+      content: '';
+      position: absolute;
+      right: -1px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 0;
+      height: 0;
+      border-top: 28px solid transparent;
+      border-bottom: 28px solid transparent;
+      border-left: 22px solid var(--bg);
+      z-index: 10;
+    }
+    .pipeline-stage-inner {
+      width: 100%;
+      padding: 20px 16px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-right: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 50%, calc(100% - 22px) 100%, 0 100%);
+    }
+    .pipeline-stage:last-child .pipeline-stage-inner {
+      clip-path: none;
+      border-right: 1px solid var(--border);
+      border-radius: 0 8px 8px 0;
+    }
+    .pipeline-stage:first-child .pipeline-stage-inner {
+      border-radius: 8px 0 0 8px;
+    }
+    .pipeline-stage-inner:hover { background: var(--surface3); transform: translateY(-2px); }
+    .stage-icon { font-size: 24px; }
+    .stage-label {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      text-align: center;
+    }
+    .stage-sub { font-size: 10px; color: var(--text-muted); text-align: center; }
+    .stage-1 .pipeline-stage-inner { border-top: 2px solid #94a3b8; }
+    .stage-2 .pipeline-stage-inner { border-top: 2px solid #fb923c; }
+    .stage-3 .pipeline-stage-inner { border-top: 2px solid var(--hdfs-color); }
+    .stage-4 .pipeline-stage-inner { border-top: 2px solid var(--mapred-color); }
+    .stage-5 .pipeline-stage-inner { border-top: 2px solid var(--topn-color); }
+    .stage-6 .pipeline-stage-inner { border-top: 2px solid var(--cooc-color); }
+    .stage-7 .pipeline-stage-inner { border-top: 2px solid var(--accent-blue); }
+
+    /* ── MAIN ARCHITECTURE GRID ── */
+    .arch-grid {
+      display: grid;
+      grid-template-columns: 1fr 2.2fr 1fr;
+      gap: 24px;
+      margin-bottom: 60px;
+    }
+
+    /* ── CARDS ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.25s, transform 0.25s;
+    }
+    .card:hover {
+      border-color: rgba(99,179,237,0.35);
+      transform: translateY(-2px);
+    }
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+    }
+    .card.blue::before    { background: linear-gradient(90deg, var(--accent-blue), transparent); }
+    .card.cyan::before    { background: linear-gradient(90deg, var(--hdfs-color), transparent); }
+    .card.purple::before  { background: linear-gradient(90deg, var(--yarn-color), transparent); }
+    .card.green::before   { background: linear-gradient(90deg, var(--mapred-color), transparent); }
+    .card.yellow::before  { background: linear-gradient(90deg, var(--topn-color), transparent); }
+    .card.pink::before    { background: linear-gradient(90deg, var(--cooc-color), transparent); }
+    .card.orange::before  { background: linear-gradient(90deg, var(--accent-orange), transparent); }
+    .card.multicolor::before { background: linear-gradient(90deg, var(--accent-blue), var(--accent-cyan), var(--accent-purple)); }
+
+    .card-title {
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .card-title .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .dot-blue   { background: var(--accent-blue); }
+    .dot-cyan   { background: var(--hdfs-color); }
+    .dot-purple { background: var(--yarn-color); }
+    .dot-green  { background: var(--mapred-color); }
+    .dot-yellow { background: var(--topn-color); }
+    .dot-pink   { background: var(--cooc-color); }
+    .dot-orange { background: var(--accent-orange); }
+
+    /* ── DATA NODES ── */
+    .data-node {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 14px;
+      margin-bottom: 8px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s;
+    }
+    .data-node:hover {
+      background: var(--surface3);
+      color: var(--text);
+      border-color: rgba(99,179,237,0.3);
+    }
+    .data-node-icon { font-size: 14px; flex-shrink: 0; }
+    .data-node-label { flex: 1; }
+    .data-node-badge {
+      font-size: 10px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: rgba(96,165,250,0.1);
+      color: var(--accent-blue);
+      white-space: nowrap;
+    }
+
+    /* ── BIG MAPREDUCE SECTION ── */
+    .mapreduce-center {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .mr-job-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+    }
+    .mr-job-header {
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      border-bottom: 1px solid var(--border);
+    }
+    .mr-job-badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+    }
+    .badge-wc   { background: rgba(52,211,153,0.15); color: var(--mapred-color); }
+    .badge-cooc { background: rgba(244,114,182,0.15); color: var(--cooc-color); }
+    .mr-job-title {
+      font-size: 15px;
+      font-weight: 700;
+    }
+    .mr-job-title.wc-color   { color: var(--mapred-color); }
+    .mr-job-title.cooc-color { color: var(--cooc-color); }
+
+    .mr-flow {
+      padding: 20px;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr;
+      gap: 8px;
+      align-items: center;
+    }
+    .mr-box {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 12px;
+      text-align: center;
+      transition: all 0.25s;
+      cursor: default;
+      position: relative;
+      overflow: hidden;
+    }
+    .mr-box::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 2px;
+    }
+    .mr-box.input::after  { background: var(--hdfs-color); }
+    .mr-box.mapper::after { background: var(--mapred-color); }
+    .mr-box.shuffle::after{ background: var(--accent-yellow); }
+    .mr-box.reducer::after{ background: var(--accent-blue); }
+    .mr-box.cooc.mapper::after { background: var(--cooc-color); }
+    .mr-box.cooc.reducer::after{ background: var(--cooc-color); }
+
+    .mr-box:hover { background: var(--surface3); transform: translateY(-2px); border-color: rgba(99,179,237,0.4); }
+    .mr-box-icon { font-size: 20px; margin-bottom: 6px; }
+    .mr-box-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; }
+    .mr-box-class { font-family: 'JetBrains Mono', monospace; font-size: 9px; color: var(--text-dim); margin-top: 4px; }
+    .mr-box-desc  { font-size: 10px; color: var(--text-muted); margin-top: 6px; line-height: 1.5; }
+
+    .mr-arrow {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 3px;
+    }
+    .mr-arrow-line {
+      width: 2px;
+      height: 30px;
+      background: linear-gradient(to bottom, rgba(99,179,237,0.4), rgba(99,179,237,0.1));
+    }
+    .mr-arrow-tip {
+      width: 0; height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 7px solid rgba(99,179,237,0.5);
+    }
+    /* Horizontal arrows in flow */
+    .h-arrow {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .h-arrow-svg {
+      color: var(--text-dim);
+      font-size: 18px;
+    }
+    .h-arrow-label {
+      font-size: 9px;
+      color: var(--text-dim);
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    /* ── CODE SNIPPET BLOCKS ── */
+    .code-block {
+      background: #0d1117;
+      border: 1px solid rgba(99,179,237,0.12);
+      border-radius: 10px;
+      padding: 14px 16px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      line-height: 1.8;
+      color: var(--text-muted);
+      margin-top: 12px;
+      overflow-x: auto;
+    }
+    .code-block .kw   { color: var(--accent-purple); }
+    .code-block .cls  { color: var(--accent-blue); }
+    .code-block .str  { color: var(--accent-green); }
+    .code-block .cmt  { color: var(--text-dim); font-style: italic; }
+    .code-block .num  { color: var(--topn-color); }
+
+    /* ── IO TABLE ── */
+    .io-table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+    .io-table th {
+      font-size: 10px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 1px; color: var(--text-dim); padding: 8px 12px;
+      text-align: left; border-bottom: 1px solid var(--border);
+    }
+    .io-table td {
+      font-family: 'JetBrains Mono', monospace; font-size: 11px;
+      padding: 7px 12px; border-bottom: 1px solid rgba(99,179,237,0.06);
+      color: var(--text-muted);
+    }
+    .io-table tr:hover td { background: rgba(96,165,250,0.04); color: var(--text); }
+    .io-key   { color: var(--accent-green); }
+    .io-value { color: var(--accent-blue); }
+    .io-arrow { color: var(--text-dim); }
+
+    /* ── HADOOP CLUSTER SIDE ── */
+    .cluster-card {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .cluster-service {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.2s;
+    }
+    .cluster-service:hover {
+      background: var(--surface3);
+      border-color: rgba(99,179,237,0.3);
+    }
+    .service-icon-wrap {
+      width: 36px; height: 36px;
+      border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+    .si-hdfs   { background: rgba(34,211,238,0.12); }
+    .si-yarn   { background: rgba(167,139,250,0.12); }
+    .si-mr     { background: rgba(52,211,153,0.12); }
+    .si-java   { background: rgba(251,146,60,0.12); }
+    .service-info {}
+    .service-name { font-size: 12px; font-weight: 700; }
+    .service-url  { font-size: 10px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; }
+    .service-desc { font-size: 10px; color: var(--text-muted); margin-top: 2px; }
+
+    /* ── DETAILED INNER FLOW SECTION ── */
+    .detail-section {
+      margin-bottom: 60px;
+    }
+
+    /* WC Mapper detail */
+    .step-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    .step-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px;
+      position: relative;
+      overflow: hidden;
+      transition: all 0.25s;
+    }
+    .step-card:hover { transform: translateY(-3px); border-color: rgba(99,179,237,0.35); }
+    .step-number {
+      position: absolute;
+      top: 14px; right: 14px;
+      font-size: 36px;
+      font-weight: 800;
+      color: rgba(255,255,255,0.04);
+      line-height: 1;
+    }
+    .step-icon { font-size: 22px; margin-bottom: 10px; }
+    .step-title { font-size: 13px; font-weight: 700; margin-bottom: 6px; }
+    .step-desc { font-size: 11px; color: var(--text-muted); line-height: 1.7; }
+    .step-example {
+      margin-top: 10px;
+      background: rgba(0,0,0,0.3);
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      color: var(--accent-green);
+      line-height: 1.8;
+    }
+    .step-example .arrow { color: var(--text-dim); }
+
+    /* CoOccurrence detail */
+    .cooc-detail {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+    .cooc-detail-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      overflow: hidden;
+      position: relative;
+    }
+    .cooc-detail-panel::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--cooc-color), transparent);
+    }
+
+    /* ── TOPN ── */
+    .topn-flow {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr auto 1fr;
+      gap: 12px;
+      align-items: center;
+    }
+    .topn-box {
+      background: var(--surface2);
+      border: 1px solid rgba(251,191,36,0.2);
+      border-radius: 12px;
+      padding: 16px;
+      text-align: center;
+    }
+    .topn-box:hover { background: var(--surface3); }
+    .topn-arrow { text-align: center; color: rgba(251,191,36,0.6); font-size: 20px; }
+
+    /* ── OUTPUT SECTION ── */
+    .output-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 60px;
+    }
+    .output-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+    }
+    .output-panel-header {
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .output-panel-title {
+      font-size: 13px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .output-panel-path {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      color: var(--text-dim);
+    }
+    .output-rows {
+      padding: 14px 20px;
+    }
+    .output-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 6px 0;
+      border-bottom: 1px solid rgba(99,179,237,0.05);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+    }
+    .output-row:last-child { border-bottom: none; }
+    .row-rank { color: var(--text-dim); width: 20px; text-align: right; flex-shrink: 0; }
+    .row-word { color: var(--accent-green); flex: 1; }
+    .row-count { color: var(--accent-blue); }
+    .row-bar-wrap { flex: 2; background: rgba(99,179,237,0.08); border-radius: 4px; height: 6px; overflow: hidden; }
+    .row-bar { height: 100%; border-radius: 4px; transition: width 1s ease; }
+
+    /* ── DISTRIBUTED CACHE EXPLANATION ── */
+    .cache-diagram {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      gap: 16px;
+      align-items: center;
+      margin-top: 14px;
+    }
+    .cache-box {
+      background: var(--surface2);
+      border-radius: 12px;
+      padding: 14px;
+      border: 1px solid var(--border);
+    }
+    .cache-arrow {
+      text-align: center;
+      color: var(--cooc-color);
+      font-size: 22px;
+    }
+
+    /* ── HADOOP INTERNALS ── */
+    .hadoop-internals {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 60px;
+    }
+    .hdfs-diagram {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .nn-box {
+      background: rgba(34,211,238,0.08);
+      border: 1px solid rgba(34,211,238,0.25);
+      border-radius: 12px;
+      padding: 14px 18px;
+      text-align: center;
+    }
+    .nn-box-title { font-size: 12px; font-weight: 700; color: var(--hdfs-color); }
+    .nn-box-sub   { font-size: 10px; color: var(--text-muted); margin-top: 4px; }
+    .dn-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 8px;
+    }
+    .dn-box {
+      background: rgba(34,211,238,0.05);
+      border: 1px solid rgba(34,211,238,0.15);
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center;
+      font-size: 11px;
+    }
+    .dn-title { color: var(--hdfs-color); font-weight: 600; font-size: 11px; }
+    .dn-file  { font-family: 'JetBrains Mono', monospace; font-size: 9px; color: var(--text-dim); margin-top: 4px; }
+    .yarn-diagram {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .rm-box {
+      background: rgba(167,139,250,0.08);
+      border: 1px solid rgba(167,139,250,0.25);
+      border-radius: 12px;
+      padding: 14px 18px;
+      text-align: center;
+    }
+    .rm-box-title { font-size: 12px; font-weight: 700; color: var(--yarn-color); }
+    .nm-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+    .nm-box {
+      background: rgba(167,139,250,0.05);
+      border: 1px solid rgba(167,139,250,0.15);
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center;
+    }
+    .nm-title { color: var(--yarn-color); font-weight: 600; font-size: 11px; }
+    .nm-tasks { font-size: 10px; color: var(--text-muted); margin-top: 4px; }
+    .hdfs-v-arrow {
+      text-align: center;
+      color: rgba(34,211,238,0.4);
+      font-size: 18px;
+    }
+    .yarn-v-arrow {
+      text-align: center;
+      color: rgba(167,139,250,0.4);
+      font-size: 18px;
+    }
+
+    /* ── FOOTER ── */
+    .footer {
+      text-align: center;
+      padding-top: 40px;
+      border-top: 1px solid var(--border);
+      color: var(--text-dim);
+      font-size: 12px;
+    }
+
+    /* ── ANIMATIONS ── */
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(0.8); }
+    }
+    .live-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--accent-green);
+      display: inline-block;
+      animation: pulse-dot 2s infinite;
+    }
+
+    @keyframes flow-anim {
+      0%   { stroke-dashoffset: 100; }
+      100% { stroke-dashoffset: 0; }
+    }
+    .flow-path {
+      stroke-dasharray: 6 4;
+      animation: flow-anim 2s linear infinite;
+    }
+
+    /* Tooltip */
+    .tooltip-wrap { position: relative; }
+    .tooltip-wrap:hover .tooltip-box { opacity: 1; pointer-events: all; transform: translateY(-4px); }
+    .tooltip-box {
+      position: absolute;
+      bottom: calc(100% + 8px);
+      left: 50%;
+      transform: translateX(-50%) translateY(0px);
+      background: #1e293b;
+      border: 1px solid rgba(99,179,237,0.3);
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 11px;
+      color: var(--text);
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.2s;
+      z-index: 100;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+    .tooltip-box::after {
+      content: '';
+      position: absolute;
+      top: 100%; left: 50%;
+      transform: translateX(-50%);
+      border: 5px solid transparent;
+      border-top-color: rgba(99,179,237,0.3);
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 900px) {
+      .arch-grid { grid-template-columns: 1fr; }
+      .mr-flow { grid-template-columns: 1fr; }
+      .cooc-detail { grid-template-columns: 1fr; }
+      .output-grid { grid-template-columns: 1fr; }
+      .hadoop-internals { grid-template-columns: 1fr; }
+      .topn-flow { grid-template-columns: 1fr; }
+      .h-arrow { transform: rotate(90deg); }
+    }
+
+    /* ── STICKY NAV ── */
+    .sticky-nav {
+      position: sticky;
+      top: 16px;
+      z-index: 50;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 40px;
+    }
+    .nav-pills {
+      display: inline-flex;
+      background: rgba(17,24,39,0.9);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 6px;
+      gap: 4px;
+    }
+    .nav-pill {
+      padding: 6px 16px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+    }
+    .nav-pill:hover {
+      color: var(--text);
+      background: var(--surface2);
+    }
+
+    .highlight-green { color: var(--accent-green); }
+    .highlight-blue  { color: var(--accent-blue); }
+    .highlight-pink  { color: var(--cooc-color); }
+    .highlight-yellow{ color: var(--topn-color); }
+    .highlight-cyan  { color: var(--hdfs-color); }
+    .highlight-purple{ color: var(--yarn-color); }
+
+    /* Section anchor offsets */
+    .section-anchor { scroll-margin-top: 80px; }
+  </style>
+</head>
+<body>
+<div class="page-wrapper">
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-badge">Architecture Diagram</div>
+    <h1>Big Data Analysis<br/>using MapReduce</h1>
+    <p>End-to-end pipeline: from raw Common Crawl text files to Word Co-Occurrence analysis using Hadoop MapReduce on HDFS + YARN.</p>
+    <div class="tech-pills">
+      <span class="tech-pill pill-hadoop">Hadoop 3.3.6</span>
+      <span class="tech-pill pill-java">Java 8</span>
+      <span class="tech-pill pill-hdfs">HDFS</span>
+      <span class="tech-pill pill-yarn">YARN</span>
+      <span class="tech-pill pill-python">Python Dashboard</span>
+    </div>
+  </header>
+
+  <!-- STICKY NAV -->
+  <nav class="sticky-nav">
+    <div class="nav-pills">
+      <a class="nav-pill" href="#pipeline">Pipeline</a>
+      <a class="nav-pill" href="#wordcount">Word Count MR</a>
+      <a class="nav-pill" href="#topn">Top-N</a>
+      <a class="nav-pill" href="#cooccurrence">Co-Occurrence MR</a>
+      <a class="nav-pill" href="#hadoop">Hadoop Cluster</a>
+      <a class="nav-pill" href="#output">Outputs</a>
+    </div>
+  </nav>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 1: PIPELINE OVERVIEW                        -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <section id="pipeline" class="section-anchor pipeline-overview">
+    <div class="section-title">① End-to-End Pipeline Overview</div>
+    <div class="pipeline-flow">
+      <div class="pipeline-stage stage-1 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">📂</div>
+          <div class="stage-label" style="color:#94a3b8">Raw Data</div>
+          <div class="stage-sub">Common Crawl<br/>600 txt files</div>
+        </div>
+        <div class="tooltip-box">data/raw/CommonCrawlData/*.txt<br/>ArticleBooks1.txt … ArticleBooks600.txt</div>
+      </div>
+      <div class="pipeline-stage stage-2 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">🧹</div>
+          <div class="stage-label" style="color:#fb923c">DataCleaner</div>
+          <div class="stage-sub">DataCleaner.java<br/>Lowercase, strip HTML/URLs</div>
+        </div>
+        <div class="tooltip-box">src/preprocessing/DataCleaner.java<br/>→ data/processed/CommonCrawlData/</div>
+      </div>
+      <div class="pipeline-stage stage-3 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">🗄️</div>
+          <div class="stage-label" style="color:#22d3ee">HDFS Upload</div>
+          <div class="stage-sub">/BigData/<br/>CommonCrawlData</div>
+        </div>
+        <div class="tooltip-box">hdfs dfs -put processed/* /BigData/CommonCrawlData/</div>
+      </div>
+      <div class="pipeline-stage stage-4 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">🔢</div>
+          <div class="stage-label" style="color:#34d399">Word Count MR</div>
+          <div class="stage-sub">Mapper + Reducer<br/>wc.jar</div>
+        </div>
+        <div class="tooltip-box">WordCountMapper → Shuffle & Sort → WordCountReducer<br/>Output: word &lt;tab&gt; frequency</div>
+      </div>
+      <div class="pipeline-stage stage-5 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">🏆</div>
+          <div class="stage-label" style="color:#fbbf24">Top-N Words</div>
+          <div class="stage-sub">TopNWords.java<br/>Min-Heap(10)</div>
+        </div>
+        <div class="tooltip-box">Reads wordcount.txt → PriorityQueue(size 10)<br/>Outputs top10.txt for Co-Occurrence</div>
+      </div>
+      <div class="pipeline-stage stage-6 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">🔗</div>
+          <div class="stage-label" style="color:#f472b6">Co-Occurrence MR</div>
+          <div class="stage-sub">Distributed Cache<br/>coOccurrence.jar</div>
+        </div>
+        <div class="tooltip-box">Uses top10.txt via Distributed Cache<br/>Emits (word1 word2) → count pairs</div>
+      </div>
+      <div class="pipeline-stage stage-7 tooltip-wrap">
+        <div class="pipeline-stage-inner">
+          <div class="stage-icon">📊</div>
+          <div class="stage-label" style="color:#60a5fa">Dashboard</div>
+          <div class="stage-sub">dashboard.py<br/>Python + Visualization</div>
+        </div>
+        <div class="tooltip-box">dashboard.py reads wordcount.txt + cooccurrence.txt<br/>Renders interactive charts</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 2: MAIN ARCHITECTURE GRID                   -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <div class="arch-grid" style="margin-bottom:40px;">
+
+    <!-- LEFT: DATA SOURCES -->
+    <div>
+      <div class="section-title">Data Layer</div>
+      <div class="card orange" style="margin-bottom:16px;">
+        <div class="card-title"><span class="dot dot-orange"></span>Raw Input Data</div>
+        <div class="data-node">
+          <span class="data-node-icon">📁</span>
+          <span class="data-node-label">data/raw/CommonCrawlData/</span>
+          <span class="data-node-badge">600 files</span>
+        </div>
+        <div class="data-node">
+          <span class="data-node-icon">📄</span>
+          <span class="data-node-label">ArticleBooks1.txt</span>
+          <span class="data-node-badge">Raw</span>
+        </div>
+        <div class="data-node">
+          <span class="data-node-icon">📄</span>
+          <span class="data-node-label">ArticleBooks2.txt …</span>
+          <span class="data-node-badge">Raw</span>
+        </div>
+      </div>
+
+      <div class="card green" style="margin-bottom:16px;">
+        <div class="card-title"><span class="dot dot-green"></span>Processed Data</div>
+        <div class="data-node">
+          <span class="data-node-icon">📁</span>
+          <span class="data-node-label">data/processed/CommonCrawlData/</span>
+          <span class="data-node-badge">600 files</span>
+        </div>
+        <div class="data-node">
+          <span class="data-node-icon">🧹</span>
+          <span class="data-node-label">CleanedArticleBooks1.txt</span>
+          <span class="data-node-badge">Clean</span>
+        </div>
+        <div class="code-block">
+<span class="kw">Actions:</span>
+→ toLowerCase()
+→ remove URLs
+→ remove HTML tags
+→ remove punctuation
+→ normalize whitespace
+        </div>
+      </div>
+
+      <div class="card cyan">
+        <div class="card-title"><span class="dot dot-cyan"></span>HDFS Storage</div>
+        <div class="data-node">
+          <span class="data-node-icon">🗄️</span>
+          <span class="data-node-label">/BigData/CommonCrawlData</span>
+          <span class="data-node-badge">HDFS</span>
+        </div>
+        <div class="data-node">
+          <span class="data-node-icon">📊</span>
+          <span class="data-node-label">/BigData/CommonCrawlWordCount</span>
+          <span class="data-node-badge">Output</span>
+        </div>
+        <div class="data-node">
+          <span class="data-node-icon">🔗</span>
+          <span class="data-node-label">/BigData/CoOccurrence</span>
+          <span class="data-node-badge">Output</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- CENTER: MAPREDUCE JOBS -->
+    <div class="mapreduce-center">
+      <div class="section-title">MapReduce Jobs — Core Engine</div>
+
+      <!-- WORD COUNT JOB -->
+      <div class="mr-job-card" id="wordcount">
+        <div class="mr-job-header">
+          <span class="mr-job-badge badge-wc">Job 1</span>
+          <span class="mr-job-title wc-color">Word Count MapReduce</span>
+          <span style="margin-left:auto;font-family:monospace;font-size:10px;color:var(--text-dim)">wc.jar</span>
+        </div>
+        <div class="mr-flow">
+          <!-- Input -->
+          <div class="mr-box input tooltip-wrap">
+            <div class="mr-box-icon">🗄️</div>
+            <div class="mr-box-title highlight-cyan">HDFS Input</div>
+            <div class="mr-box-class">/BigData/CommonCrawlData</div>
+            <div class="mr-box-desc">Split into InputSplits<br/>per DataNode block</div>
+            <div class="tooltip-box">TextInputFormat<br/>LongWritable → Text</div>
+          </div>
+          <div class="h-arrow">
+            <div class="h-arrow-svg">→</div>
+            <div class="h-arrow-label">InputSplit<br/>+ LineRecordReader</div>
+          </div>
+          <!-- Mapper -->
+          <div class="mr-box mapper tooltip-wrap">
+            <div class="mr-box-icon">🗺️</div>
+            <div class="mr-box-title highlight-green">Mapper</div>
+            <div class="mr-box-class">WordCountMapper.java</div>
+            <div class="mr-box-desc">Reads line → lowercase<br/>→ strip punct → split<br/>→ emit (word, 1)</div>
+            <div class="tooltip-box">
+              Mapper&lt;LongWritable, Text, Text, IntWritable&gt;<br/>
+              Emits: &lt;"machine", 1&gt;, &lt;"learning", 1&gt; …
+            </div>
+          </div>
+          <div class="h-arrow">
+            <div class="h-arrow-svg">→</div>
+            <div class="h-arrow-label">Shuffle<br/>&amp; Sort</div>
+          </div>
+          <!-- Shuffle -->
+          <div class="mr-box shuffle tooltip-wrap">
+            <div class="mr-box-icon">🔀</div>
+            <div class="mr-box-title highlight-yellow">Shuffle &amp; Sort</div>
+            <div class="mr-box-class">Hadoop Framework</div>
+            <div class="mr-box-desc">Groups all values<br/>for same key.<br/>Sorts keys lexically</div>
+            <div class="tooltip-box">Automatic by Hadoop:<br/>"machine" → [1,1,1,1,1]<br/>"the" → [1,1,1,…,1]</div>
+          </div>
+          <div class="h-arrow">
+            <div class="h-arrow-svg">→</div>
+            <div class="h-arrow-label">Grouped<br/>Iterables</div>
+          </div>
+          <!-- Reducer -->
+          <div class="mr-box reducer tooltip-wrap">
+            <div class="mr-box-icon">⚙️</div>
+            <div class="mr-box-title highlight-blue">Reducer</div>
+            <div class="mr-box-class">WordCountReducer.java</div>
+            <div class="mr-box-desc">Sum all 1s per word<br/>→ emit (word, total)</div>
+            <div class="tooltip-box">
+              Reducer&lt;Text, IntWritable, Text, IntWritable&gt;<br/>
+              "machine" [1,1,1] → &lt;"machine", 3&gt;
+            </div>
+          </div>
+        </div>
+
+        <!-- IO Table -->
+        <div style="padding: 0 20px 20px;">
+          <table class="io-table">
+            <thead>
+              <tr>
+                <th>Stage</th>
+                <th>Key Type</th>
+                <th>Value Type</th>
+                <th>Example</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Mapper Input</td>
+                <td class="io-key">LongWritable</td>
+                <td class="io-value">Text (line)</td>
+                <td><span style="color:var(--text-muted)">"machine learning is powerful"</span></td>
+              </tr>
+              <tr>
+                <td>Mapper Output</td>
+                <td class="io-key">Text (word)</td>
+                <td class="io-value">IntWritable (1)</td>
+                <td><span class="io-key">"machine"</span> <span class="io-arrow">→</span> <span class="io-value">1</span></td>
+              </tr>
+              <tr>
+                <td>After Shuffle</td>
+                <td class="io-key">Text (word)</td>
+                <td class="io-value">Iterable&lt;IntWritable&gt;</td>
+                <td><span class="io-key">"machine"</span> <span class="io-arrow">→</span> <span class="io-value">[1,1,1,1]</span></td>
+              </tr>
+              <tr>
+                <td>Reducer Output</td>
+                <td class="io-key">Text (word)</td>
+                <td class="io-value">IntWritable (count)</td>
+                <td><span class="io-key">"machine"</span> <span class="io-arrow">→</span> <span class="io-value">4</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- TOP-N SECTION -->
+      <div class="mr-job-card" id="topn">
+        <div class="mr-job-header">
+          <span class="mr-job-badge" style="background:rgba(251,191,36,0.15);color:var(--topn-color)">Step 2</span>
+          <span class="mr-job-title" style="color:var(--topn-color)">Top-N Words Extraction</span>
+          <span style="margin-left:auto;font-family:monospace;font-size:10px;color:var(--text-dim)">TopNWords.java</span>
+        </div>
+        <div style="padding:20px;">
+          <div class="topn-flow">
+            <div class="topn-box">
+              <div style="font-size:20px;margin-bottom:6px;">📄</div>
+              <div style="font-size:11px;font-weight:700;color:var(--topn-color)">wordcount.txt</div>
+              <div style="font-size:10px;color:var(--text-muted);margin-top:4px;">43,017 unique words<br/>word &lt;tab&gt; count format</div>
+            </div>
+            <div class="topn-arrow">→</div>
+            <div class="topn-box">
+              <div style="font-size:20px;margin-bottom:6px;">📊</div>
+              <div style="font-size:11px;font-weight:700;color:var(--topn-color)">Min-Heap (size 10)</div>
+              <div style="font-size:10px;color:var(--text-muted);margin-top:4px;">PriorityQueue: lowest<br/>freq at top. Poll when &gt;10</div>
+            </div>
+            <div class="topn-arrow">→</div>
+            <div class="topn-box">
+              <div style="font-size:20px;margin-bottom:6px;">🏆</div>
+              <div style="font-size:11px;font-weight:700;color:var(--topn-color)">top10.txt</div>
+              <div style="font-size:10px;color:var(--text-muted);margin-top:4px;">Top 10 most frequent<br/>words + counts</div>
+            </div>
+          </div>
+          <div class="code-block" style="margin-top:14px;">
+<span class="cmt">// Min-heap: always keep top-10</span>
+PriorityQueue&lt;<span class="cls">WordFrequency</span>&gt; minHeap =
+  <span class="kw">new</span> PriorityQueue&lt;&gt;((a, b) →
+    Integer.compare(a.frequency, b.frequency));
+
+<span class="kw">if</span> (minHeap.size() &gt; <span class="num">10</span>) minHeap.poll(); <span class="cmt">// evict smallest</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- CO-OCCURRENCE JOB -->
+      <div class="mr-job-card" id="cooccurrence">
+        <div class="mr-job-header">
+          <span class="mr-job-badge badge-cooc">Job 3</span>
+          <span class="mr-job-title cooc-color">Word Co-Occurrence MapReduce</span>
+          <span style="margin-left:auto;font-family:monospace;font-size:10px;color:var(--text-dim)">coOccurrence.jar</span>
+        </div>
+
+        <!-- Distributed Cache highlight -->
+        <div style="padding:16px 20px;background:rgba(244,114,182,0.05);border-bottom:1px solid var(--border);">
+          <div style="font-size:11px;font-weight:700;color:var(--cooc-color);margin-bottom:8px;">
+            ✦ Distributed Cache — Key Feature
+          </div>
+          <div class="cache-diagram">
+            <div class="cache-box">
+              <div style="font-size:11px;font-weight:700;">top10.txt</div>
+              <div style="font-size:10px;color:var(--text-muted);margin-top:4px;">HDFS path passed<br/>via args[2]</div>
+            </div>
+            <div class="cache-arrow">⟹<br/><span style="font-size:9px;color:var(--text-dim)">addCacheFile()</span></div>
+            <div class="cache-box">
+              <div style="font-size:11px;font-weight:700;">Every Mapper Node</div>
+              <div style="font-size:10px;color:var(--text-muted);margin-top:4px;">Localized copy in<br/>setup() via getCacheFiles()</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mr-flow">
+          <!-- Input -->
+          <div class="mr-box input tooltip-wrap">
+            <div class="mr-box-icon">🗄️</div>
+            <div class="mr-box-title highlight-cyan">HDFS Input</div>
+            <div class="mr-box-class">/BigData/CommonCrawlData</div>
+            <div class="mr-box-desc">Same cleaned text<br/>as Word Count input</div>
+            <div class="tooltip-box">Re-uses same HDFS dataset<br/>Object → Text (line)</div>
+          </div>
+          <div class="h-arrow">
+            <div class="h-arrow-svg">→</div>
+            <div class="h-arrow-label">setup() loads<br/>top10Words set</div>
+          </div>
+          <!-- Mapper -->
+          <div class="mr-box cooc mapper tooltip-wrap">
+            <div class="mr-box-icon">🗺️</div>
+            <div class="mr-box-title highlight-pink">Mapper</div>
+            <div class="mr-box-class">CoOccurrenceMapper.java</div>
+            <div class="mr-box-desc">Only if word[i] ∈ Top10:<br/>emit (word[i] word[i+1], 1)</div>
+            <div class="tooltip-box">
+              setup(): read top10.txt → HashSet&lt;String&gt;<br/>
+              map(): adjacent pair check against HashSet<br/>
+              emit: "machine learning" → 1
+            </div>
+          </div>
+          <div class="h-arrow">
+            <div class="h-arrow-svg">→</div>
+            <div class="h-arrow-label">Shuffle<br/>&amp; Sort</div>
+          </div>
+          <!-- Shuffle -->
+          <div class="mr-box shuffle tooltip-wrap">
+            <div class="mr-box-icon">🔀</div>
+            <div class="mr-box-title highlight-yellow">Shuffle &amp; Sort</div>
+            <div class="mr-box-class">Hadoop Framework</div>
+            <div class="mr-box-desc">Groups by word pair<br/>"the book" → [1,1,1…]</div>
+            <div class="tooltip-box">Sorts pairs lexicographically<br/>then groups all 1s for same pair</div>
+          </div>
+          <div class="h-arrow">
+            <div class="h-arrow-svg">→</div>
+            <div class="h-arrow-label">Pair<br/>Iterables</div>
+          </div>
+          <!-- Reducer -->
+          <div class="mr-box cooc reducer tooltip-wrap">
+            <div class="mr-box-icon">⚙️</div>
+            <div class="mr-box-title highlight-pink">Reducer</div>
+            <div class="mr-box-class">CoOccurrenceReducer.java</div>
+            <div class="mr-box-desc">Sum all 1s per pair<br/>→ emit (pair, count)</div>
+            <div class="tooltip-box">
+              Reducer&lt;Text, IntWritable, Text, IntWritable&gt;<br/>
+              "the book" [1,1,1,1] → &lt;"the book", 4&gt;
+            </div>
+          </div>
+        </div>
+
+        <!-- Co-Occ IO Table -->
+        <div style="padding: 0 20px 20px;">
+          <table class="io-table">
+            <thead>
+              <tr><th>Stage</th><th>Key Type</th><th>Value Type</th><th>Example</th></tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Mapper Input</td>
+                <td class="io-key">Object</td>
+                <td class="io-value">Text (line)</td>
+                <td><span style="color:var(--text-muted)">"machine learning is powerful"</span></td>
+              </tr>
+              <tr>
+                <td>Filter check</td>
+                <td class="io-key">word[i]</td>
+                <td class="io-value">∈ top10Words?</td>
+                <td><span class="io-key">top10Words.contains("machine")</span> <span class="io-arrow">→</span> <span class="io-value">true</span></td>
+              </tr>
+              <tr>
+                <td>Mapper Output</td>
+                <td class="io-key">Text (pair)</td>
+                <td class="io-value">IntWritable (1)</td>
+                <td><span class="io-key">"machine learning"</span> <span class="io-arrow">→</span> <span class="io-value">1</span></td>
+              </tr>
+              <tr>
+                <td>After Shuffle</td>
+                <td class="io-key">Text (pair)</td>
+                <td class="io-value">Iterable&lt;IntWritable&gt;</td>
+                <td><span class="io-key">"machine learning"</span> <span class="io-arrow">→</span> <span class="io-value">[1,1,1,1,1]</span></td>
+              </tr>
+              <tr>
+                <td>Reducer Output</td>
+                <td class="io-key">Text (pair)</td>
+                <td class="io-value">IntWritable (count)</td>
+                <td><span class="io-key">"machine learning"</span> <span class="io-arrow">→</span> <span class="io-value">5</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT: HADOOP CLUSTER -->
+    <div>
+      <div class="section-title">Hadoop Cluster</div>
+      <div class="card cyan" style="margin-bottom:16px;">
+        <div class="card-title"><span class="dot dot-cyan"></span>HDFS</div>
+        <div class="cluster-card">
+          <div class="cluster-service">
+            <div class="service-icon-wrap si-hdfs">🖥️</div>
+            <div class="service-info">
+              <div class="service-name" style="color:var(--hdfs-color)">NameNode</div>
+              <div class="service-url">localhost:9870</div>
+              <div class="service-desc">Manages metadata &amp; namespace</div>
+            </div>
+          </div>
+          <div class="cluster-service">
+            <div class="service-icon-wrap si-hdfs">💾</div>
+            <div class="service-info">
+              <div class="service-name" style="color:var(--hdfs-color)">DataNode</div>
+              <div class="service-url">Stores blocks (128 MB)</div>
+              <div class="service-desc">Actual data storage + replication</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card purple" style="margin-bottom:16px;">
+        <div class="card-title"><span class="dot dot-purple"></span>YARN</div>
+        <div class="cluster-card">
+          <div class="cluster-service">
+            <div class="service-icon-wrap si-yarn">🎯</div>
+            <div class="service-info">
+              <div class="service-name" style="color:var(--yarn-color)">ResourceManager</div>
+              <div class="service-url">localhost:8088</div>
+              <div class="service-desc">Global resource scheduler</div>
+            </div>
+          </div>
+          <div class="cluster-service">
+            <div class="service-icon-wrap si-yarn">⚡</div>
+            <div class="service-info">
+              <div class="service-name" style="color:var(--yarn-color)">NodeManager</div>
+              <div class="service-url">Per node resource mgmt</div>
+              <div class="service-desc">Launches Map/Reduce tasks</div>
+            </div>
+          </div>
+          <div class="cluster-service">
+            <div class="service-icon-wrap si-yarn">🗃️</div>
+            <div class="service-info">
+              <div class="service-name" style="color:var(--yarn-color)">ApplicationMaster</div>
+              <div class="service-url">Per MR Job</div>
+              <div class="service-desc">Negotiates resources, monitors tasks</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card blue" style="margin-bottom:16px;">
+        <div class="card-title"><span class="dot dot-blue"></span>Java Environment</div>
+        <div class="cluster-card">
+          <div class="cluster-service">
+            <div class="service-icon-wrap si-java">☕</div>
+            <div class="service-info">
+              <div class="service-name" style="color:var(--accent-orange)">JDK 8</div>
+              <div class="service-url">C:\Java\jdk-8.0.492.9-hotspot</div>
+              <div class="service-desc">Compiles &amp; runs all Java classes</div>
+            </div>
+          </div>
+        </div>
+        <div class="code-block" style="margin-top:12px;">
+<span class="cmt"># Compile</span>
+<span class="kw">javac</span> -classpath <span class="str">"%HADOOP_HOME%\..."</span> \
+  -d bin src\wordCount\*.java
+
+<span class="cmt"># Package</span>
+<span class="kw">jar</span> -cvf wc.jar -C bin .
+
+<span class="cmt"># Run on YARN</span>
+<span class="kw">hadoop jar</span> wc.jar wordCount.WordCount \
+  /BigData/CommonCrawlData \
+  /BigData/CommonCrawlWordCount
+        </div>
+      </div>
+
+      <div class="card green">
+        <div class="card-title"><span class="dot dot-green"></span>Job Status</div>
+        <div style="display:flex;gap:8px;flex-direction:column;">
+          <div style="display:flex;align-items:center;gap:8px;padding:8px;background:var(--surface2);border-radius:8px;">
+            <span class="live-dot"></span>
+            <span style="font-size:11px;font-weight:700;color:var(--mapred-color)">Word Count</span>
+            <span style="margin-left:auto;font-size:10px;color:var(--text-dim)">SUCCEEDED ✓</span>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;padding:8px;background:var(--surface2);border-radius:8px;">
+            <span class="live-dot" style="background:var(--topn-color)"></span>
+            <span style="font-size:11px;font-weight:700;color:var(--topn-color)">Top-N</span>
+            <span style="margin-left:auto;font-size:10px;color:var(--text-dim)">DONE ✓</span>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;padding:8px;background:var(--surface2);border-radius:8px;">
+            <span class="live-dot" style="background:var(--cooc-color)"></span>
+            <span style="font-size:11px;font-weight:700;color:var(--cooc-color)">Co-Occurrence</span>
+            <span style="margin-left:auto;font-size:10px;color:var(--text-dim)">SUCCEEDED ✓</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 3: STEP-BY-STEP MAPPER DETAIL               -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <section class="detail-section section-anchor">
+    <div class="section-title">② Word Count Mapper — Step-by-Step Internal Logic</div>
+    <div class="step-grid">
+      <div class="step-card" style="border-top:2px solid var(--hdfs-color);">
+        <div class="step-number">1</div>
+        <div class="step-icon">📥</div>
+        <div class="step-title" style="color:var(--hdfs-color)">Receive Input Line</div>
+        <div class="step-desc">Hadoop's TextInputFormat splits HDFS files into chunks. LineRecordReader feeds each line as a Text value to the mapper.</div>
+        <div class="step-example">key: <span class="arrow">LongWritable</span> (byte offset)<br/>val: <span class="arrow">Text</span> "Machine LEARNING is powerful"</div>
+      </div>
+      <div class="step-card" style="border-top:2px solid #fbbf24;">
+        <div class="step-number">2</div>
+        <div class="step-icon">🔡</div>
+        <div class="step-title" style="color:#fbbf24">Lowercase Conversion</div>
+        <div class="step-desc">The entire line is converted to lowercase so "Machine" and "machine" are counted as the same word.</div>
+        <div class="step-example">line.toLowerCase()<br/>"machine learning is powerful"</div>
+      </div>
+      <div class="step-card" style="border-top:2px solid var(--accent-orange);">
+        <div class="step-number">3</div>
+        <div class="step-icon">🧹</div>
+        <div class="step-title" style="color:var(--accent-orange)">Strip Punctuation</div>
+        <div class="step-desc">All non-alphanumeric characters (except spaces) are removed using regex, leaving only clean words.</div>
+        <div class="step-example">replaceAll("[^a-zA-Z0-9\s]", "")<br/>"machine learning is powerful"</div>
+      </div>
+      <div class="step-card" style="border-top:2px solid var(--accent-purple);">
+        <div class="step-number">4</div>
+        <div class="step-icon">✂️</div>
+        <div class="step-title" style="color:var(--accent-purple)">Tokenize (Split)</div>
+        <div class="step-desc">Split the cleaned line by one or more whitespace characters to produce an array of individual word tokens.</div>
+        <div class="step-example">line.split("\\s+")<br/>["machine","learning","is","powerful"]</div>
+      </div>
+      <div class="step-card" style="border-top:2px solid var(--mapred-color);">
+        <div class="step-number">5</div>
+        <div class="step-icon">📤</div>
+        <div class="step-title" style="color:var(--mapred-color)">Emit Key-Value Pairs</div>
+        <div class="step-desc">For each non-empty token, emit the word as key and integer 1 as value into the MapReduce context.</div>
+        <div class="step-example">context.write("machine", 1)<br/>context.write("learning", 1)<br/>context.write("is", 1)<br/>context.write("powerful", 1)</div>
+      </div>
+      <div class="step-card" style="border-top:2px solid var(--accent-blue);">
+        <div class="step-number">6</div>
+        <div class="step-icon">⚙️</div>
+        <div class="step-title" style="color:var(--accent-blue)">Reducer Aggregation</div>
+        <div class="step-desc">After Shuffle & Sort, reducer receives the same word with all its 1s. It sums them to get the total frequency across the entire corpus.</div>
+        <div class="step-example">"machine" → [1,1,1,1,1]<br/>sum = 5<br/>output: "machine" → 5</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 4: CO-OCCURRENCE MAPPER DETAIL              -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <section class="detail-section section-anchor">
+    <div class="section-title">③ Co-Occurrence Mapper — Detailed Logic with Distributed Cache</div>
+    <div class="cooc-detail">
+      <div class="cooc-detail-panel">
+        <div class="card-title" style="font-size:13px;margin-bottom:16px;"><span class="dot dot-pink"></span>setup() — Distributed Cache Loading</div>
+        <div class="step-desc" style="margin-bottom:12px;font-size:12px;">The <code style="background:rgba(0,0,0,0.3);padding:2px 6px;border-radius:4px;font-size:11px;">setup()</code> method runs once per Mapper JVM before any records are processed. It loads <code style="background:rgba(0,0,0,0.3);padding:2px 6px;border-radius:4px;font-size:11px;">top10.txt</code> from the distributed cache into a HashSet for O(1) lookups.</div>
+        <div class="code-block">
+<span class="cmt">// Called once before map() runs</span>
+<span class="kw">protected void</span> <span class="cls">setup</span>(Context ctx) {
+  URI[] cacheFiles = ctx.getCacheFiles();
+
+  <span class="cmt">// Find top10.txt in localized cache</span>
+  <span class="kw">for</span> (URI uri : cacheFiles) {
+    <span class="kw">if</span> (fileName.equals(<span class="str">"top10.txt"</span>)) {
+      top10File = fileName; <span class="kw">break</span>;
+    }
+  }
+
+  <span class="cmt">// Read words into HashSet</span>
+  BufferedReader reader = <span class="kw">new</span> BufferedReader(
+    <span class="kw">new</span> FileReader(top10File));
+
+  <span class="kw">while</span> ((line = reader.readLine()) != <span class="kw">null</span>) {
+    top10Words.add(parts[<span class="num">0</span>]); <span class="cmt">// word only</span>
+  }
+}
+        </div>
+      </div>
+      <div class="cooc-detail-panel">
+        <div class="card-title" style="font-size:13px;margin-bottom:16px;"><span class="dot dot-pink"></span>map() — Adjacent Pair Generation</div>
+        <div class="step-desc" style="margin-bottom:12px;font-size:12px;">For each line, the mapper slides through adjacent word pairs. It only emits a pair if the <em>first</em> word is in the Top-10 set — reducing output dramatically.</div>
+        <div class="code-block">
+<span class="cmt">// Runs for every input line</span>
+<span class="kw">public void</span> <span class="cls">map</span>(Object key, Text value, Context ctx) {
+  String[] words = line.split(<span class="str">"\\s+"</span>);
+
+  <span class="kw">for</span> (<span class="kw">int</span> i = <span class="num">0</span>; i &lt; words.length - <span class="num">1</span>; i++) {
+    String word1 = words[i];
+    String word2 = words[i + <span class="num">1</span>];
+
+    <span class="cmt">// FILTER: only Top-10 first words</span>
+    <span class="kw">if</span> (!top10Words.contains(word1)) <span class="kw">continue</span>;
+
+    <span class="cmt">// Emit adjacent pair</span>
+    pair.set(word1 + <span class="str">" "</span> + word2);
+    ctx.write(pair, ONE); <span class="cmt">// e.g. "the book" → 1</span>
+  }
+}
+        </div>
+        <div style="margin-top:14px;background:rgba(244,114,182,0.06);border:1px solid rgba(244,114,182,0.15);border-radius:10px;padding:12px;">
+          <div style="font-size:11px;font-weight:700;color:var(--cooc-color);margin-bottom:8px;">Example — Input line:</div>
+          <div style="font-family:monospace;font-size:11px;color:var(--text-muted);">"the book about machine learning"</div>
+          <div style="margin-top:8px;font-size:11px;color:var(--text-muted);">Assuming <span style="color:var(--cooc-color)">"the"</span> is in Top-10:</div>
+          <div style="margin-top:6px;font-family:monospace;font-size:11px;">
+            <span style="color:var(--cooc-color)">emit</span>: "the book" → 1<br/>
+            <span style="color:var(--text-dim)">skip</span>: "book about" (book ∉ top10)<br/>
+            <span style="color:var(--text-dim)">skip</span>: "about machine" (about ∉ top10)<br/>
+            <span style="color:var(--text-dim)">skip</span>: "machine learning" (machine ∉ top10)
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 5: HADOOP CLUSTER INTERNALS                 -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <section class="hadoop-internals section-anchor" id="hadoop">
+    <div style="grid-column:1/-1;margin-bottom:6px;">
+      <div class="section-title">④ Hadoop Cluster Internals</div>
+    </div>
+
+    <!-- HDFS -->
+    <div class="card cyan">
+      <div class="card-title"><span class="dot dot-cyan"></span>HDFS — Distributed File System</div>
+      <div class="hdfs-diagram">
+        <div class="nn-box">
+          <div class="nn-box-title">🖥️ NameNode</div>
+          <div class="nn-box-sub">Manages file namespace, block locations<br/>localhost:9870 | No actual data stored</div>
+        </div>
+        <div class="hdfs-v-arrow">│<br/>│<br/>▼</div>
+        <div class="dn-row">
+          <div class="dn-box">
+            <div class="dn-title">💾 DataNode 1</div>
+            <div class="dn-file">Block 0-128MB<br/>CleanedArticle1-200.txt</div>
+          </div>
+          <div class="dn-box">
+            <div class="dn-title">💾 DataNode 2</div>
+            <div class="dn-file">Block 128-256MB<br/>CleanedArticle201-400.txt</div>
+          </div>
+          <div class="dn-box">
+            <div class="dn-title">💾 DataNode 3</div>
+            <div class="dn-file">Block 256-384MB<br/>CleanedArticle401-600.txt</div>
+          </div>
+        </div>
+        <div style="font-size:10px;color:var(--text-dim);text-align:center;margin-top:4px;">
+          Each block replicated (replication factor = 3) across nodes for fault tolerance
+        </div>
+      </div>
+    </div>
+
+    <!-- YARN -->
+    <div class="card purple">
+      <div class="card-title"><span class="dot dot-purple"></span>YARN — Resource Management</div>
+      <div class="yarn-diagram">
+        <div class="rm-box">
+          <div class="rm-box-title">🎯 ResourceManager (localhost:8088)</div>
+          <div style="font-size:10px;color:var(--text-muted);margin-top:4px;">Accepts job submission, schedules containers, tracks app state</div>
+        </div>
+        <div class="yarn-v-arrow">│<br/>│<br/>▼</div>
+        <div class="nm-row">
+          <div class="nm-box">
+            <div class="nm-title">🗃️ ApplicationMaster</div>
+            <div class="nm-tasks">Per job: requests map &amp; reduce containers<br/>Monitors task progress</div>
+          </div>
+          <div class="nm-box">
+            <div class="nm-title">⚡ NodeManager</div>
+            <div class="nm-tasks">Per node: launches JVM containers<br/>Reports health to RM</div>
+          </div>
+        </div>
+        <div style="font-size:10px;color:var(--text-dim);text-align:center;margin-top:4px;">
+          Data locality: YARN tries to schedule Mapper on same node as HDFS data block
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 6: OUTPUTS                                  -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <section class="output-grid section-anchor" id="output">
+    <!-- Word Count output -->
+    <div class="output-panel">
+      <div class="output-panel-header">
+        <div class="output-panel-title">
+          <span style="color:var(--mapred-color)">📊</span>
+          Word Count Output
+        </div>
+        <div class="output-panel-path">output/wordcount.txt — 43,017 unique words</div>
+      </div>
+      <div class="output-rows">
+        <div style="font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--text-dim);margin-bottom:10px;">Top words by frequency</div>
+        <div class="output-row">
+          <span class="row-rank">#1</span>
+          <span class="row-word">the</span>
+          <span class="row-count">~180k</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:100%;background:linear-gradient(90deg,#34d399,#22d3ee)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-rank">#2</span>
+          <span class="row-word">of</span>
+          <span class="row-count">~120k</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:67%;background:linear-gradient(90deg,#34d399,#22d3ee)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-rank">#3</span>
+          <span class="row-word">and</span>
+          <span class="row-count">~110k</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:61%;background:linear-gradient(90deg,#34d399,#22d3ee)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-rank">#4</span>
+          <span class="row-word">to</span>
+          <span class="row-count">~100k</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:56%;background:linear-gradient(90deg,#34d399,#22d3ee)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-rank">#5</span>
+          <span class="row-word">a</span>
+          <span class="row-count">~80k</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:44%;background:linear-gradient(90deg,#34d399,#22d3ee)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-rank">#6</span>
+          <span class="row-word">in</span>
+          <span class="row-count">~70k</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:39%;background:linear-gradient(90deg,#34d399,#22d3ee)"></div></div>
+        </div>
+        <div style="font-family:monospace;font-size:10px;color:var(--text-dim);margin-top:12px;padding:8px;background:rgba(0,0,0,0.2);border-radius:6px;">
+          Format: word &lt;TAB&gt; count<br/>
+          HDFS: /BigData/CommonCrawlWordCount/part-r-00000<br/>
+          Size: ~480 KB | ✓ _SUCCESS flag present
+        </div>
+      </div>
+    </div>
+
+    <!-- Co-Occurrence output -->
+    <div class="output-panel">
+      <div class="output-panel-header">
+        <div class="output-panel-title">
+          <span style="color:var(--cooc-color)">🔗</span>
+          Co-Occurrence Output
+        </div>
+        <div class="output-panel-path">WordCooccurrenceOutput/coOccurrence/cooccurrence.txt — 238,582 pairs</div>
+      </div>
+      <div class="output-rows">
+        <div style="font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--text-dim);margin-bottom:10px;">Sample word-pair frequencies</div>
+        <div class="output-row">
+          <span class="row-word" style="color:var(--cooc-color)">the book</span>
+          <span class="row-count">high</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:80%;background:linear-gradient(90deg,#f472b6,#a78bfa)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-word" style="color:var(--cooc-color)">the world</span>
+          <span class="row-count">high</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:70%;background:linear-gradient(90deg,#f472b6,#a78bfa)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-word" style="color:var(--cooc-color)">of the</span>
+          <span class="row-count">very high</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:95%;background:linear-gradient(90deg,#f472b6,#a78bfa)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-word" style="color:var(--cooc-color)">in the</span>
+          <span class="row-count">high</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:75%;background:linear-gradient(90deg,#f472b6,#a78bfa)"></div></div>
+        </div>
+        <div class="output-row">
+          <span class="row-word" style="color:var(--cooc-color)">to the</span>
+          <span class="row-count">medium</span>
+          <div class="row-bar-wrap"><div class="row-bar" style="width:50%;background:linear-gradient(90deg,#f472b6,#a78bfa)"></div></div>
+        </div>
+        <div style="font-family:monospace;font-size:10px;color:var(--text-dim);margin-top:12px;padding:8px;background:rgba(0,0,0,0.2);border-radius:6px;">
+          Format: "word1 word2" &lt;TAB&gt; count<br/>
+          HDFS: /BigData/CoOccurrenceOutput/part-r-00000<br/>
+          238,582 unique pairs | Top-10 words as anchors
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ════════════════════════════════════════════════════ -->
+  <!-- SECTION 7: SOURCE FILE MAP                          -->
+  <!-- ════════════════════════════════════════════════════ -->
+  <section class="detail-section section-anchor">
+    <div class="section-title">⑤ Source File Map</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;">
+      <div class="card green">
+        <div class="card-title" style="font-size:11px;"><span class="dot dot-green"></span>Word Count</div>
+        <div class="data-node" style="margin-bottom:6px;"><span class="data-node-icon">🗺️</span><span class="data-node-label" style="font-size:10px;">WordCountMapper.java</span></div>
+        <div class="data-node" style="margin-bottom:6px;"><span class="data-node-icon">⚙️</span><span class="data-node-label" style="font-size:10px;">WordCountReducer.java</span></div>
+        <div class="data-node"><span class="data-node-icon">🚀</span><span class="data-node-label" style="font-size:10px;">WordCount.java (Driver)</span></div>
+      </div>
+      <div class="card pink">
+        <div class="card-title" style="font-size:11px;"><span class="dot dot-pink"></span>Co-Occurrence</div>
+        <div class="data-node" style="margin-bottom:6px;"><span class="data-node-icon">🗺️</span><span class="data-node-label" style="font-size:10px;">CoOccurrenceMapper.java</span></div>
+        <div class="data-node" style="margin-bottom:6px;"><span class="data-node-icon">⚙️</span><span class="data-node-label" style="font-size:10px;">CoOccurrenceReducer.java</span></div>
+        <div class="data-node"><span class="data-node-icon">🚀</span><span class="data-node-label" style="font-size:10px;">CoOccurrence.java (Driver)</span></div>
+      </div>
+      <div class="card yellow">
+        <div class="card-title" style="font-size:11px;"><span class="dot dot-yellow"></span>Top-N &amp; Preprocessing</div>
+        <div class="data-node" style="margin-bottom:6px;"><span class="data-node-icon">🏆</span><span class="data-node-label" style="font-size:10px;">TopNWords.java</span></div>
+        <div class="data-node"><span class="data-node-icon">🧹</span><span class="data-node-label" style="font-size:10px;">DataCleaner.java</span></div>
+      </div>
+      <div class="card blue">
+        <div class="card-title" style="font-size:11px;"><span class="dot dot-blue"></span>Python Analysis</div>
+        <div class="data-node" style="margin-bottom:6px;"><span class="data-node-icon">📊</span><span class="data-node-label" style="font-size:10px;">dashboard.py</span></div>
+        <div class="data-node"><span class="data-node-icon">🔍</span><span class="data-node-label" style="font-size:10px;">_insert_explorer.py</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div><span class="live-dot" style="margin-right:6px;"></span> Hadoop 3.3.6 · Java 8 · HDFS + YARN · Windows</div>
+    <div style="margin-top:6px;">Big Data Analysis using MapReduce — Architecture Diagram</div>
+  </footer>
+
+</div>
+</body>
+</html>

@@ -20,6 +20,13 @@ from collections import defaultdict
 import warnings
 warnings.filterwarnings("ignore")
 
+# ── Phase 2 : Spark ML module ────────────────────────────────────────────────
+try:
+    import spark_ml
+    SPARK_ML_AVAILABLE = spark_ml.is_available()
+except ImportError:
+    SPARK_ML_AVAILABLE = False
+
 # ── Actual Top 10 from MapReduce top10.txt ──────────────────
 ACTUAL_TOP10 = [
     ("the",     204111),
@@ -534,10 +541,10 @@ top_pair = f"{cooc_df.iloc[0]['word1']} ↔ {cooc_df.iloc[0]['word2']}" if not c
 # ─────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero-banner">
-    <div class="hero-title">🔬 Big Data MapReduce Analysis</div>
+    <div class="hero-title">🔬 Big Data MapReduce + Spark Analysis</div>
     <div class="hero-subtitle">
         Common Crawl Text Analysis &nbsp;|&nbsp; Hadoop 3.3.6 &nbsp;|&nbsp;
-        MapReduce Word Count + Co-Occurrence &nbsp;|&nbsp; Interactive NLP Dashboard
+        MapReduce ETL + Spark In-Memory ML &nbsp;|&nbsp; Hybrid Pipeline Dashboard
     </div>
     <div class="pipeline" style="margin-top:1.5rem;">
         <span class="pipeline-step">📦 Common Crawl</span>
@@ -546,9 +553,11 @@ st.markdown("""
         <span class="pipeline-arrow">→</span>
         <span class="pipeline-step">🐘 Hadoop HDFS</span>
         <span class="pipeline-arrow">→</span>
-        <span class="pipeline-step">⚡ MapReduce</span>
+        <span class="pipeline-step">⚡ MapReduce ETL</span>
         <span class="pipeline-arrow">→</span>
-        <span class="pipeline-step">📊 Analysis</span>
+        <span class="pipeline-step">🚀 Spark DataFrames</span>
+        <span class="pipeline-arrow">→</span>
+        <span class="pipeline-step">🤖 ML Pipelines</span>
         <span class="pipeline-arrow">→</span>
         <span class="pipeline-step">🎯 Insights</span>
     </div>
@@ -599,13 +608,14 @@ st.markdown("<div style='height:1rem;'></div>", unsafe_allow_html=True)
 # ─────────────────────────────────────────────────────────────
 # TABS
 # ─────────────────────────────────────────────────────────────
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "📊 Word Frequency",
     "☁️ Word Cloud",
     "🔥 Co-Occurrence Heatmap",
     "🕸️ Word Network",
     "📋 Key Findings",
     "🔍 Word Explorer",
+    "🚀 Spark ML",
 ])
 
 
@@ -1505,6 +1515,282 @@ with tab6:
             ),
             unsafe_allow_html=True,
         )
+
+
+# ══════════════════════════════════════════════════════════════
+# TAB 7 — SPARK ML PHASE 2
+# ══════════════════════════════════════════════════════════════
+with tab7:
+    st.markdown("""
+    <div class="section-heading">
+        🚀 Spark ML — In-Memory Iterative Machine Learning
+        <span class="badge" style="background:linear-gradient(135deg,#F7971E,#FFD200);color:#000;">Phase 2</span>
+    </div>""", unsafe_allow_html=True)
+
+    st.markdown("""
+    <div style='color:#9090AA;font-size:0.88rem;margin:-0.5rem 0 1.5rem 0;line-height:1.6;'>
+        This phase demonstrates <b>Spark's in-memory ML capabilities</b> consuming the MapReduce outputs directly.
+        While MapReduce excels at one-pass ETL, Spark handles iterative algorithms efficiently.
+    </div>
+    """, unsafe_allow_html=True)
+
+    if not SPARK_ML_AVAILABLE:
+        st.error("""
+        ⚠️ **PySpark not installed**
+        
+        To enable Spark ML features, install PySpark:
+        ```bash
+        pip install pyspark
+        ```
+        
+        This tab showcases how Spark DataFrames consume MapReduce output for:
+        - TF-IDF vectorization
+        - K-Means clustering
+        - LDA topic modeling
+        """)
+    else:
+        # Get Spark summary
+        spark_info = spark_ml.get_spark_summary()
+        
+        st.markdown(f"""
+        <div style='background:rgba(67,233,123,0.08);border:1px solid rgba(67,233,123,0.2);
+                    border-radius:12px;padding:1rem 1.3rem;margin-bottom:1.5rem;'>
+            <div style='display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;font-size:0.82rem;'>
+                <div>
+                    <div style='color:#43E97B;font-weight:700;'>Status</div>
+                    <div style='color:#FFFFFF;'>{spark_info.get('status', 'N/A')}</div>
+                </div>
+                <div>
+                    <div style='color:#43E97B;font-weight:700;'>Spark Version</div>
+                    <div style='color:#FFFFFF;'>{spark_info.get('spark_version', 'N/A')}</div>
+                </div>
+                <div>
+                    <div style='color:#43E97B;font-weight:700;'>Input Records (WC)</div>
+                    <div style='color:#FFFFFF;'>{spark_info.get('wc_records', 0):,}</div>
+                </div>
+                <div>
+                    <div style='color:#43E97B;font-weight:700;'>Input Records (Co-occ)</div>
+                    <div style='color:#FFFFFF;'>{spark_info.get('cooc_records', 0):,}</div>
+                </div>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+        # ML Pipeline selector
+        ml_pipeline = st.selectbox(
+            "🤖 Select ML Pipeline",
+            ["TF-IDF Term Importance", "K-Means Word Clustering", "LDA Topic Modeling"],
+            help="Choose which Spark ML algorithm to run on the MapReduce outputs"
+        )
+
+        # ── Pipeline 1: TF-IDF ────────────────────────────────────────────────
+        if ml_pipeline == "TF-IDF Term Importance":
+            st.markdown("""
+            <div class="section-heading" style="font-size:1.1rem;">
+                📐 TF-IDF Vectorization
+            </div>
+            <div style='color:#AAAACC;font-size:0.85rem;margin-bottom:1rem;line-height:1.6;'>
+                Computes Term Frequency-Inverse Document Frequency scores to identify 
+                the most distinctive words. Higher scores = more important terms.
+            </div>
+            """, unsafe_allow_html=True)
+
+            col1, col2 = st.columns([1, 1])
+            with col1:
+                tfidf_n = st.slider("Number of words", 20, 200, 100, 10, key="tfidf_n")
+            with col2:
+                tfidf_features = st.slider("Feature dimensions", 128, 1024, 512, 128, key="tfidf_feat")
+
+            if st.button("🚀 Run TF-IDF Analysis", key="run_tfidf"):
+                with st.spinner("⚡ Running Spark TF-IDF pipeline..."):
+                    tfidf_result = spark_ml.run_tfidf(top_n=tfidf_n, num_features=tfidf_features)
+                    
+                    if "error" not in tfidf_result.columns:
+                        st.success(f"✅ TF-IDF computed for {len(tfidf_result)} words")
+                        
+                        # Visualize
+                        fig_tfidf = px.bar(
+                            tfidf_result.head(30).sort_values("tfidf_score"),
+                            x="tfidf_score", y="word", orientation="h",
+                            color="tfidf_score", color_continuous_scale="Viridis",
+                            title="Top 30 Words by TF-IDF Score",
+                            labels={"tfidf_score": "TF-IDF Score", "word": "Word"}
+                        )
+                        fig_tfidf.update_layout(
+                            paper_bgcolor="#0D0D1A", plot_bgcolor="#141428",
+                            font=dict(family="Inter", color="#AAAACC"),
+                            title_font=dict(size=16, color="#FFFFFF"),
+                            coloraxis_showscale=False, height=700,
+                            margin=dict(l=20, r=40, t=50, b=20),
+                        )
+                        st.plotly_chart(fig_tfidf, use_container_width=True)
+                        
+                        # Show data
+                        st.markdown("**📊 TF-IDF Results**")
+                        st.dataframe(
+                            tfidf_result.head(50).style.background_gradient(
+                                subset=["tfidf_score"], cmap="Greens"
+                            ).format({"frequency": "{:,}", "tfidf_score": "{:.4f}"}),
+                            use_container_width=True, height=400
+                        )
+                    else:
+                        st.error(f"❌ {tfidf_result['error'].iloc[0]}")
+
+        # ── Pipeline 2: K-Means ───────────────────────────────────────────────
+        elif ml_pipeline == "K-Means Word Clustering":
+            st.markdown("""
+            <div class="section-heading" style="font-size:1.1rem;">
+                🎯 K-Means Clustering
+            </div>
+            <div style='color:#AAAACC;font-size:0.85rem;margin-bottom:1rem;line-height:1.6;'>
+                Groups words into clusters based on frequency patterns and co-occurrence features.
+                Uses Spark MLlib's distributed K-Means implementation.
+            </div>
+            """, unsafe_allow_html=True)
+
+            col1, col2 = st.columns([1, 1])
+            with col1:
+                kmeans_k = st.slider("Number of clusters (k)", 3, 12, 6, 1, key="kmeans_k")
+            with col2:
+                kmeans_n = st.slider("Number of words", 50, 300, 150, 25, key="kmeans_n")
+
+            if st.button("🚀 Run K-Means Clustering", key="run_kmeans"):
+                with st.spinner("⚡ Running Spark K-Means..."):
+                    kmeans_result = spark_ml.run_kmeans(k=kmeans_k, top_n=kmeans_n)
+                    
+                    if "error" not in kmeans_result.columns:
+                        st.success(f"✅ Clustered {len(kmeans_result)} words into {kmeans_k} groups")
+                        
+                        # Cluster distribution
+                        cluster_counts = kmeans_result['cluster'].value_counts().sort_index()
+                        fig_cluster = px.bar(
+                            x=cluster_counts.index, y=cluster_counts.values,
+                            color=cluster_counts.values, color_continuous_scale="Plasma",
+                            title=f"Cluster Size Distribution (K={kmeans_k})",
+                            labels={"x": "Cluster ID", "y": "Word Count"}
+                        )
+                        fig_cluster.update_layout(
+                            paper_bgcolor="#0D0D1A", plot_bgcolor="#141428",
+                            font=dict(family="Inter", color="#AAAACC"),
+                            title_font=dict(size=16, color="#FFFFFF"),
+                            coloraxis_showscale=False, height=400,
+                        )
+                        st.plotly_chart(fig_cluster, use_container_width=True)
+                        
+                        # Show clusters
+                        for cluster_id in sorted(kmeans_result['cluster'].unique()):
+                            cluster_words = kmeans_result[kmeans_result['cluster'] == cluster_id]
+                            top_words = cluster_words.nlargest(10, 'frequency')['word'].tolist()
+                            
+                            st.markdown(f"""
+                            <div style='background:rgba(108,99,255,0.08);border-left:3px solid #6C63FF;
+                                        border-radius:0 10px 10px 0;padding:0.8rem 1rem;margin-bottom:0.8rem;'>
+                                <div style='font-weight:700;color:#B0AAFF;margin-bottom:0.3rem;'>
+                                    Cluster {cluster_id} ({len(cluster_words)} words)
+                                </div>
+                                <div style='color:#AAAACC;font-size:0.85rem;'>
+                                    {' • '.join(top_words)}
+                                </div>
+                            </div>
+                            """, unsafe_allow_html=True)
+                        
+                        # Full data
+                        with st.expander("📊 View All Cluster Assignments"):
+                            st.dataframe(
+                                kmeans_result.style.format({
+                                    "frequency": "{:,}", 
+                                    "mean_cooc": "{:.2f}"
+                                }),
+                                use_container_width=True, height=400
+                            )
+                    else:
+                        st.error(f"❌ {kmeans_result['error'].iloc[0]}")
+
+        # ── Pipeline 3: LDA ───────────────────────────────────────────────────
+        elif ml_pipeline == "LDA Topic Modeling":
+            st.markdown("""
+            <div class="section-heading" style="font-size:1.1rem;">
+                🧠 Latent Dirichlet Allocation (LDA)
+            </div>
+            <div style='color:#AAAACC;font-size:0.85rem;margin-bottom:1rem;line-height:1.6;'>
+                Discovers latent topics in the vocabulary based on co-occurrence patterns.
+                Each word is assigned a topic distribution showing its semantic roles.
+            </div>
+            """, unsafe_allow_html=True)
+
+            col1, col2, col3 = st.columns([1, 1, 1])
+            with col1:
+                lda_topics = st.slider("Number of topics", 3, 10, 5, 1, key="lda_topics")
+            with col2:
+                lda_n = st.slider("Vocabulary size", 100, 300, 200, 25, key="lda_n")
+            with col3:
+                lda_top = st.slider("Words per topic", 5, 15, 10, 1, key="lda_top")
+
+            if st.button("🚀 Run LDA Topic Modeling", key="run_lda"):
+                with st.spinner("⚡ Running Spark LDA..."):
+                    lda_result = spark_ml.run_lda(
+                        num_topics=lda_topics, 
+                        top_n_words=lda_n,
+                        top_words_per_topic=lda_top
+                    )
+                    
+                    topics_df = lda_result.get("topics")
+                    word_topics_df = lda_result.get("word_topics")
+                    
+                    if topics_df is not None and "error" not in topics_df.columns:
+                        st.success(f"✅ Discovered {lda_topics} latent topics")
+                        
+                        # Display topics
+                        st.markdown("### 📚 Discovered Topics")
+                        for _, row in topics_df.iterrows():
+                            topic_id = int(row['topic_id'])
+                            words = row['top_words']
+                            weights = row['weights']
+                            
+                            st.markdown(f"""
+                            <div style='background:linear-gradient(135deg,rgba(255,101,132,0.08),rgba(108,99,255,0.08));
+                                        border:1px solid rgba(255,101,132,0.2);border-radius:12px;
+                                        padding:1rem 1.3rem;margin-bottom:1rem;'>
+                                <div style='font-weight:800;color:#FF6584;font-size:1rem;margin-bottom:0.5rem;'>
+                                    Topic {topic_id}
+                                </div>
+                                <div style='color:#FFFFFF;font-size:0.9rem;margin-bottom:0.3rem;'>
+                                    {words}
+                                </div>
+                                <div style='color:#8888AA;font-size:0.75rem;'>
+                                    Weights: {weights}
+                                </div>
+                            </div>
+                            """, unsafe_allow_html=True)
+                        
+                        # Word assignments
+                        if word_topics_df is not None and not word_topics_df.empty:
+                            st.markdown("### 🎯 Word-Topic Assignments")
+                            st.dataframe(
+                                word_topics_df.head(100),
+                                use_container_width=True, height=400
+                            )
+                    else:
+                        st.error(f"❌ {topics_df['error'].iloc[0] if topics_df is not None else 'Unknown error'}")
+
+        # Architecture diagram
+        st.markdown("<div style='height:2rem;'></div>", unsafe_allow_html=True)
+        st.markdown("""
+        <div class="insight-strip">
+            <div class="insight-item">🔄 
+                <span><b>Data Flow:</b> MapReduce outputs (wordcount.txt, cooccurrence.txt) 
+                → Spark DataFrames → ML Pipelines → Insights</span>
+            </div>
+            <div class="insight-item">⚡ 
+                <span><b>Why Spark?</b> In-memory processing enables iterative algorithms 
+                (TF-IDF, K-Means, LDA) that would be inefficient in MapReduce's disk-based paradigm.</span>
+            </div>
+            <div class="insight-item">🎯 
+                <span><b>Hybrid Architecture:</b> Use MapReduce for one-pass ETL (cleaning, counting), 
+                then Spark for iterative ML. Best of both worlds.</span>
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
 
 
 # ─────────────────────────────────────────────────────────────
